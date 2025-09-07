@@ -1,0 +1,336 @@
+{
+  "name": "Header",
+  "type": "header",
+  "sections": {
+    "scrolling_text_yxEnq8": {
+      "type": "scrolling-text",
+      "blocks": {
+        "text_bBdJGq": {
+          "type": "text",
+          "settings": {
+            "text": "Free shipping on orders $50",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_ycBWt9": {
+          "type": "text",
+          "settings": {
+            "text": "/",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_RfPKKq": {
+          "type": "text",
+          "settings": {
+            "text": "Unlock save 15% off now",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_GVnVTP": {
+          "type": "text",
+          "settings": {
+            "text": "/",
+            "link": "",
+            "outline_text": false
+          }
+        }
+      },
+      "block_order": [
+        "text_bBdJGq",
+        "text_ycBWt9",
+        "text_RfPKKq",
+        "text_GVnVTP"
+      ],
+      "settings": {
+        "section_width": "w-full",
+
+        "text_size": "size-base",
+        "pause_scroll_on_hover": true,
+        "spacing": 80,
+        "spacing_mobile": 30,
+        "image_width": 24,
+        "speed": 20,
+        "direction": "left",
+        "bg_color": "rgba(0,0,0,0)",
+        "text_color": "#daff35",
+        "border_color": "",
+        "padding_top": 8,
+        "padding_bottom": 8,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement_V6KR4N": {
+          "type": "announcement",
+          "settings": {
+            "text": "Unlock save 15% off ⚡",
+            "icon": "none",
+            "link": "",
+            "show_countdown": true,
+            "end_time": "2025/12/31 23:59:59"
+          }
+        },
+        "announcement_DMqDEM": {
+          "type": "announcement",
+          "settings": {
+            "text": "Free shipping on orders of $49+",
+            "icon": "box",
+            "link": "",
+            "show_countdown": false,
+            "end_time": "2025/12/31 23:59:59"
+          }
+        }
+      },
+      "block_order": [
+        "announcement_V6KR4N",
+        "announcement_DMqDEM"
+      ],
+      "disabled": true,
+      "settings": {
+        "announcement_width": "large",
+        "announcement_height": "large",
+        "show_arrows": true,
+        "auto_rotate": false,
+        "change_slides_speed": 3,
+        "animation_slides": "slide",
+        "bg_color": "#000000",
+        "text_color": "#daff35",
+        "border_color": "",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "w-full"
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "megamenu_RMjg88": {
+          "type": "megamenu",
+          "settings": {
+            "menu_item": "Shop",
+            "label_text": "New",
+            "label_color": "#d2fe0d",
+            "label_bg_color": "#353535",
+            "menu_width": "container-fluid",
+            "columns_link": 5,
+            "show_border": false,
+            "enable_custom_image_nav": false,
+            "custom_image_config": "",
+            "show_banner": true,
+            "postion_banner": "right",
+            "columns_banner": 45,
+            "columns_banner_per_row": 3,
+
+            "image_ratio_1": "square",
+
+            "align_text_1": "bottom-center",
+            "sub_title_1": "",
+            "title_1": "",
+            "heading_size_1": "h4",
+            "text_1": "",
+            "type_button_1": "primary-white",
+            "text_button_1": "North America",
+            "text_color_1": "#ffffff",
+            "overlay_color_1": "#000000",
+            "overlay_opacity_1": 30,
+            "overlay_gradient_1": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)",
+
+            "image_ratio_2": "square",
+
+            "align_text_2": "bottom-center",
+            "sub_title_2": "",
+            "title_2": "",
+            "heading_size_2": "h4",
+            "text_2": "",
+            "type_button_2": "primary-white",
+            "text_button_2": "Over Clothing",
+            "text_color_2": "#ffffff",
+            "overlay_color_2": "#000000",
+            "overlay_opacity_2": 30,
+            "overlay_gradient_2": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)",
+
+            "image_ratio_3": "square",
+
+            "align_text_3": "bottom-center",
+            "sub_title_3": "",
+            "title_3": "",
+            "heading_size_3": "h3",
+            "text_3": "",
+            "type_button_3": "primary-white",
+            "text_button_3": "Shop Tops",
+            "text_color_3": "#ffffff",
+            "overlay_color_3": "#000000",
+            "overlay_opacity_3": 30,
+            "overlay_gradient_3": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)",
+            "image_ratio_4": "adapt",
+            "url_4": "",
+            "align_text_4": "center-center",
+            "sub_title_4": "Sub heading",
+            "title_4": "Heading",
+            "heading_size_4": "h3",
+            "text_4": "<p>Add description text here.</p>",
+            "type_button_4": "primary",
+            "text_button_4": "Shop now",
+            "text_color_4": "#ffffff",
+            "overlay_color_4": "#000000",
+            "overlay_opacity_4": 30,
+            "overlay_gradient_4": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)",
+            "image_ratio_5": "adapt",
+            "url_5": "",
+            "align_text_5": "center-center",
+            "sub_title_5": "Sub heading",
+            "title_5": "Heading",
+            "heading_size_5": "h3",
+            "text_5": "<p>Add description text here.</p>",
+            "type_button_5": "primary",
+            "text_button_5": "Shop now",
+            "text_color_5": "#ffffff",
+            "overlay_color_5": "#000000",
+            "overlay_opacity_5": 30,
+            "overlay_gradient_5": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)",
+            "image_ratio_6": "adapt",
+            "url_6": "",
+            "align_text_6": "center-center",
+            "sub_title_6": "Sub heading",
+            "title_6": "Heading",
+            "heading_size_6": "h3",
+            "text_6": "<p>Add description text here.</p>",
+            "type_button_6": "primary",
+            "text_button_6": "Shop now",
+            "text_color_6": "#ffffff",
+            "overlay_color_6": "#000000",
+            "overlay_opacity_6": 30,
+            "overlay_gradient_6": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+          }
+        },
+        "link_next_icon_axYfL9": {
+          "type": "link_next_icon",
+          "settings": {
+            "menu_next_icon": "menu-next-icon",
+            "enable_style_menu": true
+          }
+        }
+      },
+      "block_order": [
+        "megamenu_RMjg88",
+        "link_next_icon_axYfL9"
+      ],
+      "custom_css": [
+        ".header.header--transparent:not(:hover):not(.is-sticky) .cart-count-bubble {color: rgb(var(--btn-solid-text));}"
+      ],
+      "settings": {
+        "section_width": "container-fluid",
+        "logo_position": "middle-center",
+
+        "logo_width": 150,
+        "logo_width_mobile": 130,
+        "menu": "main-menu",
+        "sticky_header_type": "always",
+        "show_line_separator": true,
+        "hide_line_separator_only_homepage": true,
+        "enable_country_selector": true,
+        "enable_country_flag": true,
+        "enable_country_name": false,
+        "use_menu_style": true,
+        "enable_language_selector": true,
+        "transparent_header": true,
+        "text_color_transparent_header": "#ffffff",
+
+        "mobile_logo_position": "center",
+        "enable_country_selector_mobile": true,
+        "enable_language_selector_mobile": true,
+        "margin_bottom": 0,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "hero_branding_bW8NRp": {
+      "type": "hero-branding",
+      "blocks": {
+        "subheading_PGpJxn": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "Subheading"
+          }
+        },
+        "heading_Wnx9K4": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "[f]Image[/f] Text Overlay",
+            "highlighted_word_type": "single_line",
+            "heading_size": "hxl"
+          }
+        },
+        "text_BHnXcU": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Give customers details about the banner image(s) or content on the template.</p>",
+            "large_text": false
+          }
+        },
+        "buttons_VmDJKi": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button text",
+            "button_link": "",
+            "button_type": "primary-white",
+            "show_icon": false,
+            "moving_button": false
+          }
+        },
+        "circular_text_habPx6": {
+          "type": "circular_text",
+          "settings": {
+            "text": "Scroll down • Expolre the shop  •",
+            "size": 70,
+            "font_size": 3.5,
+            "show_icon": true,
+            "show_border": false,
+            "show_background": true,
+            "background_opacity": 100,
+            "blur_background": 10,
+            "show_animation": true,
+            "background_color": "#ffffff",
+            "text_color": "#222222",
+            "border_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_PGpJxn",
+        "heading_Wnx9K4",
+        "text_BHnXcU",
+        "buttons_VmDJKi",
+        "circular_text_habPx6"
+      ],
+      "disabled": true,
+      "name": "Hero branding",
+      "settings": {
+
+
+        "color_text": "#ffffff",
+        "color_text_highlighted": "#daff35",
+        "overlay_color": "#000000",
+        "overlay_opacity": 70,
+        "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+      }
+    }
+  },
+  "order": [
+    "scrolling_text_yxEnq8",
+    "announcement-bar",
+    "header",
+    "hero_branding_bW8NRp"
+  ]
+}

@@ -1,0 +1,1265 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "section_width": "container",
+        "show_default_heading": true,
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "image_with_text_overlay_zygnHj": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_g6zbDx": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Bold, Authentic"
+          }
+        },
+        "separator_KRB3h4": {
+          "type": "separator",
+          "settings": {
+            "show_border": false,
+            "space": 4
+          }
+        },
+        "heading_QAMGQg": {
+          "type": "heading",
+          "settings": {
+            "heading": "More Than [f]Fashion[/f]. It’s a [f]Movement[/f].",
+            "highlighted_word_type": "single_line",
+            "heading_size": "h0"
+          }
+        },
+        "separator_qazcTY": {
+          "type": "separator",
+          "settings": {
+            "show_border": false,
+            "space": 2
+          }
+        },
+        "text_PNmHY4": {
+          "type": "text",
+          "settings": {
+            "text": "<h6>Street style is more than clothing — it’s identity, lifestyle, and a statement. We tell your story through every piece we make.<br/><br/></h6>",
+            "large_text": false
+          }
+        }
+      },
+      "block_order": [
+        "subheading_g6zbDx",
+        "separator_KRB3h4",
+        "heading_QAMGQg",
+        "separator_qazcTY",
+        "text_PNmHY4"
+      ],
+      "settings": {
+        "section_width": "w-full",
+
+        "link": "",
+        "desktop_height_mode": "full",
+        "desktop_fixed_height": 650,
+        "mobile_height_mode": "fixed",
+        "mobile_fixed_height": 550,
+        "desktop_content_position": "middle-center",
+        "mobile_content_position": "bottom-center",
+        "content_alignment": "center",
+        "mobile_content_alignment": "center",
+        "content_width": "max-w-5xl",
+        "enable_parallax": false,
+        "enable_scroll_reveal": true,
+        "enable_scroll_reveal_top": true,
+        "direction_scroll_reveal": "0",
+        "threshold_down": 1.3,
+        "color_text": "#ffffff",
+        "color_text_highlighted": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 40,
+        "overlay_gradient": ""
+      }
+    },
+    "content_tabs_Pik6nD": {
+      "type": "content-tabs",
+      "blocks": {
+        "tab_gmwAaR": {
+          "type": "tab",
+          "settings": {
+
+            "image_size": "landscape-v2",
+            "image_placement": "left",
+            "nav_label": "2000",
+            "subheading": "",
+            "heading": "The Birth of the Brand",
+            "heading_size": "h2",
+            "content": "<p>The fashion brand was founded with a mission to bring a fresh perspective to the industry, blending creativity with practicality. From the very beginning, we set out to define trends and craft designs that carry a unique identity.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_type": "primary",
+            "show_icon": false
+          }
+        },
+        "tab_JDCmBc": {
+          "type": "tab",
+          "settings": {
+
+            "image_size": "landscape-v2",
+            "image_placement": "left",
+            "nav_label": "2005",
+            "subheading": "",
+            "heading": "Launch of the First Collection",
+            "heading_size": "h2",
+            "content": "<p>After five years of development, the first collection was officially introduced, marking a significant milestone in the brand’s journey. With its distinctive style and premium materials, the collection quickly gained recognition and admiration from fashion enthusiasts.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_type": "primary",
+            "show_icon": false
+          }
+        },
+        "tab_8JaDCF": {
+          "type": "tab",
+          "settings": {
+
+            "image_size": "landscape-v2",
+            "image_placement": "left",
+            "nav_label": "2010",
+            "subheading": "",
+            "heading": "Opening of the First Flagship Store",
+            "heading_size": "h2",
+            "content": "<p>To meet the growing demand from customers, the brand opened its first flagship store in [location]. More than just a retail space, the store became a destination for fashion lovers to explore the latest designs and immerse themselves in a modern lifestyle experience.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_type": "primary",
+            "show_icon": false
+          }
+        },
+        "tab_JbBERb": {
+          "type": "tab",
+          "settings": {
+
+            "image_size": "landscape-v2",
+            "image_placement": "left",
+            "nav_label": "2015",
+            "subheading": "",
+            "heading": "Strategic Collaborations & Market Expansion",
+            "heading_size": "h2",
+            "content": "<p>Entering a phase of strong growth, the brand began collaborating with artists, influencers, and participating in major fashion events. At the same time, we expanded into international markets, bringing our designs to a global audience.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_type": "primary",
+            "show_icon": false
+          }
+        },
+        "tab_H6mXCB": {
+          "type": "tab",
+          "settings": {
+
+            "image_size": "landscape-v2",
+            "image_placement": "left",
+            "nav_label": "2020",
+            "subheading": "",
+            "heading": "Sustainability & Innovation",
+            "heading_size": "h2",
+            "content": "<p>Adapting to global trends, the brand embraced sustainability by utilizing eco-friendly materials and integrating advanced technology into the production process. This marked a crucial step in ensuring long-term growth and solidifying our position in the fashion industry.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_type": "primary",
+            "show_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "tab_gmwAaR",
+        "tab_JDCmBc",
+        "tab_8JaDCF",
+        "tab_JbBERb",
+        "tab_H6mXCB"
+      ],
+      "settings": {
+        "section_width": "container",
+        "type_tabs": "underline",
+        "enable_uppercase": false,
+        "tabs_font_family": "headings_font",
+        "tab_heading_size": "body-1",
+        "tabs_gap": 5,
+        "align": "center",
+        "header_position": "top",
+        "text_alignment": "left",
+        "vertical_alignment": "end",
+        "bg_color": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "border_color": "",
+        "padding_top": 56,
+        "padding_bottom": 20,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "custom_content_XMrF74": {
+      "type": "custom-content",
+      "blocks": {
+        "text_PriQJq": {
+          "type": "text",
+          "settings": {
+            "block_width": "33",
+            "subheading": "Our Services",
+            "heading": "A multidisciplinaryapproach to bridgingpeople and brands",
+            "heading_size": "h2",
+            "text": "",
+            "vertical_alignment": "center",
+            "text_alignment": "start",
+            "button_label": "",
+            "button_link": "",
+            "button_type": "underlined",
+            "show_icon": true,
+            "bg_color": "",
+            "text_color": "",
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "padding_left": 0,
+            "padding_right": 48,
+            "padding_top_mobile": 0,
+            "padding_bottom_mobile": 0,
+            "padding_left_mobile": 0,
+            "padding_right_mobile": 0
+          }
+        },
+        "image_7BCmDR": {
+          "type": "image",
+          "settings": {
+            "block_width": "33",
+
+            "image_size": "portrait",
+            "link": "",
+            "vertical_alignment": "center"
+          }
+        },
+        "text_9xeDXJ": {
+          "type": "text",
+          "settings": {
+            "block_width": "33",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h2",
+            "text": "<h4>Xstreet Brand</h4><p>We design and develop lifestyle apparel that empowers you to explore and interact with the world around you.<br/></p><h4>Personal Expression</h4><p>Quality: Uncompromising standards in material selection</p><p>Innovation: Continuous exploration of design possibilities</p><p>Authenticity: Transparent and genuine approach to jewelry creation<br/></p>",
+            "vertical_alignment": "center",
+            "text_alignment": "start",
+            "button_label": "",
+            "button_link": "",
+            "button_type": "primary",
+            "show_icon": false,
+            "bg_color": "",
+            "text_color": "",
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "padding_left": 32,
+            "padding_right": 0,
+            "padding_top_mobile": 0,
+            "padding_bottom_mobile": 0,
+            "padding_left_mobile": 0,
+            "padding_right_mobile": 0
+          }
+        }
+      },
+      "block_order": [
+        "text_PriQJq",
+        "image_7BCmDR",
+        "text_9xeDXJ"
+      ],
+      "settings": {
+        "section_width": "container",
+        "subheading": "",
+        "heading": "",
+        "heading_size_section": "h2",
+        "description": "",
+        "layout": "vertical",
+        "column_gap": "24",
+        "row_gap": "24",
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "padding_top": 60,
+        "padding_bottom": 100,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "scrolling_text_7HMrdG": {
+      "type": "scrolling-text",
+      "blocks": {
+        "text_pDd66t": {
+          "type": "text",
+          "settings": {
+            "text": "Urban Wear",
+            "link": "",
+            "outline_text": true
+          }
+        },
+        "text_HeNfji": {
+          "type": "text",
+          "settings": {
+            "text": "✦",
+            "link": "",
+            "outline_text": true
+          }
+        },
+        "text_7YTydW": {
+          "type": "text",
+          "settings": {
+            "text": "Outdoor Lifestyle",
+            "link": "",
+            "outline_text": true
+          }
+        },
+        "text_Pa9rUR": {
+          "type": "text",
+          "settings": {
+            "text": "✦",
+            "link": "",
+            "outline_text": true
+          }
+        },
+        "text_KhQFeE": {
+          "type": "text",
+          "settings": {
+            "text": "Sustainable Elegance",
+            "link": "",
+            "outline_text": true
+          }
+        },
+        "text_rjH7F8": {
+          "type": "text",
+          "settings": {
+            "text": "✦",
+            "link": "",
+            "outline_text": true
+          }
+        }
+      },
+      "block_order": [
+        "text_pDd66t",
+        "text_HeNfji",
+        "text_7YTydW",
+        "text_Pa9rUR",
+        "text_KhQFeE",
+        "text_rjH7F8"
+      ],
+      "settings": {
+        "section_width": "w-full",
+        "text_size": "hxl",
+        "pause_scroll_on_hover": true,
+        "spacing": 80,
+        "spacing_mobile": 30,
+        "image_width": 80,
+        "speed": 20,
+        "direction": "left",
+        "bg_color": "rgba(0,0,0,0)",
+        "text_color": "#555555",
+        "border_color": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "image_with_text_nt7rxE": {
+      "type": "image-with-text",
+      "blocks": {
+        "circular_text_xNqnNz": {
+          "type": "circular_text",
+          "settings": {
+            "text": "Street style • urban wear  •",
+            "size": 70,
+            "font_size": 4,
+            "show_icon": true,
+            "show_border": false,
+            "show_background": false,
+            "show_animation": true,
+            "background_color": "",
+            "text_color": "",
+            "border_color": ""
+          }
+        },
+        "heading_i3KjWQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Core Values",
+            "heading_size": "h2"
+          }
+        },
+        "text_wA6qez": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We believe that what you wear should tell your story — raw, real, and unapologetically yours. Our streetwear is made to move with you — from day to night, from city streets to spontaneous adventures.</p><p>Each piece is designed to be versatile, durable, and bold — made to layer, mix, and express who you are without saying a word. We don’t just make clothes — we create a canvas for your individuality.</p>",
+            "large_text": false
+          }
+        },
+        "separator_HxqLX3": {
+          "type": "separator",
+          "settings": {
+            "show_border": false,
+            "space": 4
+          }
+        },
+        "button_aqAKDh": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact us",
+            "button_link": "",
+            "button_type": "underlined",
+            "show_icon": true
+          }
+        }
+      },
+      "block_order": [
+        "circular_text_xNqnNz",
+        "heading_i3KjWQ",
+        "text_wA6qez",
+        "separator_HxqLX3",
+        "button_aqAKDh"
+      ],
+      "settings": {
+        "section_width": "container",
+
+        "media_size": "square",
+        "show_image_2": true,
+
+        "position_image_2": "bottom-right",
+        "media_size_2": "square",
+        "desktop_image_width": "50",
+        "active_video": false,
+        "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "video_controls": true,
+        "layout": "left",
+        "column_gap": "16",
+        "vertical_alignment": "center",
+        "content_alignment": "start",
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "bg_column": "",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "layer_image_with_text_bpLnEt": {
+      "type": "layer-image-with-text",
+      "blocks": {
+        "image_6fd3VB": {
+          "type": "image",
+          "settings": {
+
+            "width_image": 180,
+            "image_size": "adapt",
+            "offset_config": 200,
+            "top_position": 16,
+            "left_position": 0,
+            "top_position_mobile": 20,
+            "left_position_mobile": -26
+          }
+        },
+        "image_3NVXda": {
+          "type": "image",
+          "settings": {
+
+            "width_image": 300,
+            "image_size": "square",
+            "offset_config": 250,
+            "top_position": 68,
+            "left_position": -8,
+            "top_position_mobile": 80,
+            "left_position_mobile": -38
+          }
+        },
+        "image_a7gAWT": {
+          "type": "image",
+          "settings": {
+
+            "width_image": 232,
+            "image_size": "square",
+            "offset_config": 300,
+            "top_position": 20,
+            "left_position": 96,
+            "top_position_mobile": 64,
+            "left_position_mobile": 84
+          }
+        },
+        "image_tjWKcd": {
+          "type": "image",
+          "settings": {
+
+            "width_image": 300,
+            "image_size": "adapt",
+            "offset_config": 200,
+            "top_position": 70,
+            "left_position": 74,
+            "top_position_mobile": 100,
+            "left_position_mobile": 68
+          }
+        },
+        "image_YhFzr4": {
+          "type": "image",
+          "settings": {
+
+            "width_image": 140,
+            "image_size": "square",
+            "offset_config": -1000,
+            "top_position": 6,
+            "left_position": 66,
+            "top_position_mobile": -16,
+            "left_position_mobile": 68
+          }
+        }
+      },
+      "block_order": [
+        "image_6fd3VB",
+        "image_3NVXda",
+        "image_a7gAWT",
+        "image_tjWKcd",
+        "image_YhFzr4"
+      ],
+      "settings": {
+        "content_alignment": "center",
+        "content_width": "max-w-4xl",
+        "subheading": "Built For Streets",
+        "heading": "Designed For Every Body",
+        "heading_size": "h0",
+        "text": "<p>We don’t believe in fast fashion or throwaway trends. Our pieces are made from recycled and responsibly sourced fabrics — built to last, made to move.</p>",
+        "button_label": "Shop all products",
+
+        "button_type": "primary",
+        "show_icon": true,
+        "type_animation": "translate",
+        "bg_color": "#333333",
+        "text_color": "",
+        "border_color": "",
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "image_with_text_icons_aGkA38": {
+      "type": "image-with-text-icons",
+      "blocks": {
+        "icon_jgj7D4": {
+          "type": "icon",
+          "settings": {
+            "icon": "ruler",
+            "title": "Personalized Design Consultation",
+            "text": "<p>One-on-one personal consultation, Explore your individual style</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "icon_JkypjD": {
+          "type": "icon",
+          "settings": {
+            "icon": "check_circle",
+            "title": "Initial Consultation",
+            "text": "<p>Understanding your vision. Exploring design inspirations</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "icon_fUtjGR": {
+          "type": "icon",
+          "settings": {
+            "icon": "eye",
+            "title": "Concept Development",
+            "text": "<p>Initial sketch creation. Material recommendations</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "icon_RJgLD7": {
+          "type": "icon",
+          "settings": {
+            "icon": "snowflake",
+            "title": "Design Refinement",
+            "text": "<p>Digital 3D rendering. Multiple revision options. Precision detailing</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "icon_jgj7D4",
+        "icon_JkypjD",
+        "icon_fUtjGR",
+        "icon_RJgLD7"
+      ],
+      "settings": {
+        "section_width": "container",
+
+        "media_size": "square",
+        "desktop_image_width": "50",
+        "column_gap": "24",
+        "layout": "right",
+        "vertical_alignment": "center",
+        "content_alignment": "start",
+        "layout_column": "2",
+        "heading_size": "h5",
+        "icon_background": "none",
+        "icon_width": 24,
+        "button_type": "underlined",
+        "show_icon": false,
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "icon_bg_color": "#f1e5dd",
+        "icon_color": "",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "press_pd8AJc": {
+      "type": "press",
+      "blocks": {
+        "press_7Y4PqG": {
+          "type": "press",
+          "settings": {
+            "content": "<p>Our collections merge contemporary design with timeless construction — where sharp cuts meet hand-finished detail. More than just fashion, each piece is a form of personal expression — made to move with you, made to mean something.</p>",
+            "url": "",
+
+            "image_width": 120
+          }
+        },
+        "press_xTnNxi": {
+          "type": "press",
+          "settings": {
+            "content": "<p>Every garment we create is rooted in real stories: moments of movement, resistance, freedom, and self-discovery. From the stitches to the silhouette, each piece carries the energy of the street — bold, honest, and unapologetically individual.</p>",
+            "url": "",
+
+            "image_width": 120
+          }
+        },
+        "press_KmRJ7k": {
+          "type": "press",
+          "settings": {
+            "content": "<p>Our pieces are built, not churned out — designed with intention, crafted with care. We don’t follow trends. We create staples that speak to identity, not the algorithm.</p>",
+            "url": "",
+
+            "image_width": 120
+          }
+        },
+        "press_wzDEDm": {
+          "type": "press",
+          "settings": {
+            "content": "<p>Our designs fuse bold innovation with raw authenticity, turning everyday pieces into wearable statements. Each collection tells a story — yours — through style that refuses to be ordinary.</p>",
+            "url": "",
+
+            "image_width": 120
+          }
+        }
+      },
+      "block_order": [
+        "press_7Y4PqG",
+        "press_xTnNxi",
+        "press_KmRJ7k",
+        "press_wzDEDm"
+      ],
+      "settings": {
+        "subheading": "The Press",
+        "heading": "",
+        "heading_size_section": "h2",
+        "description": "",
+        "layout": "vertical",
+        "content_size": "h4",
+        "image_opacity": 50,
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "bg_color": "#333333",
+        "text_color": "",
+        "border_color": "",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "divider_iCi8mX": {
+      "type": "divider",
+      "settings": {
+        "section_width": "container",
+        "spacer_mobile": 50,
+        "spacer_desktop": 100,
+        "show_border": false,
+        "bg_color": "",
+        "color": "",
+        "style": "solid",
+        "thickness": 1
+      }
+    },
+    "video_with_text_overlay_4AXiQ7": {
+      "type": "video-with-text-overlay",
+      "blocks": {
+        "heading_cKXdFc": {
+          "type": "heading",
+          "settings": {
+            "heading": "<i>[f]Redefining Street[/f]</i>",
+            "highlighted_word_type": "multiple_lines",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_cKXdFc"
+      ],
+      "settings": {
+        "section_width": "container",
+
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "description_video": "",
+        "desktop_height_mode": "fixed",
+        "desktop_fixed_height": 400,
+        "mobile_height_mode": "fixed",
+        "mobile_fixed_height": 300,
+        "content_width": "max-w-4xl",
+        "desktop_content_position": "bottom-center",
+        "mobile_content_position": "bottom-center",
+        "color_text": "#ffffff",
+        "color_text_highlighted": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_gradient": "",
+        "overlay_opacity": 24
+      }
+    },
+    "text_with_icons_NYRGMa": {
+      "type": "text-with-icons",
+      "blocks": {
+        "icon_rKADcp": {
+          "type": "icon",
+          "settings": {
+            "icon": "return",
+            "title": "Thoughtful Returns",
+            "text": "<p>To thank you for embracing this circular practice, we’ll gift you 20% off your next purchase.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "icon_tLYhjr": {
+          "type": "icon",
+          "settings": {
+            "icon": "check_circle",
+            "title": "Repair Services",
+            "text": "<p>Online and in-store repair options. Re-Worn popup repair locations</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "icon_QLNUTh": {
+          "type": "icon",
+          "settings": {
+            "icon": "recycle",
+            "title": "Recycle Program",
+            "text": "<p>Transforming Jewelry's Environmental Legacy. 100% traceable material sourcing</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "icon_FFtDgy": {
+          "type": "icon",
+          "settings": {
+            "icon": "box",
+            "title": "Product Communication",
+            "text": "<p>Detailed product descriptions, Style and availability insights.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "icon_rKADcp",
+        "icon_tLYhjr",
+        "icon_QLNUTh",
+        "icon_FFtDgy"
+      ],
+      "settings": {
+        "section_width": "container",
+        "subheading": "",
+        "heading": "",
+        "heading_size_section": "h2",
+        "description": "",
+        "layout": "vertical",
+        "item_type": "vertical",
+        "heading_size": "h5",
+        "column_alignment": "center",
+        "icon_background": "none",
+        "icon_width": 32,
+        "button_type": "outline",
+        "show_icon": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "show_progress_bar": false,
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "icon_bg_color": "",
+        "icon_color": "",
+        "padding_top": 40,
+        "padding_bottom": 100,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "testimonials_G8WwNt": {
+      "type": "testimonials",
+      "blocks": {
+        "quote_gA3cYq": {
+          "type": "quote",
+          "settings": {
+            "product": "",
+            "rating": 5,
+            "text": "Packaged beautifully so much so it didn’t need wrapping, the hoodie itself was definitely worth the money, really good quality and super cool, my daughter absolutely loves it!",
+
+            "media_size": "square",
+            "name": "Broken hearted",
+            "position": "Ceo at Oran"
+          }
+        },
+        "quote_NKjAxH": {
+          "type": "quote",
+          "settings": {
+            "product": "",
+            "rating": 5,
+            "text": "Ordered on a Monday night - delivered on the Wednesday. Prefect fit. I was dubious based on reviews but paying on credit card gave me some protection.",
+
+            "media_size": "square",
+            "name": "Lucy KR",
+            "position": "Mangager Biosh"
+          }
+        },
+        "quote_yhEmKA": {
+          "type": "quote",
+          "settings": {
+            "product": "",
+            "rating": 5,
+            "text": "Ordered two items. Both of them arrived as described and in a timely fashion. An email query I made was answered quickly and honestly. I was able to track the whereabouts of the items with the courier as well.",
+
+            "media_size": "square",
+            "name": "Andri Z",
+            "position": "From UK"
+          }
+        }
+      },
+      "block_order": [
+        "quote_gA3cYq",
+        "quote_NKjAxH",
+        "quote_yhEmKA"
+      ],
+      "settings": {
+        "section_width": "container",
+        "subheading": "",
+        "heading": "",
+        "heading_size_section": "h2",
+        "description": "",
+        "layout": "vertical",
+        "testimonial_type": "image_right",
+        "content_alignment": "start",
+        "content_size": "h4",
+        "show_rating": true,
+        "show_arrows": true,
+        "enable_loop": true,
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "vertical_alignment": "center",
+        "show_border": false,
+        "per_page": 3,
+        "bg_color": "#333333",
+        "text_color": "",
+        "border_color": "",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "collection_list_parK8V": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_xNDwmL": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "tees",
+
+            "title": "",
+            "url": ""
+          }
+        },
+        "featured_collection_tqraMf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shorts",
+            "title": "",
+            "url": ""
+          }
+        },
+        "featured_collection_pq87q7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "footwear",
+            "title": "",
+            "url": ""
+          }
+        },
+        "featured_collection_mjK8La": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "accessories",
+            "title": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_xNDwmL",
+        "featured_collection_tqraMf",
+        "featured_collection_pq87q7",
+        "featured_collection_mjK8La"
+      ],
+      "settings": {
+        "section_width": "container",
+        "subheading": "",
+        "heading": "Our Collection",
+        "heading_size_section": "h2",
+        "description": "<p>Shine with sophisticated, luxurious, and captivating designs — perfect for every moment.</p>",
+        "layout": "horizontal",
+
+        "link_text": "View all",
+        "button_type": "underlined-white",
+        "show_icon": true,
+        "card_type": "standard",
+        "image_ratio": "square",
+        "show_collection_count": true,
+        "show_button_arrow": true,
+        "show_zoom_on_hover": true,
+        "heading_size": "h5",
+        "content_alignment": "start",
+        "title_color": "",
+        "overlay_color": "#000000",
+        "enable_gradient": false,
+        "overlay_opacity": 10,
+        "enable_stack_collections": false,
+        "show_progress_bar": false,
+        "enable_overflow_visible": false,
+        "columns_desktop": 4,
+        "column_gap": 0.5,
+        "columns_mobile": "2",
+        "column_gap_mobile": 0.5,
+        "swipe_on_mobile": false,
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "padding_top": 80,
+        "padding_bottom": 100,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "custom_content_P79tBf": {
+      "type": "custom-content",
+      "blocks": {
+        "image_MzEzX4": {
+          "type": "image",
+          "settings": {
+            "block_width": "50",
+
+            "image_size": "square",
+            "link": "",
+            "vertical_alignment": "center"
+          }
+        },
+        "text_scolling_bQkiHy": {
+          "type": "text_scolling",
+          "disabled": true,
+          "settings": {
+            "block_width": "25",
+            "text_scrolling": "Gold Jewellery\nSilver Jewellery\nHera Collection",
+            "direction": "left",
+            "speed": 30,
+            "position": "top",
+            "bg_color_scrolling": "#f6f2e9",
+            "text_color_scrolling": "",
+            "subheading": "",
+            "heading": "Mixed Metal Jewellery",
+            "heading_size": "h2",
+            "text": "<p>Discover our collection of mixed metal jewellery, made by combining 18ct recycled gold plated and gold plated vermeil and sterling silver.</p>",
+            "vertical_alignment": "end",
+            "text_alignment": "start",
+            "button_label": "",
+            "button_link": "",
+            "button_type": "underlined",
+            "show_icon": true,
+            "bg_color": "",
+            "text_color": "",
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "padding_left": 0,
+            "padding_right": 0,
+            "padding_top_mobile": 0,
+            "padding_bottom_mobile": 0,
+            "padding_left_mobile": 0,
+            "padding_right_mobile": 0
+          }
+        },
+        "text_YRq9mC": {
+          "type": "text",
+          "settings": {
+            "block_width": "25",
+            "subheading": "",
+            "heading": "Mixed Textures",
+            "heading_size": "h3",
+            "text": "<p>Discover our collection of urban essentials made by blending contrasting fabrics, bold silhouettes, and unexpected details — where street meets statement.</p>",
+            "vertical_alignment": "end",
+            "text_alignment": "start",
+            "button_label": "Shop now",
+
+            "button_type": "primary",
+            "show_icon": true,
+            "bg_color": "",
+            "text_color": "",
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "padding_left": 24,
+            "padding_right": 0,
+            "padding_top_mobile": 0,
+            "padding_bottom_mobile": 0,
+            "padding_left_mobile": 0,
+            "padding_right_mobile": 0
+          }
+        },
+        "banner_card_pnGAc9": {
+          "type": "banner_card",
+          "settings": {
+            "block_width": "25",
+            "vertical_alignment": "start",
+            "card_style": "design-6",
+
+            "image_size": "square",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h4",
+            "text": "",
+            "button_label": "The Essentials",
+
+            "button_type": "primary-white",
+            "show_icon": true,
+            "text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "overlay_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_MzEzX4",
+        "text_scolling_bQkiHy",
+        "text_YRq9mC",
+        "banner_card_pnGAc9"
+      ],
+      "settings": {
+        "section_width": "container",
+        "subheading": "",
+        "heading": "",
+        "heading_size_section": "h2",
+        "description": "",
+        "layout": "vertical",
+        "column_gap": "24",
+        "row_gap": "32",
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "padding_top": 0,
+        "padding_bottom": 100,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "newsletter_GtpVEH": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_V6EfXH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to Our Emails",
+            "heading_size": "h2"
+          }
+        },
+        "paragraph_bgEXNE": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers. Subscribe to receive all our updates and offers, and get 10% off your first purchase.</p>"
+          }
+        },
+        "email_form_aCBEq3": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_V6EfXH",
+        "paragraph_bgEXNE",
+        "email_form_aCBEq3"
+      ],
+      "settings": {
+        "section_width": "container-fluid",
+
+        "form_position": "center",
+        "text_alignment": "center",
+        "bg_color": "rgba(0,0,0,0)",
+        "text_color": "#ffffff",
+        "border_color": "",
+        "input_text_color": "#ffffff",
+        "input_border_color": "",
+        "overlay_color": "#000000",
+        "overlay_gradient": "",
+        "overlay_opacity": 20,
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "multicolumn_ptngYF": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_6NUcKk": {
+          "type": "column",
+          "settings": {
+
+            "link": "",
+            "title": "Top brands",
+            "text": "<p>We team up with the hardest-hitting names in the game — the ones setting trends, not following them.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_type": "underlined",
+            "show_icon": false,
+            "desktop_image_placement": "top"
+          }
+        },
+        "column_N7TbFN": {
+          "type": "column",
+          "settings": {
+
+            "link": "",
+            "title": "Carbon neutral products",
+            "text": "<p>Fresh drops, low impact. Our gear treads lighter so you can stand out without leaving a footprint.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_type": "underlined",
+            "show_icon": false,
+            "desktop_image_placement": "bottom"
+          }
+        },
+        "column_9iQpyL": {
+          "type": "column",
+          "settings": {
+
+            "link": "",
+            "title": "Organic materials",
+            "text": "<p>No fake flex here. We keep it real with organic fabrics that feel good, look better, and do right by the planet.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_type": "underlined",
+            "show_icon": false,
+            "desktop_image_placement": "top"
+          }
+        }
+      },
+      "block_order": [
+        "column_6NUcKk",
+        "column_N7TbFN",
+        "column_9iQpyL"
+      ],
+      "settings": {
+        "section_width": "container",
+        "subheading": "",
+        "heading": "More to Explore",
+        "heading_size_section": "h2",
+        "description": "<p>Get all the details about our efforts to clean up the industry—from our partners to our processes.</p>",
+        "layout": "vertical",
+        "image_width": "full",
+        "image_ratio": "square",
+        "heading_size": "h5",
+        "column_alignment": "center",
+        "link_url": "",
+        "link_text": "",
+        "button_type": "primary",
+        "show_icon": false,
+        "enable_stack_columns": true,
+        "show_progress_bar": false,
+        "enable_overflow_visible": false,
+        "columns_desktop": 3,
+        "column_gap": 6,
+        "column_gap_mobile": 2,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "padding_top": 80,
+        "padding_bottom": 100,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_overlay_zygnHj",
+    "content_tabs_Pik6nD",
+    "custom_content_XMrF74",
+    "scrolling_text_7HMrdG",
+    "image_with_text_nt7rxE",
+    "layer_image_with_text_bpLnEt",
+    "image_with_text_icons_aGkA38",
+    "press_pd8AJc",
+    "divider_iCi8mX",
+    "video_with_text_overlay_4AXiQ7",
+    "text_with_icons_NYRGMa",
+    "testimonials_G8WwNt",
+    "collection_list_parK8V",
+    "custom_content_P79tBf",
+    "newsletter_GtpVEH",
+    "multicolumn_ptngYF"
+  ]
+}

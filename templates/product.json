@@ -1,0 +1,801 @@
+{
+  "sections": {
+    "breadcrumbs_ka3wVn": {
+      "type": "breadcrumbs",
+      "disabled": true,
+      "settings": {
+        "section_width": "container-fluid",
+        "alignment": "start",
+        "text_size": "text-size-small",
+        "type_breadcrumb": "line-vertical",
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "padding_top": 12,
+        "padding_bottom": 0,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "breadcrumbs_exXzaX": {
+          "type": "breadcrumbs",
+          "settings": {
+            "text_size": "text-size-small",
+            "type_breadcrumb": "arrow"
+          }
+        },
+        "vendor_c6Nwih": {
+          "type": "vendor",
+          "settings": {
+            "text_style": "sub-heading"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h2"
+          }
+        },
+        "rating_UhVAtV": {
+          "type": "rating",
+          "settings": {
+            "target_to_section": false,
+            "section_id": "#judgeme_product_reviews"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_note": true,
+            "show_sale_badge": true,
+            "sale_badge_type": "fixed"
+          }
+        },
+        "rich_text_gJV7TU": {
+          "type": "rich-text",
+          "settings": {
+            "align": "start",
+            "icon": "gift",
+            "width": 24,
+            "heading": "",
+            "content": "<p><strong>Every order comes with one complimentary branded gift box and buttoned pouch.</strong></p>",
+            "background": "#444444",
+            "color": "#b8f1b0"
+          }
+        },
+        "fit_guide_XMaR7j": {
+          "type": "fit_guide",
+          "settings": {
+            "heading": "Fit",
+            "active_segmment": "3",
+            "left_label": "Small",
+            "middle_label": "True to size",
+            "right_label": "Large"
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "show_more_toggle": true,
+            "max_height": 8
+          }
+        },
+        "inventory_xyPUV8": {
+          "type": "inventory",
+          "settings": {
+            "inventory_threshold": 9,
+            "inventory_base_quantity": 100,
+            "show_inventory_ping": true,
+            "show_inventory_quantity": true,
+            "show_progress_bar": true
+          }
+        },
+        "siblings_j3h7Cg": {
+          "type": "siblings",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "hide_sold_out_variants": false,
+            "color_picker_type": "color_swatch",
+            "style": "solid",
+            "option_name": "Size",
+            "size_chart_page": "size-guide"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+            "enable_quantity_rules": true
+          }
+        },
+        "sku_yqmVAY": {
+          "type": "sku",
+          "settings": {
+            "text_style": "subheading"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_two_columns": false,
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true,
+            "show_pickup_availability": true,
+            "show_back_in_stock": true,
+            "text_back_in_stock": "Notify me"
+          }
+        },
+        "icon_with_text_6bTTF3": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_size": 20,
+            "icon_1": "box",
+            "heading_1": "Free Shipping $49+",
+            "icon_2": "return",
+            "heading_2": "Free Returns",
+            "icon_3": "sheild",
+            "heading_3": "Lifetime Warranty",
+            "icon_4": "check_circle",
+            "heading_4": "Sustainably Made"
+          }
+        },
+        "separator_BcFrTM": {
+          "type": "separator",
+          "settings": {
+            "show_border": false,
+            "divider_space": 0.5
+          }
+        },
+        "collapsible_tab_6kicUP": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Description",
+            "heading_size": "sub-heading",
+            "icon": "none",
+            "content": "",
+            "content_liquid": "{{ product.description }}",
+            "page": "",
+            "open_by_default": false
+          }
+        },
+        "collapsible_tab_bVRE3V": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Care instructions",
+            "heading_size": "sub-heading",
+            "icon": "none",
+            "content": "<p>Care instructions for silver jewelry</p><p>Kalevala silver jewelry is handcrafted in Finland from sterling silver. More than 99% of the silver we use is recycled.</p>",
+            "content_liquid": "",
+            "page": "",
+            "open_by_default": false
+          }
+        },
+        "collapsible_tab_4UNrkz": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Delivery and return",
+            "heading_size": "sub-heading",
+            "icon": "none",
+            "content": "<p>Deliveries</p><ul><li>Free domestic delivery for orders over €100</li><li>Pickup from Kalevala stores is always free of charge</li><li>Collection from a parcel machine or collection point €5.90</li><li>Home delivery €8.90</li></ul><p>Our delivery partners are</p><ul><li>Postal</li><li>Budbee</li><li>Schenker</li><li>Matkahuolto</li><li>Returns</li></ul><p>Domestic orders have a free 14-day right of return.</p>",
+            "content_liquid": "",
+            "page": "",
+            "open_by_default": false
+          }
+        },
+        "separator_CgCj4T": {
+          "type": "separator",
+          "settings": {
+            "show_border": false,
+            "divider_space": 1
+          }
+        },
+        "complementary_7gy8hM": {
+          "type": "complementary",
+          "disabled": true,
+          "settings": {
+            "block_heading": "Pairs well with",
+            "column_width": 60,
+            "product_list_limit": 10,
+            "enable_quick_add": true
+          }
+        },
+        "up_sell_fJxhhT": {
+          "type": "up_sell",
+          "settings": {
+            "upsell_type": "border",
+            "heading": "Complete The Set",
+            "products": [
+              "6-panel-madras-green-check",
+              "drill-part-timer-shorts-khaki",
+              "m-12oz-denim-cactus-coverall-midtone"
+            ]
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share:"
+          }
+        },
+        "trust_badge_hgnnaj": {
+          "type": "trust-badge",
+          "settings": {
+            "text": "<p>Secure Checkout with</p>",
+            "badge_type": "payment-icon",
+            "show_border": true,
+            "align": "start"
+          }
+        }
+      },
+      "block_order": [
+        "breadcrumbs_exXzaX",
+        "vendor_c6Nwih",
+        "title",
+        "rating_UhVAtV",
+        "price",
+        "rich_text_gJV7TU",
+        "fit_guide_XMaR7j",
+        "description",
+        "inventory_xyPUV8",
+        "siblings_j3h7Cg",
+        "variant_picker",
+        "quantity_selector",
+        "sku_yqmVAY",
+        "buy_buttons",
+        "icon_with_text_6bTTF3",
+        "separator_BcFrTM",
+        "collapsible_tab_6kicUP",
+        "collapsible_tab_bVRE3V",
+        "collapsible_tab_4UNrkz",
+        "separator_CgCj4T",
+        "complementary_7gy8hM",
+        "up_sell_fJxhhT",
+        "share",
+        "trust_badge_hgnnaj"
+      ],
+      "settings": {
+        "section_width": "w-full",
+        "enable_sticky_info": true,
+        "enable_max_width_content": true,
+        "show_sticky_add_to_cart_bar": true,
+        "media_width": 50,
+        "media_aspect_ratio": "adapt",
+        "thumbnail_aspect_ratio": "square",
+        "gallery_layout": "columns_mix",
+        "media_position": "left",
+        "info_in_media": "170 cm • EU 36 (UK 10, Small)",
+        "show_lightbox": true,
+        "enable_video_autoplay": true,
+        "enable_video_looping": true,
+        "mobile_thumbnails": "show",
+        "enable_media_grouping": true,
+        "bg_color": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "border_color": "rgba(0,0,0,0)",
+        "padding_top": 0,
+        "padding_bottom": 88,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "information-products": {
+      "type": "information-tabs-products",
+      "blocks": {
+        "description_6CNYAh": {
+          "type": "description",
+          "settings": {
+            "tab_heading": "Description"
+          }
+        },
+        "custom_content_qnMhGh": {
+          "type": "custom-content",
+          "settings": {
+            "tab_heading": "Size guide",
+            "content": "",
+            "page": "size-guide"
+          }
+        },
+        "custom_content_73AKnk": {
+          "type": "custom-content",
+          "settings": {
+            "tab_heading": "Product care",
+            "content": "<p>Hand or machine wash on a cool, gentle cycle with similar colours. Avoid harsh chemicals or stain removers, which can affect the colour. </p>",
+            "page": ""
+          }
+        },
+        "custom_content_4bDa3X": {
+          "type": "custom-content",
+          "settings": {
+            "tab_heading": "Shipping & returns",
+            "content": "<p>We aim to dispatch Standard and Express orders on the next business day.</p><p>Free shipping on all orders above $99 and over within Australia. $10 flat rate for all orders under $99.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "description_6CNYAh",
+        "custom_content_qnMhGh",
+        "custom_content_73AKnk",
+        "custom_content_4bDa3X"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_width": "container",
+        "type_tabs": "underline",
+        "enable_uppercase": true,
+        "tabs_font_family": "body_font",
+        "tab_heading_size": "body-1",
+        "tabs_gap": 4,
+        "align": "center",
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "padding_top": 60,
+        "padding_bottom": 0,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "scrolling_text_pbzyU7": {
+      "type": "scrolling-text",
+      "blocks": {
+        "text_6Cmxxt": {
+          "type": "text",
+          "settings": {
+            "text": "Earn points and redeem exclusive discounts!",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_km8ynJ": {
+          "type": "text",
+          "settings": {
+            "text": "◇",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_Kw7XpF": {
+          "type": "text",
+          "settings": {
+            "text": "Subscribe to our mailing list",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_PEhkyH": {
+          "type": "text",
+          "settings": {
+            "text": "◇",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_Rd3bm3": {
+          "type": "text",
+          "settings": {
+            "text": "25,000+ Happy Customers",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_PH9P7t": {
+          "type": "text",
+          "settings": {
+            "text": "◇",
+            "link": "",
+            "outline_text": false
+          }
+        }
+      },
+      "block_order": [
+        "text_6Cmxxt",
+        "text_km8ynJ",
+        "text_Kw7XpF",
+        "text_PEhkyH",
+        "text_Rd3bm3",
+        "text_PH9P7t"
+      ],
+      "settings": {
+        "section_width": "container",
+        "text_size": "h6",
+        "pause_scroll_on_hover": false,
+        "spacing": 70,
+        "spacing_mobile": 30,
+        "image_width": 24,
+        "speed": 20,
+        "direction": "left",
+        "bg_color": "#333333",
+        "text_color": "",
+        "border_color": "",
+        "padding_top": 40,
+        "padding_bottom": 4,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "rich_text_gXAbKm": {
+      "type": "rich-text",
+      "blocks": {
+        "icon_aRPrHz": {
+          "type": "icon",
+          "settings": {
+            "icon": "snowflake"
+          }
+        },
+        "separator_KMXFj3": {
+          "type": "separator",
+          "settings": {
+            "show_border": false,
+            "space": 6
+          }
+        },
+        "heading_NBNDCx": {
+          "type": "heading",
+          "settings": {
+            "heading": "Urban Redefined",
+            "heading_size": "h1"
+          }
+        },
+        "separator_KKnrRX": {
+          "type": "separator",
+          "settings": {
+            "show_border": false,
+            "space": 4
+          }
+        },
+        "text_a8t9k7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>These aren't just pendants; they're statement pieces that let you rep your most meaningful numbers</p><p>Whether it's your birth year, lucky digits, or significant dates, each piece becomes part of your personal narrative in the streets.</p>",
+            "large_text": false
+          }
+        },
+        "separator_NwXJTF": {
+          "type": "separator",
+          "settings": {
+            "show_border": false,
+            "space": 8
+          }
+        },
+        "button_iQ4ay8": {
+          "type": "button",
+          "settings": {
+            "button_label": "Read more",
+
+            "button_type": "primary",
+            "show_icon": true
+          }
+        }
+      },
+      "block_order": [
+        "icon_aRPrHz",
+        "separator_KMXFj3",
+        "heading_NBNDCx",
+        "separator_KKnrRX",
+        "text_a8t9k7",
+        "separator_NwXJTF",
+        "button_iQ4ay8"
+      ],
+      "custom_css": [
+        ".rich-text__icon .icon {--size: 3.5rem;}"
+      ],
+      "settings": {
+        "section_width": "w-full",
+        "content_width": "max-w-7xl",
+        "content_alignment": "center",
+        "bg_color": "#333333",
+        "text_color": "rgba(0,0,0,0)",
+        "border_color": "",
+        "padding_top": 80,
+        "padding_bottom": 92,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "custom_content_gdgxD7": {
+      "type": "custom-content",
+      "blocks": {
+        "image_L8F3ay": {
+          "type": "image",
+          "settings": {
+            "block_width": "33",
+
+            "image_size": "portrait",
+            "link": "",
+            "vertical_alignment": "center"
+          }
+        },
+        "text_xUmgYC": {
+          "type": "text",
+          "settings": {
+            "block_width": "33",
+            "subheading": "Craftsmanship",
+            "heading": "Street Ready",
+            "heading_size": "h2",
+            "text": "<p>uilt with premium materials and our signature finishing techniques</p>",
+            "vertical_alignment": "center",
+            "text_alignment": "center",
+            "button_label": "discover now",
+
+            "button_type": "primary-white",
+            "show_icon": false,
+            "bg_color": "#516944",
+            "text_color": "#ffffff",
+            "padding_top": 24,
+            "padding_bottom": 24,
+            "padding_left": 32,
+            "padding_right": 32,
+            "padding_top_mobile": 24,
+            "padding_bottom_mobile": 24,
+            "padding_left_mobile": 24,
+            "padding_right_mobile": 24
+          }
+        },
+        "image_NbVLhx": {
+          "type": "image",
+          "settings": {
+            "block_width": "33",
+
+            "image_size": "portrait",
+            "link": "",
+            "vertical_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_L8F3ay",
+        "text_xUmgYC",
+        "image_NbVLhx"
+      ],
+      "settings": {
+        "section_width": "container",
+        "subheading": "",
+        "heading": "",
+        "heading_size_section": "h2",
+        "description": "",
+        "layout": "vertical",
+        "column_gap": "4",
+        "row_gap": "24",
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "padding_top": 92,
+        "padding_bottom": 92,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "collapsible_content_xgEXcW": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_cjR6gA": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do i find the right streetwear size ?",
+            "icon": "ruler",
+            "row_content": "<p>Streetwear sizing can be tricky since many pieces are designed with an intentionally relaxed or oversized fit. check our detailed size charts which include chest, length, and shoulder measurements. </p><p>For hoodies and tees, consider going one size up if you want that authentic baggy look, or stick to your normal size for a more fitted streetwear aesthetic. </p><p>When in doubt, measure your favorite fitting piece and compare it to our size guide.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_erRaPp": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What's the difference between oversized and baggy fit?",
+            "icon": "truck",
+            "row_content": "<p>oversized fit is intentionally designed with extra room while maintaining proper proportions - think structured shoulders with longer length. baggy fit tends to be loose everywhere and can look sloppy if not styled correctly. </p><p>Our oversized pieces are cut to look intentional and flattering while giving you that relaxed streetwear vibe. the key is finding the right balance for your body type and personal style.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_QQ3bTb": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is your return policy for streetwear items?",
+            "icon": "return",
+            "row_content": "<p>We offer 30-day returns on all unworn streetwear pieces with original tags attached. items must be in original condition - no wash, no wear, no alterations. limited edition drops and collaboration pieces are final sale. </p><p>Return shipping is free for defective items, otherwise standard return shipping fees apply. exchanges are available for different sizes within the same style.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_VUjqRh": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How can I track my order?",
+            "icon": "box",
+            "row_content": "<p>We aim to process and ship orders within 24-48 hours of placement.</p><p>Once your order has been dispatched, you will receive an email with tracking details, allowing you to monitor its progress. Simply use the provided tracking information on our delivery partner’s website to stay updated on your shipment.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_x7yPCY": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I have another question",
+            "icon": "question_mark",
+            "row_content": "<p>Visit our main Frequent Asked Questions</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_cjR6gA",
+        "collapsible_row_erRaPp",
+        "collapsible_row_QQ3bTb",
+        "collapsible_row_VUjqRh",
+        "collapsible_row_x7yPCY"
+      ],
+      "settings": {
+        "section_width": "container",
+        "subheading": "",
+        "heading": "FREQUENTLY ASKED QUESTIONS",
+        "heading_size_section": "h3",
+        "description": "",
+        "layout": "vertical",
+        "heading_size": "body-1",
+        "enable_vertical_middle": true,
+        "open_first_collapsible_row": false,
+        "enable_narrow_content": true,
+        "image_ratio": "square",
+        "desktop_layout": "image_first",
+        "bg_color": "#333333",
+        "text_color": "",
+        "border_color": "#444444",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "video_with_text_overlay_tqNjTQ": {
+      "type": "video-with-text-overlay",
+      "blocks": {
+        "subheading_UjfACV": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Premium Materials"
+          }
+        },
+        "separator_BYVCeU": {
+          "type": "separator",
+          "settings": {
+            "show_border": false,
+            "space": 1
+          }
+        },
+        "heading_dFN3Yw": {
+          "type": "heading",
+          "settings": {
+            "heading": "Box Chain KITH",
+            "highlighted_word_type": "single_line",
+            "heading_size": "h0"
+          }
+        },
+        "separator_ajbBNp": {
+          "type": "separator",
+          "settings": {
+            "show_border": false,
+            "space": 1
+          }
+        },
+        "text_N7F6Pd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>These aren't just pendants; they're statement pieces that let you rep your most meaningful numbers.</p>",
+            "large_text": false
+          }
+        }
+      },
+      "block_order": [
+        "subheading_UjfACV",
+        "separator_BYVCeU",
+        "heading_dFN3Yw",
+        "separator_ajbBNp",
+        "text_N7F6Pd"
+      ],
+      "settings": {
+        "section_width": "w-full",
+
+        "video_url": "https://www.youtube.com/watch?v=qn22ohJZG-g",
+        "description_video": "Elegance Crafted to Perfection",
+        "desktop_height_mode": "fixed",
+        "desktop_fixed_height": 650,
+        "mobile_height_mode": "fixed",
+        "mobile_fixed_height": 550,
+        "content_width": "max-w-5xl",
+        "desktop_content_position": "bottom-center",
+        "mobile_content_position": "bottom-center",
+        "color_text": "#ffffff",
+        "color_text_highlighted": "#ffaa47",
+        "overlay_color": "#000000",
+        "overlay_gradient": "",
+        "overlay_opacity": 35
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "section_width": "container-fluid",
+        "subheading": "",
+        "heading": "You may also like",
+        "heading_size_section": "h2",
+        "description": "",
+        "layout": "vertical",
+        "enable_stack_products": false,
+        "show_progress_bar": true,
+        "enable_overflow_visible": false,
+        "products_to_show": 10,
+        "columns_desktop": 4,
+        "column_gap": 0.5,
+        "columns_mobile": "2",
+        "column_gap_mobile": 0.5,
+        "swipe_on_mobile": true,
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "recently_viewed_products_FTLchU": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "section_width": "container-fluid",
+        "subheading": "",
+        "heading": "Recently viewed products",
+        "heading_size_section": "h2",
+        "description": "",
+        "layout": "vertical",
+        "products_limit": 4,
+        "columns_desktop": 4,
+        "column_gap": 0.5,
+        "columns_mobile": "2",
+        "column_gap_mobile": 1,
+        "bg_color": "rgba(0,0,0,0)",
+        "text_color": "",
+        "border_color": "",
+        "padding_top": 0,
+        "padding_bottom": 72,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs_ka3wVn",
+    "main",
+    "information-products",
+    "scrolling_text_pbzyU7",
+    "rich_text_gXAbKm",
+    "custom_content_gdgxD7",
+    "collapsible_content_xgEXcW",
+    "video_with_text_overlay_tqNjTQ",
+    "related-products",
+    "recently_viewed_products_FTLchU"
+  ]
+}
