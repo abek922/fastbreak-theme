@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "slideshow_new_jBP7ad": {
@@ -6,7 +15,6 @@
         "slide_8nh3a9": {
           "type": "_slide",
           "settings": {
-
             "slide_link": "",
             "video_background": false,
             "content_width": 560,
@@ -48,7 +56,7 @@
               "type": "_slide_button",
               "settings": {
                 "button_text": "Shop now",
-
+                "button_link": "",
                 "button_type": "primary",
                 "show_icon": true
               },
@@ -65,7 +73,6 @@
         "slide_dbJdtP": {
           "type": "_slide",
           "settings": {
-
             "slide_link": "",
             "video_background": false,
             "content_width": 560,
@@ -107,7 +114,7 @@
               "type": "_slide_button",
               "settings": {
                 "button_text": "Shop now",
-
+                "button_link": "",
                 "button_type": "primary",
                 "show_icon": true
               },
@@ -145,134 +152,6 @@
         "controls_color_arrows": "#000000"
       }
     },
-    "collection_showcase_pgmKfp": {
-      "type": "collection-showcase",
-      "blocks": {
-        "collection_mfn4Fg": {
-          "type": "collection",
-          "settings": {
-            "text": "SS25[img] Sale",
-
-            "image_width": 70,
-
-          }
-        },
-        "collection_rmRErh": {
-          "type": "collection",
-          "settings": {
-            "text": "Coffee Jazz [img] Rap Special",
-
-            "image_width": 70,
-
-          }
-        },
-        "collection_6tkTVU": {
-          "type": "collection",
-          "settings": {
-            "text": "Peace [img] HBX",
-
-            "image_width": 70,
-
-          }
-        },
-        "collection_n8ggiP": {
-          "type": "collection",
-          "settings": {
-            "text": "Fresh [img] x Off White",
-
-            "image_width": 70,
-
-          }
-        }
-      },
-      "block_order": [
-        "collection_mfn4Fg",
-        "collection_rmRErh",
-        "collection_6tkTVU",
-        "collection_n8ggiP"
-      ],
-      "settings": {
-        "section_width": "container-fluid",
-        "animation_type": "split-image",
-        "text_size": "h2",
-        "text_align": "center",
-        "heading_outlined": false,
-        "show_icon": true,
-        "bg_color": "",
-        "text_color": "#ffffff",
-        "border_color": "rgba(0,0,0,0)",
-        "padding_top": 80,
-        "padding_bottom": 100,
-        "show_top_divider": false,
-        "divider_top_width": "container",
-        "show_bottom_divider": false,
-        "divider_bottom_width": "container"
-      }
-    },
-    "custom_content_KnUKW3": {
-      "type": "custom-content",
-      "blocks": {
-        "text_QB7CGm": {
-          "type": "text",
-          "settings": {
-            "block_width": "33",
-            "subheading": "",
-            "heading": "TRAIL SNEAKER",
-            "heading_size": "h2",
-            "text": "<p>A true signature merge between rugged tactical aesthetics and trail functionalities. Featuring a polyester mesh upper, nylon ripstop TPU film fused detailing alongside trail-inspired laces and rear pull tabs.</p>",
-            "vertical_alignment": "end",
-            "text_alignment": "start",
-            "button_label": "Shop now",
-
-            "button_type": "primary-white",
-            "show_icon": true,
-            "bg_color": "",
-            "text_color": "",
-            "padding_top": 0,
-            "padding_bottom": 0,
-            "padding_left": 50,
-            "padding_right": 64,
-            "padding_top_mobile": 24,
-            "padding_bottom_mobile": 0,
-            "padding_left_mobile": 24,
-            "padding_right_mobile": 24
-          }
-        },
-        "image_nyUczL": {
-          "type": "image",
-          "settings": {
-            "block_width": "66",
-
-            "image_size": "wide",
-            "link": "",
-            "vertical_alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "text_QB7CGm",
-        "image_nyUczL"
-      ],
-      "settings": {
-        "section_width": "w-full",
-        "subheading": "",
-        "heading": "",
-        "heading_size_section": "h2",
-        "description": "",
-        "layout": "vertical",
-        "column_gap": "0",
-        "row_gap": "24",
-        "bg_color": "",
-        "text_color": "",
-        "border_color": "",
-        "padding_top": 20,
-        "padding_bottom": 0,
-        "show_top_divider": false,
-        "divider_top_width": "container",
-        "show_bottom_divider": false,
-        "divider_bottom_width": "container"
-      }
-    },
     "collection_list_Xi8cjB": {
       "type": "collection-list",
       "blocks": {
@@ -280,7 +159,6 @@
           "type": "featured_collection",
           "settings": {
             "collection": "shorts",
-
             "title": "Mid Shorts",
             "url": ""
           }
@@ -289,7 +167,6 @@
           "type": "featured_collection",
           "settings": {
             "collection": "new-arrivals",
-
             "title": "Cycling shorts",
             "url": ""
           }
@@ -298,7 +175,6 @@
           "type": "featured_collection",
           "settings": {
             "collection": "sweats",
-
             "title": "Layer jacket",
             "url": ""
           }
@@ -307,7 +183,6 @@
           "type": "featured_collection",
           "settings": {
             "collection": "outerwear",
-
             "title": "Rain Parka",
             "url": ""
           }
@@ -326,7 +201,7 @@
         "heading_size_section": "h3",
         "description": "",
         "layout": "vertical",
-
+        "link_url": "",
         "link_text": "",
         "button_type": "underlined",
         "show_icon": true,
@@ -361,13 +236,137 @@
         "divider_bottom_width": "container"
       }
     },
+    "collection_showcase_pgmKfp": {
+      "type": "collection-showcase",
+      "blocks": {
+        "collection_mfn4Fg": {
+          "type": "collection",
+          "settings": {
+            "text": "SS25[img] Sale",
+            "image_width": 70,
+            "url": ""
+          }
+        },
+        "collection_rmRErh": {
+          "type": "collection",
+          "settings": {
+            "text": "Coffee Jazz [img] Rap Special",
+            "image_width": 70,
+            "url": ""
+          }
+        },
+        "collection_6tkTVU": {
+          "type": "collection",
+          "settings": {
+            "text": "Peace [img] HBX",
+            "image_width": 70,
+            "url": ""
+          }
+        },
+        "collection_n8ggiP": {
+          "type": "collection",
+          "settings": {
+            "text": "Fresh [img] x Off White",
+            "image_width": 70,
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_mfn4Fg",
+        "collection_rmRErh",
+        "collection_6tkTVU",
+        "collection_n8ggiP"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_width": "container-fluid",
+        "animation_type": "split-image",
+        "text_size": "h2",
+        "text_align": "center",
+        "heading_outlined": false,
+        "show_icon": true,
+        "bg_color": "",
+        "text_color": "#ffffff",
+        "border_color": "rgba(0,0,0,0)",
+        "padding_top": 80,
+        "padding_bottom": 100,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "custom_content_KnUKW3": {
+      "type": "custom-content",
+      "blocks": {
+        "text_QB7CGm": {
+          "type": "text",
+          "settings": {
+            "block_width": "33",
+            "subheading": "",
+            "heading": "TRAIL SNEAKER",
+            "heading_size": "h2",
+            "text": "<p>A true signature merge between rugged tactical aesthetics and trail functionalities. Featuring a polyester mesh upper, nylon ripstop TPU film fused detailing alongside trail-inspired laces and rear pull tabs.</p>",
+            "vertical_alignment": "end",
+            "text_alignment": "start",
+            "button_label": "Shop now",
+            "button_link": "",
+            "button_type": "primary-white",
+            "show_icon": true,
+            "bg_color": "",
+            "text_color": "",
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "padding_left": 50,
+            "padding_right": 64,
+            "padding_top_mobile": 24,
+            "padding_bottom_mobile": 0,
+            "padding_left_mobile": 24,
+            "padding_right_mobile": 24
+          }
+        },
+        "image_nyUczL": {
+          "type": "image",
+          "settings": {
+            "block_width": "66",
+            "image_size": "wide",
+            "link": "",
+            "vertical_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "text_QB7CGm",
+        "image_nyUczL"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_width": "w-full",
+        "subheading": "",
+        "heading": "",
+        "heading_size_section": "h2",
+        "description": "",
+        "layout": "vertical",
+        "column_gap": "0",
+        "row_gap": "24",
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "padding_top": 20,
+        "padding_bottom": 0,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
     "gallery_grid_MpwGUQ": {
       "type": "gallery-grid",
       "blocks": {
         "image_m3xdwH": {
           "type": "image",
           "settings": {
-
             "active_video": false,
             "media_size": "square",
             "subheading": "Minimalism",
@@ -375,7 +374,7 @@
             "heading_size": "h3",
             "text": "",
             "button_label": "Shop now",
-
+            "button_link": "",
             "button_type": "primary-white",
             "show_icon": false,
             "desktop_content_position": "bottom-center",
@@ -389,7 +388,6 @@
         "image_C9YCQC": {
           "type": "image",
           "settings": {
-
             "active_video": false,
             "media_size": "square",
             "subheading": "Restocked",
@@ -397,7 +395,7 @@
             "heading_size": "h3",
             "text": "",
             "button_label": "Shop now",
-
+            "button_link": "",
             "button_type": "primary-white",
             "show_icon": false,
             "desktop_content_position": "bottom-center",
@@ -413,6 +411,7 @@
         "image_m3xdwH",
         "image_C9YCQC"
       ],
+      "disabled": true,
       "settings": {
         "section_width": "w-full",
         "subheading": "",
@@ -463,6 +462,7 @@
         "collection_pbwT9x",
         "collection_haanDg"
       ],
+      "disabled": true,
       "settings": {
         "section_width": "container-fluid",
         "subheading": "Timeless Shirting",
@@ -502,7 +502,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop the Collection",
-
+            "button_link": "",
             "button_type": "outline",
             "show_icon": true
           }
@@ -511,6 +511,7 @@
       "block_order": [
         "button_candr4"
       ],
+      "disabled": true,
       "settings": {
         "section_width": "container-fluid",
         "content_width": "container",
@@ -532,7 +533,6 @@
         "video_JymGaf": {
           "type": "video",
           "settings": {
-
             "width_image": 400,
             "video_size": "square",
             "offset_config": -50
@@ -541,7 +541,6 @@
         "image_4T4wnt": {
           "type": "image",
           "settings": {
-
             "width_image": 260,
             "image_size": "adapt",
             "offset_config": -200
@@ -550,7 +549,6 @@
         "image_ey9hM3": {
           "type": "image",
           "settings": {
-
             "width_image": 220,
             "image_size": "adapt",
             "offset_config": 200
@@ -559,7 +557,6 @@
         "video_qzw9tK": {
           "type": "video",
           "settings": {
-
             "width_image": 300,
             "video_size": "square",
             "offset_config": 50
@@ -568,7 +565,6 @@
         "image_YhekUM": {
           "type": "image",
           "settings": {
-
             "width_image": 280,
             "image_size": "adapt",
             "offset_config": -50
@@ -577,7 +573,6 @@
         "image_dnX9j3": {
           "type": "image",
           "settings": {
-
             "width_image": 184,
             "image_size": "adapt",
             "offset_config": 20
@@ -586,7 +581,6 @@
         "image_WWGgmB": {
           "type": "image",
           "settings": {
-
             "width_image": 272,
             "image_size": "adapt",
             "offset_config": 50
@@ -602,6 +596,7 @@
         "image_dnX9j3",
         "image_WWGgmB"
       ],
+      "disabled": true,
       "custom_css": [],
       "settings": {
         "content_alignment": "center",
@@ -611,7 +606,7 @@
         "heading_size": "hxl",
         "text": "<p>Intelligentsia migas next level 90s woke ramps. Glossier vape celiac tumeric keffiyeh.</p>",
         "button_label": "Discover now",
-
+        "button_link": "",
         "button_type": "primary",
         "show_icon": true,
         "show_parallax_scroll": true,
@@ -635,14 +630,13 @@
         "media_wcCarV": {
           "type": "media",
           "settings": {
-
             "active_video": false,
             "subheading": "Exclusive",
             "heading": "Human Made",
             "heading_size": "h1",
             "text": "",
             "button_label": "Discover now",
-
+            "button_link": "",
             "button_type": "primary-white",
             "show_icon": true,
             "column": 8,
@@ -661,14 +655,13 @@
         "media_yx6GJG": {
           "type": "media",
           "settings": {
-
             "active_video": false,
             "subheading": "",
             "heading": "Bon Weekend",
             "heading_size": "h3",
             "text": "",
             "button_label": "Discover now",
-
+            "button_link": "",
             "button_type": "underlined-white",
             "show_icon": true,
             "column": 4,
@@ -687,14 +680,13 @@
         "media_HqHG3d": {
           "type": "media",
           "settings": {
-
             "active_video": false,
             "subheading": "",
             "heading": "Street  Wear",
             "heading_size": "h3",
             "text": "",
             "button_label": "See more",
-
+            "button_link": "",
             "button_type": "underlined-white",
             "show_icon": true,
             "column": 4,
@@ -716,6 +708,7 @@
         "media_yx6GJG",
         "media_HqHG3d"
       ],
+      "disabled": true,
       "custom_css": [
         ".media-grid__item--heading {max-width: 20rem;}"
       ],
@@ -765,7 +758,6 @@
         "image_nx4ckh": {
           "type": "image",
           "settings": {
-
             "active_video": false,
             "media_size": "full-screen",
             "subheading": "No code necessary",
@@ -773,7 +765,7 @@
             "heading_size": "h3",
             "text": "",
             "button_label": "Shop now",
-
+            "button_link": "",
             "button_type": "primary-white",
             "show_icon": true,
             "desktop_content_position": "bottom-center",
@@ -788,6 +780,7 @@
         "product_q4XYUe",
         "image_nx4ckh"
       ],
+      "disabled": true,
       "custom_css": [
         ".products-with-banner__info-inner {max-width: 380px;}",
         "@media screen and (min-width: 768px) {.orgap-desk {row-gap: 2.5rem; }}"
@@ -852,7 +845,7 @@
           "type": "buttons",
           "settings": {
             "button_label": "Shop now",
-
+            "button_link": "",
             "button_type": "primary-white",
             "show_icon": true,
             "moving_button": true
@@ -866,9 +859,9 @@
         "separator_yMt4TJ",
         "buttons_EctyzN"
       ],
+      "disabled": true,
       "settings": {
         "section_width": "w-full",
-
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "description_video": "",
         "desktop_height_mode": "fixed",
@@ -887,9 +880,9 @@
     },
     "countdown_bar_B3Jm8U": {
       "type": "countdown-bar",
+      "disabled": true,
       "settings": {
         "section_width": "container",
-
         "end_time": "2025/12/31 23:59:59",
         "style": "outline",
         "font_family": "heading",
@@ -900,7 +893,7 @@
         "heading_size": "h5",
         "text": "<p>Seasonal Closeout: Get Ready for the End of Season Deals.</p>",
         "button_label": "Get Deal Now",
-
+        "button_link": "",
         "button_type": "outline",
         "show_icon": true,
         "bg_color": "",
@@ -931,7 +924,7 @@
             "vertical_alignment": "start",
             "text_alignment": "start",
             "button_label": "Shop now",
-
+            "button_link": "",
             "button_type": "primary",
             "show_icon": false,
             "bg_color": "",
@@ -979,6 +972,7 @@
         "text_GgNtwV",
         "product_list_NMUTja"
       ],
+      "disabled": true,
       "settings": {
         "section_width": "container-fluid",
         "subheading": "",
@@ -1005,7 +999,6 @@
         "image_Lniabg": {
           "type": "image",
           "settings": {
-
             "image_width": 170,
             "image_width_mobile": 170
           }
@@ -1043,7 +1036,7 @@
           "type": "buttons",
           "settings": {
             "button_label": "Shop Season",
-    
+            "button_link": "",
             "button_type": "primary",
             "show_icon": true,
             "moving_button": true
@@ -1058,9 +1051,9 @@
         "separator_NQTx8G",
         "buttons_XgRqXT"
       ],
+      "disabled": true,
       "settings": {
         "section_width": "w-full",
-
         "link": "",
         "desktop_height_mode": "fixed",
         "desktop_fixed_height": 680,
@@ -1109,6 +1102,7 @@
         "paragraph_RpGLj3",
         "email_form_xcUegx"
       ],
+      "disabled": true,
       "settings": {
         "section_width": "container",
         "form_position": "center",
@@ -1135,7 +1129,6 @@
         "image_with_text_3wdMVw": {
           "type": "image_with_text",
           "settings": {
-
             "subheading": "Expression Redefined ",
             "heading": "Versatile Street Style",
             "heading_size": "h0",
@@ -1143,7 +1136,7 @@
             "color_text": "#ffffff",
             "color_background": "",
             "button_text": "Shop now",
-
+            "button_link": "",
             "button_type": "primary",
             "show_icon": true
           }
@@ -1151,7 +1144,6 @@
         "image_with_text_kgX8f9": {
           "type": "image_with_text",
           "settings": {
-
             "subheading": "Bold style",
             "heading": "Matte Black Edition",
             "heading_size": "h0",
@@ -1159,7 +1151,7 @@
             "color_text": "#ffffff",
             "color_background": "",
             "button_text": "Pre-Order today",
-
+            "button_link": "",
             "button_type": "primary",
             "show_icon": true
           }
@@ -1169,6 +1161,7 @@
         "image_with_text_3wdMVw",
         "image_with_text_kgX8f9"
       ],
+      "disabled": true,
       "custom_css": [
         ".image-with-text-slideshow__header {font-weight: 600;}"
       ],
@@ -1210,7 +1203,6 @@
         "card_JY4PAR": {
           "type": "card",
           "settings": {
-
             "media_size": "square",
             "media_placement": "left",
             "subheading": "",
@@ -1220,7 +1212,7 @@
             "vertical_alignment": "center",
             "text_alignment": "center",
             "button_label": "Learn more",
-
+            "button_link": "",
             "button_type": "outline",
             "show_icon": true,
             "bg_color": "#333333",
@@ -1230,7 +1222,6 @@
         "card_8ep6bh": {
           "type": "card",
           "settings": {
-
             "media_size": "square",
             "media_placement": "right",
             "subheading": "",
@@ -1240,7 +1231,7 @@
             "vertical_alignment": "center",
             "text_alignment": "center",
             "button_label": "Learn more",
-
+            "button_link": "",
             "button_type": "outline",
             "show_icon": true,
             "bg_color": "#333333",
@@ -1250,7 +1241,6 @@
         "card_VjdrwP": {
           "type": "card",
           "settings": {
-
             "media_size": "square",
             "media_placement": "left",
             "subheading": "",
@@ -1260,7 +1250,7 @@
             "vertical_alignment": "center",
             "text_alignment": "center",
             "button_label": "Learn more",
-    
+            "button_link": "",
             "button_type": "outline",
             "show_icon": true,
             "bg_color": "#333333",
@@ -1273,6 +1263,7 @@
         "card_8ep6bh",
         "card_VjdrwP"
       ],
+      "disabled": true,
       "settings": {
         "section_width": "container",
         "subheading": "",
@@ -1305,7 +1296,6 @@
         "text_XBPtRR": {
           "type": "text",
           "settings": {
-
             "text": "",
             "link": "",
             "outline_text": false
@@ -1322,7 +1312,6 @@
         "text_9Ygrqw": {
           "type": "text",
           "settings": {
-
             "text": "",
             "link": "",
             "outline_text": false
@@ -1339,7 +1328,6 @@
         "text_gHy6dm": {
           "type": "text",
           "settings": {
-
             "text": "",
             "link": "",
             "outline_text": false
@@ -1354,6 +1342,7 @@
         "text_zTNWCq",
         "text_gHy6dm"
       ],
+      "disabled": true,
       "settings": {
         "section_width": "w-full",
         "text_size": "hxl",
@@ -1388,7 +1377,6 @@
         "text_XXm6Aa": {
           "type": "text",
           "settings": {
-
             "text": "",
             "link": "",
             "outline_text": false
@@ -1405,7 +1393,6 @@
         "text_NRpUcF": {
           "type": "text",
           "settings": {
-
             "text": "",
             "link": "",
             "outline_text": false
@@ -1422,7 +1409,6 @@
         "text_hQ9Gdp": {
           "type": "text",
           "settings": {
-
             "text": "",
             "link": "",
             "outline_text": false
@@ -1437,6 +1423,7 @@
         "text_CHERff",
         "text_hQ9Gdp"
       ],
+      "disabled": true,
       "settings": {
         "section_width": "w-full",
         "text_size": "hxl",
@@ -1459,6 +1446,7 @@
     },
     "featured_blog_FNB946": {
       "type": "featured-blog",
+      "disabled": true,
       "custom_css": [
         ".article__content {padding-inline-end: 3rem;}"
       ],
@@ -1507,7 +1495,6 @@
         "gallery_JzXt3e": {
           "type": "gallery",
           "settings": {
-
             "text": "@Sam",
             "link": ""
           }
@@ -1515,7 +1502,6 @@
         "gallery_q8p6mK": {
           "type": "gallery",
           "settings": {
-
             "text": "@Orange",
             "link": ""
           }
@@ -1523,7 +1509,6 @@
         "gallery_Q3K8yh": {
           "type": "gallery",
           "settings": {
-
             "text": "@pinklio",
             "link": ""
           }
@@ -1531,7 +1516,6 @@
         "gallery_h9Giqc": {
           "type": "gallery",
           "settings": {
-
             "text": "@Paml",
             "link": ""
           }
@@ -1543,6 +1527,7 @@
         "gallery_Q3K8yh",
         "gallery_h9Giqc"
       ],
+      "disabled": true,
       "settings": {
         "section_width": "container-fluid",
         "subheading": "Stay inspired",
@@ -1578,7 +1563,7 @@
       "type": "custom-html",
       "settings": {
         "section_width": "w-full",
-        "custom_html": "<div class=\"glitch-wrapper\">\n   <div class=\"glitch\" data-glitch=\"xstreet\">xstreet</div>\n</div>\n\n<style>\n.glitch-wrapper {\n   width: 100%;\n   height: 100%;\n   display: flex;\n   align-items: center;\n   justify-content: center;\n   text-align: center;\n   background-color:rgb(var(--color-background));\n}\n\n.glitch {\n   position: relative;\n   font-size: clamp(3rem, 15vw, 70rem);\n   font-weight: 700;\n   line-height: 1.2;\n   color:rgb(var(--color-heading));\n   letter-spacing: 10px;\n   z-index: 1;\n    -webkit-text-stroke: 1px rgb(var(--color-heading));\n    -webkit-text-fill-color: transparent;\n}\n\n.glitch:before {\n   content: attr(data-glitch);\n   position: absolute;\n   top: 0;\n   left: -2px;\n   width: 100%;\n   color: rgb(var(--color-heading));\n   background-color: rgb(var(--color-background));\n   overflow: hidden;\n   clip: rect(0, 900px, 0, 0);\n   animation: noise-before 3s infinite linear alternate-reverse;\n}\n\n.glitch:after {\n   content: attr(data-glitch);\n   position: absolute;\n   top: 0;\n   left: 2px;\n   width: 100%;\n   color: rgb(var(--color-heading));\n   background-color:rgb(var(--color-background));\n   overflow: hidden;\n   clip: rect(0, 900px, 0, 0);\n   animation: noise-after 2s infinite linear alternate-reverse;\n}\n\n@keyframes noise-before {\n   0% {\n      clip: rect(61px, 9999px, 52px, 0);\n   }\n\n   5% {\n      clip: rect(33px, 9999px, 144px, 0);\n   }\n\n   10% {\n      clip: rect(121px, 9999px, 115px, 0);\n   }\n\n   15% {\n      clip: rect(144px, 9999px, 162px, 0);\n   }\n\n   20% {\n      clip: rect(62px, 9999px, 180px, 0);\n   }\n\n   25% {\n      clip: rect(34px, 9999px, 42px, 0);\n   }\n\n   30% {\n      clip: rect(147px, 9999px, 179px, 0);\n   }\n\n   35% {\n      clip: rect(99px, 9999px, 63px, 0);\n   }\n\n   40% {\n      clip: rect(188px, 9999px, 122px, 0);\n   }\n\n   45% {\n      clip: rect(154px, 9999px, 14px, 0);\n   }\n\n   50% {\n      clip: rect(63px, 9999px, 37px, 0);\n   }\n\n   55% {\n      clip: rect(161px, 9999px, 147px, 0);\n   }\n\n   60% {\n      clip: rect(109px, 9999px, 175px, 0);\n   }\n\n   65% {\n      clip: rect(157px, 9999px, 88px, 0);\n   }\n\n   70% {\n      clip: rect(173px, 9999px, 131px, 0);\n   }\n\n   75% {\n      clip: rect(62px, 9999px, 70px, 0);\n   }\n\n   80% {\n      clip: rect(24px, 9999px, 153px, 0);\n   }\n\n   85% {\n      clip: rect(138px, 9999px, 40px, 0);\n   }\n\n   90% {\n      clip: rect(79px, 9999px, 136px, 0);\n   }\n\n   95% {\n      clip: rect(25px, 9999px, 34px, 0);\n   }\n\n   100% {\n      clip: rect(173px, 9999px, 166px, 0);\n   }\n}\n\n@keyframes noise-after {\n   0% {\n      clip: rect(26px, 9999px, 33px, 0);\n   }\n\n   5% {\n      clip: rect(140px, 9999px, 198px, 0);\n   }\n\n   10% {\n      clip: rect(184px, 9999px, 89px, 0);\n   }\n\n   15% {\n      clip: rect(121px, 9999px, 6px, 0);\n   }\n\n   20% {\n      clip: rect(181px, 9999px, 99px, 0);\n   }\n\n   25% {\n      clip: rect(154px, 9999px, 133px, 0);\n   }\n\n   30% {\n      clip: rect(134px, 9999px, 169px, 0);\n   }\n\n   35% {\n      clip: rect(26px, 9999px, 187px, 0);\n   }\n\n   40% {\n      clip: rect(147px, 9999px, 137px, 0);\n   }\n\n   45% {\n      clip: rect(31px, 9999px, 52px, 0);\n   }\n\n   50% {\n      clip: rect(191px, 9999px, 109px, 0);\n   }\n\n   55% {\n      clip: rect(74px, 9999px, 54px, 0);\n   }\n\n   60% {\n      clip: rect(145px, 9999px, 75px, 0);\n   }\n\n   65% {\n      clip: rect(153px, 9999px, 198px, 0);\n   }\n\n   70% {\n      clip: rect(99px, 9999px, 136px, 0);\n   }\n\n   75% {\n      clip: rect(118px, 9999px, 192px, 0);\n   }\n\n   80% {\n      clip: rect(1px, 9999px, 83px, 0);\n   }\n\n   85% {\n      clip: rect(145px, 9999px, 98px, 0);\n   }\n\n   90% {\n      clip: rect(121px, 9999px, 154px, 0);\n   }\n\n   95% {\n      clip: rect(156px, 9999px, 44px, 0);\n   }\n\n   100% {\n      clip: rect(67px, 9999px, 122px, 0);\n   }\n}\n</style>",
+        "custom_html": "<div class=\"glitch-wrapper\">\n   <div class=\"glitch\" data-glitch=\"FASTBREAK.\">FASTBREAK.</div>\n</div>\n\n<style>\n.glitch-wrapper {\n   width: 100%;\n   height: 100%;\n   display: flex;\n   align-items: center;\n   justify-content: center;\n   text-align: center;\n   background-color:rgb(var(--color-background));\n}\n\n.glitch {\n   position: relative;\n   font-size: clamp(3rem, 15vw, 70rem);\n   font-weight: 700;\n   line-height: 1.2;\n   color:rgb(var(--color-heading));\n   letter-spacing: 10px;\n   z-index: 1;\n    -webkit-text-stroke: 1px rgb(var(--color-heading));\n    -webkit-text-fill-color: transparent;\n}\n\n.glitch:before {\n   content: attr(data-glitch);\n   position: absolute;\n   top: 0;\n   left: -2px;\n   width: 100%;\n   color: rgb(var(--color-heading));\n   background-color: rgb(var(--color-background));\n   overflow: hidden;\n   clip: rect(0, 900px, 0, 0);\n   animation: noise-before 3s infinite linear alternate-reverse;\n}\n\n.glitch:after {\n   content: attr(data-glitch);\n   position: absolute;\n   top: 0;\n   left: 2px;\n   width: 100%;\n   color: rgb(var(--color-heading));\n   background-color:rgb(var(--color-background));\n   overflow: hidden;\n   clip: rect(0, 900px, 0, 0);\n   animation: noise-after 2s infinite linear alternate-reverse;\n}\n\n@keyframes noise-before {\n   0% {\n      clip: rect(61px, 9999px, 52px, 0);\n   }\n\n   5% {\n      clip: rect(33px, 9999px, 144px, 0);\n   }\n\n   10% {\n      clip: rect(121px, 9999px, 115px, 0);\n   }\n\n   15% {\n      clip: rect(144px, 9999px, 162px, 0);\n   }\n\n   20% {\n      clip: rect(62px, 9999px, 180px, 0);\n   }\n\n   25% {\n      clip: rect(34px, 9999px, 42px, 0);\n   }\n\n   30% {\n      clip: rect(147px, 9999px, 179px, 0);\n   }\n\n   35% {\n      clip: rect(99px, 9999px, 63px, 0);\n   }\n\n   40% {\n      clip: rect(188px, 9999px, 122px, 0);\n   }\n\n   45% {\n      clip: rect(154px, 9999px, 14px, 0);\n   }\n\n   50% {\n      clip: rect(63px, 9999px, 37px, 0);\n   }\n\n   55% {\n      clip: rect(161px, 9999px, 147px, 0);\n   }\n\n   60% {\n      clip: rect(109px, 9999px, 175px, 0);\n   }\n\n   65% {\n      clip: rect(157px, 9999px, 88px, 0);\n   }\n\n   70% {\n      clip: rect(173px, 9999px, 131px, 0);\n   }\n\n   75% {\n      clip: rect(62px, 9999px, 70px, 0);\n   }\n\n   80% {\n      clip: rect(24px, 9999px, 153px, 0);\n   }\n\n   85% {\n      clip: rect(138px, 9999px, 40px, 0);\n   }\n\n   90% {\n      clip: rect(79px, 9999px, 136px, 0);\n   }\n\n   95% {\n      clip: rect(25px, 9999px, 34px, 0);\n   }\n\n   100% {\n      clip: rect(173px, 9999px, 166px, 0);\n   }\n}\n\n@keyframes noise-after {\n   0% {\n      clip: rect(26px, 9999px, 33px, 0);\n   }\n\n   5% {\n      clip: rect(140px, 9999px, 198px, 0);\n   }\n\n   10% {\n      clip: rect(184px, 9999px, 89px, 0);\n   }\n\n   15% {\n      clip: rect(121px, 9999px, 6px, 0);\n   }\n\n   20% {\n      clip: rect(181px, 9999px, 99px, 0);\n   }\n\n   25% {\n      clip: rect(154px, 9999px, 133px, 0);\n   }\n\n   30% {\n      clip: rect(134px, 9999px, 169px, 0);\n   }\n\n   35% {\n      clip: rect(26px, 9999px, 187px, 0);\n   }\n\n   40% {\n      clip: rect(147px, 9999px, 137px, 0);\n   }\n\n   45% {\n      clip: rect(31px, 9999px, 52px, 0);\n   }\n\n   50% {\n      clip: rect(191px, 9999px, 109px, 0);\n   }\n\n   55% {\n      clip: rect(74px, 9999px, 54px, 0);\n   }\n\n   60% {\n      clip: rect(145px, 9999px, 75px, 0);\n   }\n\n   65% {\n      clip: rect(153px, 9999px, 198px, 0);\n   }\n\n   70% {\n      clip: rect(99px, 9999px, 136px, 0);\n   }\n\n   75% {\n      clip: rect(118px, 9999px, 192px, 0);\n   }\n\n   80% {\n      clip: rect(1px, 9999px, 83px, 0);\n   }\n\n   85% {\n      clip: rect(145px, 9999px, 98px, 0);\n   }\n\n   90% {\n      clip: rect(121px, 9999px, 154px, 0);\n   }\n\n   95% {\n      clip: rect(156px, 9999px, 44px, 0);\n   }\n\n   100% {\n      clip: rect(67px, 9999px, 122px, 0);\n   }\n}\n</style>",
         "bg_color": "#333333",
         "text_color": "#daff35",
         "border_color": "",
@@ -1593,9 +1578,9 @@
   },
   "order": [
     "slideshow_new_jBP7ad",
+    "collection_list_Xi8cjB",
     "collection_showcase_pgmKfp",
     "custom_content_KnUKW3",
-    "collection_list_Xi8cjB",
     "gallery_grid_MpwGUQ",
     "collection_tabs_CCw7y4",
     "rich_text_LqTtq3",
