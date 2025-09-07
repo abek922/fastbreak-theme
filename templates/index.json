@@ -15,6 +15,7 @@
         "slide_8nh3a9": {
           "type": "_slide",
           "settings": {
+            "image": "shopify://shop_images/Perfume_25aw_01.jpg",
             "slide_link": "",
             "video_background": false,
             "content_width": 560,
@@ -30,14 +31,14 @@
             "slide_subheading_UnKtYK": {
               "type": "_slide_subheading",
               "settings": {
-                "subheading": "Neighborhood"
+                "subheading": ""
               },
               "blocks": {}
             },
             "slide_heading_9kL4D8": {
               "type": "_slide_heading",
               "settings": {
-                "heading": "Xstreet for [f]Flagship.[/f]",
+                "heading": "PerfumeｘReebok [f]Apparel collections[/f]",
                 "highlighted_word_type": "single_line",
                 "heading_size": "hxl",
                 "color_text_highlighted": "#00ffde"
