@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "Header",
   "type": "header",
@@ -46,7 +55,6 @@
       ],
       "settings": {
         "section_width": "w-full",
-
         "text_size": "size-base",
         "pause_scroll_on_hover": true,
         "spacing": 80,
@@ -73,6 +81,9 @@
           "settings": {
             "text": "Unlock save 15% off ⚡",
             "icon": "none",
+            "button_label": "Button text",
+            "button_type": "primary",
+            "show_icon": false,
             "link": "",
             "show_countdown": true,
             "end_time": "2025/12/31 23:59:59"
@@ -83,6 +94,9 @@
           "settings": {
             "text": "Free shipping on orders of $49+",
             "icon": "box",
+            "button_label": "Button text",
+            "button_type": "primary",
+            "show_icon": false,
             "link": "",
             "show_countdown": false,
             "end_time": "2025/12/31 23:59:59"
@@ -115,6 +129,7 @@
           "type": "megamenu",
           "settings": {
             "menu_item": "Shop",
+            "label_type": "badge",
             "label_text": "New",
             "label_color": "#d2fe0d",
             "label_bg_color": "#353535",
@@ -127,9 +142,8 @@
             "postion_banner": "right",
             "columns_banner": 45,
             "columns_banner_per_row": 3,
-
             "image_ratio_1": "square",
-
+            "url_1": "",
             "align_text_1": "bottom-center",
             "sub_title_1": "",
             "title_1": "",
@@ -141,9 +155,8 @@
             "overlay_color_1": "#000000",
             "overlay_opacity_1": 30,
             "overlay_gradient_1": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)",
-
             "image_ratio_2": "square",
-
+            "url_2": "",
             "align_text_2": "bottom-center",
             "sub_title_2": "",
             "title_2": "",
@@ -155,9 +168,8 @@
             "overlay_color_2": "#000000",
             "overlay_opacity_2": 30,
             "overlay_gradient_2": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)",
-
             "image_ratio_3": "square",
-
+            "url_3": "",
             "align_text_3": "bottom-center",
             "sub_title_3": "",
             "title_3": "",
@@ -213,7 +225,7 @@
         "link_next_icon_axYfL9": {
           "type": "link_next_icon",
           "settings": {
-            "menu_next_icon": "menu-next-icon",
+            "menu_next_icon": "",
             "enable_style_menu": true
           }
         }
@@ -228,7 +240,7 @@
       "settings": {
         "section_width": "container-fluid",
         "logo_position": "middle-center",
-
+        "logo": "shopify://shop_images/logo_fastbreak.png",
         "logo_width": 150,
         "logo_width_mobile": 130,
         "menu": "main-menu",
@@ -242,8 +254,8 @@
         "enable_language_selector": true,
         "transparent_header": true,
         "text_color_transparent_header": "#ffffff",
-
         "mobile_logo_position": "center",
+        "mobile_menu_behavior": "link-and-toggle",
         "enable_country_selector_mobile": true,
         "enable_language_selector_mobile": true,
         "margin_bottom": 0,
@@ -317,8 +329,6 @@
       "disabled": true,
       "name": "Hero branding",
       "settings": {
-
-
         "color_text": "#ffffff",
         "color_text_highlighted": "#daff35",
         "overlay_color": "#000000",
