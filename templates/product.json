@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "breadcrumbs_ka3wVn": {
@@ -58,6 +67,7 @@
         },
         "rich_text_gJV7TU": {
           "type": "rich-text",
+          "disabled": true,
           "settings": {
             "align": "start",
             "icon": "gift",
@@ -70,6 +80,7 @@
         },
         "fit_guide_XMaR7j": {
           "type": "fit_guide",
+          "disabled": true,
           "settings": {
             "heading": "Fit",
             "active_segmment": "3",
@@ -88,6 +99,7 @@
         },
         "inventory_xyPUV8": {
           "type": "inventory",
+          "disabled": true,
           "settings": {
             "inventory_threshold": 9,
             "inventory_base_quantity": 100,
@@ -119,6 +131,7 @@
         },
         "sku_yqmVAY": {
           "type": "sku",
+          "disabled": true,
           "settings": {
             "text_style": "subheading"
           }
@@ -136,6 +149,7 @@
         },
         "icon_with_text_6bTTF3": {
           "type": "icon-with-text",
+          "disabled": true,
           "settings": {
             "layout": "horizontal",
             "icon_size": 20,
@@ -211,6 +225,7 @@
         },
         "up_sell_fJxhhT": {
           "type": "up_sell",
+          "disabled": true,
           "settings": {
             "upsell_type": "border",
             "heading": "Complete The Set",
@@ -223,12 +238,14 @@
         },
         "share": {
           "type": "share",
+          "disabled": true,
           "settings": {
             "share_label": "Share:"
           }
         },
         "trust_badge_hgnnaj": {
           "type": "trust-badge",
+          "disabled": true,
           "settings": {
             "text": "<p>Secure Checkout with</p>",
             "badge_type": "payment-icon",
@@ -269,11 +286,11 @@
         "enable_max_width_content": true,
         "show_sticky_add_to_cart_bar": true,
         "media_width": 50,
-        "media_aspect_ratio": "adapt",
+        "media_aspect_ratio": "square",
         "thumbnail_aspect_ratio": "square",
-        "gallery_layout": "columns_mix",
+        "gallery_layout": "thumbnail",
         "media_position": "left",
-        "info_in_media": "170 cm • EU 36 (UK 10, Small)",
+        "info_in_media": "",
         "show_lightbox": true,
         "enable_video_autoplay": true,
         "enable_video_looping": true,
@@ -410,6 +427,7 @@
         "text_Rd3bm3",
         "text_PH9P7t"
       ],
+      "disabled": true,
       "settings": {
         "section_width": "container",
         "text_size": "h6",
@@ -436,7 +454,8 @@
         "icon_aRPrHz": {
           "type": "icon",
           "settings": {
-            "icon": "snowflake"
+            "icon": "snowflake",
+            "icon_size": 2.5
           }
         },
         "separator_KMXFj3": {
@@ -464,7 +483,9 @@
           "type": "text",
           "settings": {
             "text": "<p>These aren't just pendants; they're statement pieces that let you rep your most meaningful numbers</p><p>Whether it's your birth year, lucky digits, or significant dates, each piece becomes part of your personal narrative in the streets.</p>",
-            "large_text": false
+            "large_text": false,
+            "show_more_toggle": false,
+            "max_height": 8
           }
         },
         "separator_NwXJTF": {
@@ -478,7 +499,7 @@
           "type": "button",
           "settings": {
             "button_label": "Read more",
-
+            "button_link": "",
             "button_type": "primary",
             "show_icon": true
           }
@@ -493,6 +514,7 @@
         "separator_NwXJTF",
         "button_iQ4ay8"
       ],
+      "disabled": true,
       "custom_css": [
         ".rich-text__icon .icon {--size: 3.5rem;}"
       ],
@@ -518,7 +540,6 @@
           "type": "image",
           "settings": {
             "block_width": "33",
-
             "image_size": "portrait",
             "link": "",
             "vertical_alignment": "center"
@@ -535,7 +556,7 @@
             "vertical_alignment": "center",
             "text_alignment": "center",
             "button_label": "discover now",
-
+            "button_link": "",
             "button_type": "primary-white",
             "show_icon": false,
             "bg_color": "#516944",
@@ -554,7 +575,6 @@
           "type": "image",
           "settings": {
             "block_width": "33",
-
             "image_size": "portrait",
             "link": "",
             "vertical_alignment": "center"
@@ -566,6 +586,7 @@
         "text_xUmgYC",
         "image_NbVLhx"
       ],
+      "disabled": true,
       "settings": {
         "section_width": "container",
         "subheading": "",
@@ -642,6 +663,7 @@
         "collapsible_row_VUjqRh",
         "collapsible_row_x7yPCY"
       ],
+      "disabled": true,
       "settings": {
         "section_width": "container",
         "subheading": "",
@@ -712,9 +734,9 @@
         "separator_ajbBNp",
         "text_N7F6Pd"
       ],
+      "disabled": true,
       "settings": {
         "section_width": "w-full",
-
         "video_url": "https://www.youtube.com/watch?v=qn22ohJZG-g",
         "description_video": "Elegance Crafted to Perfection",
         "desktop_height_mode": "fixed",
