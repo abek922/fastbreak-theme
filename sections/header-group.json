@@ -239,7 +239,7 @@
       ],
       "settings": {
         "section_width": "container-fluid",
-        "logo_position": "middle-center",
+        "logo_position": "middle-center-drawer",
         "logo": "shopify://shop_images/logo_fastbreak.png",
         "logo_width": 150,
         "logo_width_mobile": 130,
