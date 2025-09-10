@@ -16,7 +16,7 @@
       "login_form_password_placeholder": "あなたのパスワード",
       "login_form_error": "パスワードが間違っています!",
       "login_form_submit": "入力",
-      "admin_link_html": "あなたは店のオーナーですか？ <a href=\"\/admin\" class=\"link underlined-link\">ここからログインしてください<\/a>",
+      "admin_link_html": "あなたは店のオーナーですか？ <a href=\"/admin\" class=\"link underlined-link\">ここからログインしてください</a>",
       "powered_by_shopify_html": "このショップは {{ shopify }}"
     },
     "social": {
@@ -149,7 +149,7 @@
       "save_html": "保存 {{ save_amount }}",
       "product_variants": "製品バリエーション",
       "product_information_tab": "製品情報タブ",
-      "back_in_stock":{
+      "back_in_stock": {
         "name_product": "製品名",
         "description": "この商品が再入荷したら通知を受け取ります!",
         "variant": "変異体",
@@ -176,22 +176,22 @@
         "multiples_of": "の増分 {{ quantity }}",
         "min_of": "分 {{ quantity }}",
         "max_of": "マックス {{ quantity }}",
-        "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}<\/span> カート内",
+        "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}</span> カート内",
         "note": "数量ルールを表示する"
       },
       "volume_pricing": {
         "title": "ボリュームプライシング",
         "note": "ボリューム料金が利用可能",
         "minimum": "{{ quantity }}+",
-        "price_at_each": "で {{ price }}\/ea",
+        "price_at_each": "で {{ price }}/ea",
         "price_range": "{{ minimum }} - {{ maximum }}"
       },
       "pickup_availability": {
         "view_store_info": "店舗情報を見る",
         "check_other_stores": "他店舗の在庫状況を確認する",
         "pick_up_available": "送迎可能",
-        "pick_up_available_at_html": "受け取り可能場所 <strong>{{ location_name }}<\/strong>",
-        "pick_up_unavailable_at_html": "現在、次の場所での受け取りはできません <strong>{{ location_name }}<\/strong>",
+        "pick_up_available_at_html": "受け取り可能場所 <strong>{{ location_name }}</strong>",
+        "pick_up_unavailable_at_html": "現在、次の場所での受け取りはできません <strong>{{ location_name }}</strong>",
         "unavailable": "受け取り可能状況を読み込めませんでした",
         "refresh": "リフレッシュ"
       },
@@ -213,7 +213,7 @@
       "xr_button": "あなたのスペースで見る",
       "xr_button_label": "自分のスペースで表示し、拡張現実ウィンドウにアイテムをロードします",
       "include_taxes": "税込。",
-      "shipping_policy_html": "<a href=\"{{ link }}\">配送<\/a> チェックアウト時に計算されます。",
+      "shipping_policy_html": "<a href=\"{{ link }}\">配送</a> チェックアウト時に計算されます。",
       "available": {
         "one": "{{ count }} 色が利用可能",
         "other": "{{ count }} 色が利用可能"
@@ -338,9 +338,9 @@
       "empty_collection": "コレクションを見る",
       "cart_error": "カートの更新中にエラーが発生しました。",
       "cart_quantity_error_html": "追加することしかできません {{ quantity }} この商品をカートに入れます。",
-      "taxes_and_shipping_policy_at_checkout_html": "税金、割引、 <a href=\"{{ link }}\">配送<\/a> チェックアウト時に計算される",
+      "taxes_and_shipping_policy_at_checkout_html": "税金、割引、 <a href=\"{{ link }}\">配送</a> チェックアウト時に計算される",
       "taxes_included_but_shipping_at_checkout": "税金が含まれており、送料と割引はチェックアウト時に計算されます",
-      "taxes_included_and_shipping_policy_html": "税込。 <a href=\"{{ link }}\">配送<\/a> チェックアウト時に割引が計算されます。",
+      "taxes_included_and_shipping_policy_html": "税込。 <a href=\"{{ link }}\">配送</a> チェックアウト時に割引が計算されます。",
       "taxes_and_shipping_at_checkout": "税金、割引、送料はチェックアウト時に計算されます",
       "view_cart": "カートを見る",
       "remove": "取り除く",
@@ -354,7 +354,7 @@
       "update": "アップデート",
       "login": {
         "title": "アカウントをお持ちですか?",
-        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">ログイン<\/a> より早くチェックアウトするには。"
+        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">ログイン</a> より早くチェックアウトするには。"
       },
       "free_shipping": {
         "eligibility_notice": "送料無料の対象となります。"
@@ -403,7 +403,7 @@
     "collection_template": {
       "empty": "製品が見つかりませんでした",
       "title": "コレクション",
-      "use_fewer_filters_html": "使用するフィルターを減らすか、 <a class=\"{{ class }}\" href=\"{{ link }}\">すべて削除する<\/a>"
+      "use_fewer_filters_html": "使用するフィルターを減らすか、 <a class=\"{{ class }}\" href=\"{{ link }}\">すべて削除する</a>"
     },
     "video": {
       "load_video": "ビデオをロードします: {{ description }}"
@@ -423,7 +423,7 @@
     "quick_order_list": {
       "product_total": "製品小計",
       "view_cart": "カートを見る",
-      "each": "{{ money }}\/ea",
+      "each": "{{ money }}/ea",
       "product": "製品",
       "variant": "変異体",
       "variant_total": "バリアントの合計",
@@ -450,10 +450,10 @@
     "country_label": "国・地域",
     "language_label": "言語",
     "update_language": "言語を更新する",
-    "update_country": "国\/地域を更新する",
+    "update_country": "国/地域を更新する",
     "search": "配送先の国を検索する",
-    "popular_countries_regions": "人気のある国\/地域",
-    "country_results_count": "{{ count }} 見つかった国\/地域"
+    "popular_countries_regions": "人気のある国/地域",
+    "country_results_count": "{{ count }} 見つかった国/地域"
   },
   "customer": {
     "account": {
@@ -600,6 +600,11 @@
       "max_characters": "{{ max_chars }} 最大文字数",
       "send_on": "YYYY-MM-DD",
       "send_on_label": "送信 (オプション)"
+    }
+  },
+  "shopify": {
+    "links": {
+      "powered_by_shopify": " "
     }
   }
 }
