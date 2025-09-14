@@ -146,7 +146,7 @@
       "inventory_out_of_stock_continue_selling": "在庫あり",
       "sku": "SKU",
       "on_sale": "販売",
-      "save_html": "保存 {{ save_amount }}",
+      "save_html": "Save {{ save_amount }}",
       "product_variants": "製品バリエーション",
       "product_information_tab": "製品情報タブ",
       "back_in_stock": {
@@ -605,18 +605,6 @@
   "shopify": {
     "links": {
       "powered_by_shopify": " "
-    },
-    "checkout": {
-      "shipping": {
-        "address_form": {
-          "save": "Save"
-        }
-      },
-      "payment": {
-        "add_credit_card_modal": {
-          "save": "Save"
-        }
-      }
     }
   }
 }
