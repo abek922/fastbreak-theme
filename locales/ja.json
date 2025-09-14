@@ -403,7 +403,7 @@
     "collection_template": {
       "empty": "製品が見つかりませんでした",
       "title": "コレクション",
-      "use_fewer_filters_html": "使用するフィルターを減らすか、 <a class=\"{{ class }}\" href=\"{{ link }}\">すべて削除する</a>"
+      "use_fewer_filters_html": " "
     },
     "video": {
       "load_video": "ビデオをロードします: {{ description }}"
