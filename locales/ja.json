@@ -605,6 +605,13 @@
   "shopify": {
     "links": {
       "powered_by_shopify": " "
+    },
+    "checkout": {
+      "shipping": {
+        "address_form": {
+          "save": "Save"
+        }
+      }
     }
   }
 }
