@@ -401,7 +401,7 @@
       }
     },
     "collection_template": {
-      "empty": "製品が見つかりませんでした",
+      "empty": "商品が見つかりませんでした",
       "title": "コレクション",
       "use_fewer_filters_html": " "
     },
