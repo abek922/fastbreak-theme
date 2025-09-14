@@ -140,9 +140,7 @@
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
-        "custom_css": [
-          ".password__footer-text{}"
-        ],
+        "custom_css": [],
         "settings": {
           "logo": "shopify://shop_images/logo_fastbreak.png",
           "logo_width": 150,
