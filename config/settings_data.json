@@ -141,7 +141,7 @@
       "main-password-header": {
         "type": "main-password-header",
         "custom_css": [
-          "{display: hidden}"
+          ".password__footer-text{}"
         ],
         "settings": {
           "logo": "shopify://shop_images/logo_fastbreak.png",
