@@ -29,6 +29,7 @@
     },
     "countdown_bar_zaEJtT": {
       "type": "countdown-bar",
+      "disabled": true,
       "name": "Countdown bar",
       "settings": {
         "section_width": "container",
@@ -148,6 +149,38 @@
         "controls_color": "#ffffff",
         "controls_color_text": "#ffffff",
         "controls_color_arrows": "#000000"
+      }
+    },
+    "rich_text_zWmR4V": {
+      "type": "rich-text",
+      "blocks": {
+        "image_ETNVMq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Reebok-Perfume-logo-2.png",
+            "image_width": 700,
+            "image_width_mobile": 500,
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_ETNVMq"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "section_width": "w-full",
+        "content_width": "max-w-4xl",
+        "content_alignment": "center",
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
       }
     },
     "image_with_text_gQntJ3": {
@@ -300,6 +333,38 @@
         "divider_bottom_width": "container"
       }
     },
+    "rich_text_ifUGma": {
+      "type": "rich-text",
+      "blocks": {
+        "image_896nHF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Reebok-Copyright-1.png",
+            "image_width": 700,
+            "image_width_mobile": 500,
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_896nHF"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "section_width": "w-full",
+        "content_width": "max-w-4xl",
+        "content_alignment": "center",
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "blocks": {
@@ -394,9 +459,11 @@
     "countdown_bar_zaEJtT",
     "banner",
     "slideshow_new_9kMEVj",
+    "rich_text_zWmR4V",
     "image_with_text_gQntJ3",
     "image_with_text_jXKQhC",
     "rich_text_BJ87Qe",
+    "rich_text_ifUGma",
     "product-grid"
   ]
 }
