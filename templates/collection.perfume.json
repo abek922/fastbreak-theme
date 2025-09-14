@@ -595,6 +595,7 @@
       "blocks": {
         "promotion_D34afj": {
           "type": "promotion",
+          "disabled": true,
           "settings": {
             "position": 1,
             "column_span": "2",
