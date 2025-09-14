@@ -145,7 +145,7 @@
       "inventory_out_of_stock": "在庫切れ",
       "inventory_out_of_stock_continue_selling": "在庫あり",
       "sku": "SKU",
-      "on_sale": "販売",
+      "on_sale": "Sale",
       "save_html": "Save {{ save_amount }}",
       "product_variants": "製品バリエーション",
       "product_information_tab": "製品情報タブ",
