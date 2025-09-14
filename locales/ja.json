@@ -611,6 +611,11 @@
         "address_form": {
           "save": "Save"
         }
+      },
+      "payment": {
+        "add_credit_card_modal": {
+          "save": "Save"
+        }
       }
     }
   }
