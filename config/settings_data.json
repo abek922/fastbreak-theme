@@ -150,8 +150,8 @@
       "main-password-footer": {
         "type": "main-password-footer",
         "settings": {
-          "show_social_links": true,
-          "show_border": true,
+          "show_social_links": false,
+          "show_border": false,
           "bg_color": "rgba(0,0,0,0)",
           "text_color": "rgba(0,0,0,0)"
         }
