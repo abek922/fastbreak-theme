@@ -50,7 +50,7 @@
       "search": "検索",
       "reset": "検索語をクリアする",
       "trending": "トレンド",
-      "recommend": "お勧めの製品"
+      "recommend": "レコメンド商品"
     },
     "cart": {
       "view": "カートを見る ({{ count }})",
@@ -78,7 +78,7 @@
   },
   "accessibility": {
     "skip_to_text": "コンテンツにスキップ",
-    "skip_to_product_info": "製品情報へスキップ",
+    "skip_to_product_info": "商品情報へスキップ",
     "close": "近い",
     "unit_price_separator": "あたり",
     "vendor": "ベンダー：",
@@ -92,7 +92,7 @@
     "total_reviews": "総レビュー数",
     "star_reviews_info": "{{ rating_value }} のうち {{ rating_max }} 星",
     "collapsible_content_title": "折りたたみ可能なコンテンツ",
-    "complementary_products": "補完的な製品",
+    "complementary_products": "補完的な商品",
     "scroll_to_top": "一番上までスクロール",
     "show_more": "もっと見る",
     "show_less": "もっと見る"
@@ -126,7 +126,7 @@
   "onboarding": {
     "product_title": "商品タイトル例",
     "collection_title": "あなたのコレクションの名前",
-    "collection_product_count": "2製品"
+    "collection_product_count": "2商品"
   },
   "products": {
     "product": {
@@ -147,10 +147,10 @@
       "sku": "SKU",
       "on_sale": "Sale",
       "save_html": "Save {{ save_amount }}",
-      "product_variants": "製品バリエーション",
-      "product_information_tab": "製品情報タブ",
+      "product_variants": "商品バリエーション",
+      "product_information_tab": "商品情報タブ",
       "back_in_stock": {
-        "name_product": "製品名",
+        "name_product": "商品名",
         "description": "この商品が再入荷したら通知を受け取ります!",
         "variant": "変異体",
         "text_button": "私に通知します",
@@ -240,12 +240,12 @@
       "show_less": "表示を少なくする",
       "max_price": "最も高い価格は、 {{ price }}",
       "product_count": {
-        "one": "{{ product_count }} 製品",
-        "other": "{{ product_count }} 製品"
+        "one": "{{ product_count }} 商品",
+        "other": "{{ product_count }} 商品"
       },
       "product_count_simple": {
-        "one": "{{ count }} 製品",
-        "other": "{{ count }} 製品"
+        "one": "{{ count }} 商品",
+        "other": "{{ count }} 商品"
       },
       "reset": "リセット",
       "sort_button": "選別",
@@ -262,7 +262,7 @@
     "search": {
       "no_results": "「」の結果は見つかりませんでした{{ terms }}”。",
       "page": "ページ",
-      "products": "製品",
+      "products": "商品",
       "results_pages_with_count": {
         "one": "{{ count }} ページ",
         "other": "{{ count }} ページ"
@@ -272,8 +272,8 @@
         "other": "{{ count }} 提案"
       },
       "results_products_with_count": {
-        "one": "{{ count }} 製品",
-        "other": "{{ count }} 製品"
+        "one": "{{ count }} 商品",
+        "other": "{{ count }} 商品"
       },
       "results_with_count": {
         "one": "{{ count }} 結果",
@@ -345,7 +345,7 @@
       "view_cart": "カートを見る",
       "remove": "取り除く",
       "headings": {
-        "product": "製品",
+        "product": "商品",
         "price": "価格",
         "total": "合計",
         "quantity": "量",
@@ -391,13 +391,13 @@
     },
     "featured_collection": {
       "view_all": "すべて見る",
-      "view_all_label": "すべての製品を表示 {{ collection_name }} コレクション"
+      "view_all_label": "すべての商品を表示 {{ collection_name }} コレクション"
     },
     "collection_list": {
       "view_all": "すべて見る",
       "product_count": {
-        "one": "{{ count }} 製品",
-        "other": "{{ count }} 製品"
+        "one": "{{ count }} 商品",
+        "other": "{{ count }} 商品"
       }
     },
     "collection_template": {
@@ -421,10 +421,10 @@
       "title": "ページタイトル"
     },
     "quick_order_list": {
-      "product_total": "製品小計",
+      "product_total": "商品小計",
       "view_cart": "カートを見る",
       "each": "{{ money }}/ea",
-      "product": "製品",
+      "product": "商品",
       "variant": "変異体",
       "variant_total": "バリアントの合計",
       "items_added": {
@@ -435,7 +435,7 @@
         "one": "{{ quantity }} アイテムが削除されました",
         "other": "{{ quantity }} 削除された項目"
       },
-      "product_variants": "製品バリエーション",
+      "product_variants": "商品バリエーション",
       "total_items": "総項目数",
       "remove_all_single_item_confirmation": "カートから商品を 1 個削除しますか?",
       "remove_all_items_confirmation": "すべて削除する {{ quantity }} カートから商品を取り出しますか？",
@@ -523,7 +523,7 @@
       "discount": "割引",
       "shipping": "配送",
       "tax": "税",
-      "product": "製品",
+      "product": "商品",
       "sku": "SKU",
       "price": "価格",
       "quantity": "量",
