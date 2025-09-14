@@ -11,6 +11,7 @@
   "sections": {
     "breadcrumbs_FYp3jd": {
       "type": "breadcrumbs",
+      "disabled": true,
       "settings": {
         "section_width": "container-fluid",
         "alignment": "start",
@@ -149,6 +150,39 @@
         "controls_color": "#ffffff",
         "controls_color_text": "#ffffff",
         "controls_color_arrows": "#000000"
+      }
+    },
+    "countdown_bar_adBNTe": {
+      "type": "countdown-bar",
+      "disabled": true,
+      "name": "Countdown bar",
+      "settings": {
+        "section_width": "container",
+        "end_time": "2025/12/31 23:59:59",
+        "style": "outline",
+        "font_family": "heading",
+        "number_size": "h4",
+        "text_type": "short",
+        "subheading": "Subheading",
+        "heading": "Countdown bar",
+        "heading_size": "h3",
+        "text": "<p>Month is full of possibilities, waiting to be explored.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_type": "primary",
+        "show_icon": false,
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "overlay_gradient": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
       }
     },
     "rich_text_zWmR4V": {
@@ -496,6 +530,66 @@
         "divider_bottom_width": "container"
       }
     },
+    "scrolling_content_egM97e": {
+      "type": "scrolling-content",
+      "blocks": {
+        "content_VFqhCy": {
+          "type": "content",
+          "settings": {
+            "subheading": "Subheading",
+            "heading": "Image with text",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Button text",
+            "button_link": ""
+          }
+        },
+        "content_9pELjH": {
+          "type": "content",
+          "settings": {
+            "subheading": "Subheading",
+            "heading": "Image with text",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Button text",
+            "button_link": ""
+          }
+        },
+        "content_qfNqGU": {
+          "type": "content",
+          "settings": {
+            "subheading": "Subheading",
+            "heading": "Image with text",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Button text",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "content_VFqhCy",
+        "content_9pELjH",
+        "content_qfNqGU"
+      ],
+      "disabled": true,
+      "name": "Scrolling content",
+      "settings": {
+        "section_width": "container",
+        "layout": "left",
+        "heading_size": "h3",
+        "content_alignment": "start",
+        "vertical_alignment": "center",
+        "button_type": "outline",
+        "show_icon": false,
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "blocks": {
@@ -590,6 +684,7 @@
     "countdown_bar_zaEJtT",
     "banner",
     "slideshow_new_9kMEVj",
+    "countdown_bar_adBNTe",
     "rich_text_zWmR4V",
     "image_with_text_gQntJ3",
     "image_with_text_EVGfVK",
@@ -597,6 +692,7 @@
     "image_with_text_Gz4GGg",
     "rich_text_BJ87Qe",
     "rich_text_ifUGma",
+    "scrolling_content_egM97e",
     "product-grid"
   ]
 }
