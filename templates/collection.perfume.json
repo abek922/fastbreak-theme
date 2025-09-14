@@ -129,6 +129,7 @@
         "slide_EEcj9h",
         "slide_HRKtL6"
       ],
+      "disabled": true,
       "name": "Slideshow",
       "settings": {
         "slide_width": "w-full",
@@ -149,27 +150,49 @@
         "controls_color_arrows": "#000000"
       }
     },
-    "parallax_gallery_J7RwKP": {
-      "type": "parallax-gallery",
-      "name": "Parallax gallery",
+    "image_with_text_gQntJ3": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_VVUUyK": {
+          "type": "heading",
+          "settings": {
+            "heading": "Reebok×Perfume",
+            "heading_size": "h6"
+          }
+        },
+        "text_PaMzA4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>2025年、Reebokジャパンアパレルは、Perfumeをアンバサダーに迎え、ブランドのビジョンをさらに前進させます。<br/>“Life Is Not a Spectator Sport. ”をキーワードに、リーボックのジャパンアパレルはスポーツウェアの枠を超えて進化。<br/>デザイン性に富んだフォルムと機能美を兼ね備えたコレクションは、動きやすさと美しさを両立し、現代にふさわしい新しいスタイルを提案します。<br/>ファッションとしての存在感と、スポーツがもたらすテクノロジーが交差する、Reebok × Perfumeジャパンアパレルインラインコレクション。</p>",
+            "large_text": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_VVUUyK",
+        "text_PaMzA4"
+      ],
+      "name": "Image with text",
       "settings": {
-        "content_alignment": "center",
-        "content_width": "max-w-4xl",
-        "subheading": "Subheading",
-        "heading": "Parallax gallery heading",
-        "heading_size": "h1",
-        "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-        "button_label": "Button text",
-        "button_link": "",
-        "button_type": "primary",
-        "show_icon": false,
-        "show_parallax_scroll": true,
-        "show_image_scroll": false,
         "section_width": "container",
-        "row_gap": 20,
+        "image": "shopify://shop_images/Perfume_25aw_01.jpg",
+        "media_size": "adapt",
+        "show_image_2": false,
+        "position_image_2": "middle-right",
+        "media_size_2": "adapt",
+        "desktop_image_width": "66",
+        "active_video": false,
+        "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "video_controls": true,
+        "layout": "left",
+        "column_gap": "0",
+        "vertical_alignment": "start",
+        "content_alignment": "start",
         "bg_color": "",
         "text_color": "",
         "border_color": "",
+        "bg_column": "",
         "padding_top": 36,
         "padding_bottom": 36,
         "show_top_divider": false,
@@ -178,59 +201,97 @@
         "divider_bottom_width": "container"
       }
     },
-    "image_with_text_gQntJ3": {
+    "image_with_text_jXKQhC": {
       "type": "image-with-text",
       "blocks": {
-        "heading_VVUUyK": {
+        "heading_Jbpby3": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
-            "heading_size": "h2"
+            "heading": "Message from Perfume",
+            "heading_size": "h6"
           }
         },
-        "text_PaMzA4": {
+        "text_yReieB": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>今回リーボックアパレルのアンバサダーに就任しました、<br/>年を重ねて人生LEVEL UPしているように体もその分負荷をかけスキルアップを目指して普段からそれぞれ鍛えているのですが、今回の広告に合わせてまたトレーニングして挑みました。<br/>結成25周年に初めてのスポーツブランドさんとのコラボレーションで、このような挑戦ができて、本当にありがたいです。<br/>今が１番楽しくて実感している私たちの姿を見ていただけたら嬉しいです。</p>",
             "large_text": false
-          }
-        },
-        "button_rNUyrp": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button text",
-            "button_link": "",
-            "button_type": "primary",
-            "show_icon": false
           }
         }
       },
       "block_order": [
-        "heading_VVUUyK",
-        "text_PaMzA4",
-        "button_rNUyrp"
+        "heading_Jbpby3",
+        "text_yReieB"
       ],
-      "disabled": true,
       "name": "Image with text",
       "settings": {
         "section_width": "container",
+        "image": "shopify://shop_images/Perfume_25aw_03.jpg",
         "media_size": "adapt",
         "show_image_2": false,
         "position_image_2": "middle-right",
         "media_size_2": "adapt",
-        "desktop_image_width": "75",
+        "desktop_image_width": "66",
         "active_video": false,
         "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "video_autoplay": true,
         "video_controls": true,
-        "layout": "left",
-        "column_gap": "16",
-        "vertical_alignment": "center",
+        "layout": "right",
+        "column_gap": "0",
+        "vertical_alignment": "start",
         "content_alignment": "start",
         "bg_color": "",
         "text_color": "",
         "border_color": "",
         "bg_column": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "rich_text_BJ87Qe": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_CM9L7A": {
+          "type": "heading",
+          "settings": {
+            "heading": "Perfume profile",
+            "heading_size": "h6"
+          }
+        },
+        "text_nQzbYm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>現在発足25周年、メジャーデビュー20周年イヤー。 ライブでのパフォーマンスは日本国内だけでなく世界中で注目を集めている。<br/>あーちゃん・かしゆか・のっちからなる、3人組音楽ユニット　</p>",
+            "large_text": false,
+            "show_more_toggle": false,
+            "max_height": 8
+          }
+        },
+        "separator_dWEQcK": {
+          "type": "separator",
+          "settings": {
+            "show_border": false,
+            "space": 8
+          }
+        }
+      },
+      "block_order": [
+        "heading_CM9L7A",
+        "text_nQzbYm",
+        "separator_dWEQcK"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "section_width": "container-fluid",
+        "content_width": "container",
+        "content_alignment": "start",
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
         "padding_top": 36,
         "padding_bottom": 36,
         "show_top_divider": false,
@@ -333,8 +394,9 @@
     "countdown_bar_zaEJtT",
     "banner",
     "slideshow_new_9kMEVj",
-    "parallax_gallery_J7RwKP",
     "image_with_text_gQntJ3",
+    "image_with_text_jXKQhC",
+    "rich_text_BJ87Qe",
     "product-grid"
   ]
 }
