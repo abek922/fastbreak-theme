@@ -53,6 +53,7 @@
         "text_RfPKKq",
         "text_GVnVTP"
       ],
+      "disabled": true,
       "settings": {
         "section_width": "w-full",
         "text_size": "size-base",

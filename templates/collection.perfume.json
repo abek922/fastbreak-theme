@@ -133,7 +133,7 @@
       "settings": {
         "slide_width": "w-full",
         "desktop_height_mode": "full",
-        "desktop_fixed_height": 650,
+        "desktop_fixed_height": 1000,
         "mobile_height_mode": "fixed",
         "mobile_fixed_height": 550,
         "auto_rotate": true,
@@ -147,6 +147,35 @@
         "controls_color": "#ffffff",
         "controls_color_text": "#ffffff",
         "controls_color_arrows": "#000000"
+      }
+    },
+    "parallax_gallery_J7RwKP": {
+      "type": "parallax-gallery",
+      "name": "Parallax gallery",
+      "settings": {
+        "content_alignment": "center",
+        "content_width": "max-w-4xl",
+        "subheading": "Subheading",
+        "heading": "Parallax gallery heading",
+        "heading_size": "h1",
+        "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "button_label": "Button text",
+        "button_link": "",
+        "button_type": "primary",
+        "show_icon": false,
+        "show_parallax_scroll": true,
+        "show_image_scroll": false,
+        "section_width": "container",
+        "row_gap": 20,
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
       }
     },
     "image_with_text_gQntJ3": {
@@ -181,6 +210,7 @@
         "text_PaMzA4",
         "button_rNUyrp"
       ],
+      "disabled": true,
       "name": "Image with text",
       "settings": {
         "section_width": "container",
@@ -303,6 +333,7 @@
     "countdown_bar_zaEJtT",
     "banner",
     "slideshow_new_9kMEVj",
+    "parallax_gallery_J7RwKP",
     "image_with_text_gQntJ3",
     "product-grid"
   ]
