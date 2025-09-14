@@ -35,13 +35,13 @@
         "end_time": "2025/12/31 23:59:59",
         "style": "outline",
         "font_family": "heading",
-        "number_size": "h4",
+        "number_size": "h6",
         "text_type": "long",
-        "subheading": "Subheading",
+        "subheading": "",
         "heading": "Countdown bar",
         "heading_size": "h3",
         "text": "<p>Month is full of possibilities, waiting to be explored.</p>",
-        "button_label": "Button text",
+        "button_label": "",
         "button_link": "",
         "button_type": "primary",
         "show_icon": false,
@@ -110,6 +110,7 @@
         "slide_HRKtL6": {
           "type": "_slide",
           "settings": {
+            "image": "shopify://shop_images/Perfume_25aw_03.jpg",
             "slide_link": "",
             "video_background": false,
             "content_width": 500,
@@ -119,7 +120,7 @@
             "color_text": "#ffffff",
             "overlay_color": "#000000",
             "overlay_opacity": 30,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0,0,0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
           },
           "blocks": {}
         }
@@ -131,7 +132,7 @@
       "name": "Slideshow",
       "settings": {
         "slide_width": "w-full",
-        "desktop_height_mode": "fixed",
+        "desktop_height_mode": "full",
         "desktop_fixed_height": 650,
         "mobile_height_mode": "fixed",
         "mobile_fixed_height": 550,
