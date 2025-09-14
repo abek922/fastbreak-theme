@@ -391,17 +391,15 @@
       "blocks": {
         "heading_46JD3r": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": "Image with text",
-            "heading_size": "h2"
+            "heading": "Perfume profile",
+            "heading_size": "h6"
           }
         },
         "text_KhA7dM": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>現在発足25周年、メジャーデビュー20周年イヤー。 ライブでのパフォーマンスは日本国内だけでなく世界中で注目を集めている。<br/>あーちゃん・かしゆか・のっちからなる、3人組音楽ユニット　</p>",
             "large_text": false
           }
         },
@@ -429,14 +427,14 @@
         "show_image_2": false,
         "position_image_2": "middle-right",
         "media_size_2": "adapt",
-        "desktop_image_width": "75",
+        "desktop_image_width": "66",
         "active_video": false,
         "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "video_autoplay": true,
         "video_controls": true,
         "layout": "left",
         "column_gap": "16",
-        "vertical_alignment": "center",
+        "vertical_alignment": "end",
         "content_alignment": "start",
         "bg_color": "",
         "text_color": "",
@@ -482,6 +480,7 @@
         "text_nQzbYm",
         "separator_dWEQcK"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "section_width": "container-fluid",
@@ -505,7 +504,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Reebok-Copyright-1.png",
-            "image_width": 380,
+            "image_width": 280,
             "image_width_mobile": 280,
             "url": ""
           }
@@ -525,7 +524,7 @@
         "bg_color": "",
         "text_color": "",
         "border_color": "",
-        "padding_top": 0,
+        "padding_top": 32,
         "padding_bottom": 0,
         "show_top_divider": false,
         "divider_top_width": "container",
