@@ -211,7 +211,7 @@
         "image": "shopify://shop_images/Perfume_25aw_01.jpg",
         "media_size": "adapt",
         "show_image_2": false,
-        "position_image_2": "middle-right",
+        "position_image_2": "middle-center",
         "media_size_2": "adapt",
         "desktop_image_width": "66",
         "active_video": false,
@@ -221,6 +221,70 @@
         "layout": "left",
         "column_gap": "0",
         "vertical_alignment": "start",
+        "content_alignment": "start",
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "bg_column": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "image_with_text_EVGfVK": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_fjGUek": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h2"
+          }
+        },
+        "text_xRm3KL": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "large_text": false
+          }
+        },
+        "button_7JJaGd": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button text",
+            "button_link": "",
+            "button_type": "primary",
+            "show_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_fjGUek",
+        "text_xRm3KL",
+        "button_7JJaGd"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "section_width": "container",
+        "image": "shopify://shop_images/Perfume_25aw_02.jpg",
+        "media_size": "adapt",
+        "show_image_2": false,
+        "position_image_2": "middle-right",
+        "media_size_2": "adapt",
+        "desktop_image_width": "50",
+        "active_video": false,
+        "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "video_controls": true,
+        "layout": "right",
+        "column_gap": "16",
+        "vertical_alignment": "center",
         "content_alignment": "start",
         "bg_color": "",
         "text_color": "",
@@ -272,6 +336,70 @@
         "layout": "right",
         "column_gap": "0",
         "vertical_alignment": "start",
+        "content_alignment": "start",
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "bg_column": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "image_with_text_Gz4GGg": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_46JD3r": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h2"
+          }
+        },
+        "text_KhA7dM": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "large_text": false
+          }
+        },
+        "button_GMUjr3": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button text",
+            "button_link": "",
+            "button_type": "primary",
+            "show_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_46JD3r",
+        "text_KhA7dM",
+        "button_GMUjr3"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "section_width": "container",
+        "image": "shopify://shop_images/Perfume_25aw_05.jpg",
+        "media_size": "adapt",
+        "show_image_2": false,
+        "position_image_2": "middle-right",
+        "media_size_2": "adapt",
+        "desktop_image_width": "50",
+        "active_video": false,
+        "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "video_controls": true,
+        "layout": "left",
+        "column_gap": "16",
+        "vertical_alignment": "center",
         "content_alignment": "start",
         "bg_color": "",
         "text_color": "",
@@ -464,7 +592,9 @@
     "slideshow_new_9kMEVj",
     "rich_text_zWmR4V",
     "image_with_text_gQntJ3",
+    "image_with_text_EVGfVK",
     "image_with_text_jXKQhC",
+    "image_with_text_Gz4GGg",
     "rich_text_BJ87Qe",
     "rich_text_ifUGma",
     "product-grid"
