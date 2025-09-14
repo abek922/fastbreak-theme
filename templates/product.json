@@ -184,6 +184,7 @@
         },
         "collapsible_tab_bVRE3V": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Care instructions",
             "heading_size": "sub-heading",
@@ -196,6 +197,7 @@
         },
         "collapsible_tab_4UNrkz": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Delivery and return",
             "heading_size": "sub-heading",
@@ -756,7 +758,7 @@
     "related-products": {
       "type": "related-products",
       "settings": {
-        "section_width": "container-fluid",
+        "section_width": "container",
         "subheading": "",
         "heading": "You may also like",
         "heading_size_section": "h2",
