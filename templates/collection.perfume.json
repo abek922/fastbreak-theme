@@ -134,7 +134,7 @@
         "slide_width": "w-full",
         "desktop_height_mode": "adapt",
         "desktop_fixed_height": 1000,
-        "mobile_height_mode": "full",
+        "mobile_height_mode": "fixed",
         "mobile_fixed_height": 1000,
         "auto_rotate": true,
         "pause_on_hover": false,
