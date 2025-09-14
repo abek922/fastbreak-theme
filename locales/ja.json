@@ -212,7 +212,7 @@
       "view_full_details": "詳細を表示",
       "xr_button": "あなたのスペースで見る",
       "xr_button_label": "自分のスペースで表示し、拡張現実ウィンドウにアイテムをロードします",
-      "include_taxes": "税込。",
+      "include_taxes": "税込",
       "shipping_policy_html": "<a href=\"{{ link }}\">配送</a> チェックアウト時に計算されます。",
       "available": {
         "one": "{{ count }} 色が利用可能",
@@ -340,7 +340,7 @@
       "cart_quantity_error_html": "追加することしかできません {{ quantity }} この商品をカートに入れます。",
       "taxes_and_shipping_policy_at_checkout_html": "税金、割引、 <a href=\"{{ link }}\">配送</a> チェックアウト時に計算される",
       "taxes_included_but_shipping_at_checkout": "税金が含まれており、送料と割引はチェックアウト時に計算されます",
-      "taxes_included_and_shipping_policy_html": "税込。 <a href=\"{{ link }}\">配送</a> チェックアウト時に割引が計算されます。",
+      "taxes_included_and_shipping_policy_html": "税込  <a href=\"{{ link }}\">配送</a> チェックアウト時に割引が計算されます",
       "taxes_and_shipping_at_checkout": "税金、割引、送料はチェックアウト時に計算されます",
       "view_cart": "カートを見る",
       "remove": "取り除く",
