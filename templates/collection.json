@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "banner": {
@@ -7,12 +16,14 @@
         "text_size": "text-size-small",
         "type_breadcrumb": "line-vertical",
         "show_collection_title": true,
-        "show_collection_description": true,
         "show_collection_image": true,
         "section_width": "container-fluid",
         "heading_size": "h1",
         "image_size": "350px",
         "align_content": "start",
+        "show_collection_description": true,
+        "show_more_toggle": false,
+        "max_height": 8,
         "navigation": "",
         "text_color": "#ffffff",
         "border_color": "",
@@ -55,14 +66,13 @@
             "fill_height": true,
             "custom_height": 100,
             "custom_height_mobile": 100,
-
             "active_video": false,
             "subheading": "FREE GIFT",
             "heading": "ON ALL $50+ ORDERS",
             "heading_size": "h3",
             "text": "",
             "button_label": "",
-
+            "button_link": "",
             "button_type": "primary-white",
             "show_icon": false,
             "desktop_content_position": "bottom-center",
@@ -80,7 +90,6 @@
             "fill_height": true,
             "custom_height": 100,
             "custom_height_mobile": 100,
-
             "active_video": false,
             "subheading": "stacking season",
             "heading": "READY. SET. STACK",
