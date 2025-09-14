@@ -132,7 +132,7 @@
       "name": "Slideshow",
       "settings": {
         "slide_width": "w-full",
-        "desktop_height_mode": "full",
+        "desktop_height_mode": "adapt",
         "desktop_fixed_height": 1000,
         "mobile_height_mode": "fixed",
         "mobile_fixed_height": 550,
