@@ -596,9 +596,7 @@
       "block_order": [
         "image_896nHF"
       ],
-      "custom_css": [
-        ".rich-text {margin: 0 0 0 auto;}"
-      ],
+      "custom_css": [],
       "name": "Rich text",
       "settings": {
         "section_width": "w-full",
