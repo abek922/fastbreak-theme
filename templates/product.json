@@ -179,7 +179,7 @@
             "content": "",
             "content_liquid": "{{ product.description }}",
             "page": "",
-            "open_by_default": false
+            "open_by_default": true
           }
         },
         "collapsible_tab_bVRE3V": {
