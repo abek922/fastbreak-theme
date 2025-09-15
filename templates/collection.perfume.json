@@ -677,61 +677,6 @@
     },
     "product-grid": {
       "type": "main-collection-product-grid",
-      "blocks": {
-        "promotion_D34afj": {
-          "type": "promotion",
-          "disabled": true,
-          "settings": {
-            "position": 1,
-            "column_span": "2",
-            "fill_height": true,
-            "custom_height": 100,
-            "custom_height_mobile": 100,
-            "active_video": false,
-            "subheading": "FREE GIFT",
-            "heading": "ON ALL $50+ ORDERS",
-            "heading_size": "h3",
-            "text": "",
-            "button_label": "",
-            "button_link": "",
-            "button_type": "primary-white",
-            "show_icon": false,
-            "desktop_content_position": "bottom-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
-          }
-        },
-        "promotion_RJEJbr": {
-          "type": "promotion",
-          "settings": {
-            "position": 8,
-            "column_span": "2",
-            "fill_height": true,
-            "custom_height": 100,
-            "custom_height_mobile": 100,
-            "active_video": false,
-            "subheading": "stacking season",
-            "heading": "READY. SET. STACK",
-            "heading_size": "h3",
-            "text": "",
-            "button_label": "",
-            "button_link": "",
-            "button_type": "primary-white",
-            "show_icon": false,
-            "desktop_content_position": "bottom-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
-          }
-        }
-      },
-      "block_order": [
-        "promotion_D34afj",
-        "promotion_RJEJbr"
-      ],
       "settings": {
         "section_width": "container-fluid",
         "products_per_page": 24,
@@ -739,16 +684,16 @@
         "column_gap": 0.5,
         "row_gap": 3,
         "pagination_type": "page-numbers",
-        "filter_type": "vertical",
+        "filter_type": "drawer",
         "enable_filtering": true,
         "enable_sorting": true,
         "show_filter_values_count": true,
         "show_product_count": true,
         "show_view_mode": true,
         "collapsible_state": "collapsed",
-        "show_color_swatch": true,
+        "show_color_swatch": false,
         "filter_color_type": "inline",
-        "show_block_style": true,
+        "show_block_style": false,
         "matching_block_names": "Size",
         "heading_size_filter_block": "sub-heading",
         "enable_bold_heading": false,
