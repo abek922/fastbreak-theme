@@ -223,41 +223,49 @@
         "heading_6Ck3g3": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Reebok × Perfume",
             "heading_size": "h3"
+          }
+        },
+        "heading_yiyHJr": {
+          "type": "heading",
+          "settings": {
+            "heading": "Reebok Japan Apparel2025",
+            "heading_size": "h6"
+          }
+        },
+        "heading_4MVRx8": {
+          "type": "heading",
+          "settings": {
+            "heading": "Autumn/Winter New Collection",
+            "heading_size": "h6"
           }
         },
         "text_y9wfYe": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "text": "",
             "large_text": false,
             "show_more_toggle": false,
             "max_height": 8
           }
         },
-        "separator_E677MJ": {
-          "type": "separator",
+        "text_WpkfrJ": {
+          "type": "text",
           "settings": {
-            "show_border": false,
-            "space": 8
-          }
-        },
-        "button_hMLpWN": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button text",
-            "button_link": "",
-            "button_type": "primary",
-            "show_icon": false
+            "text": "<p>Perfumeが纏う、待望のReebokコレクション第二弾。\t<br/>\t<br/>数量限定・先行予約販売を9/26 20:00~FASTBREAK.ONLINE でスタート。\t<br/>※発送は10/8〜を予定しております。\t<br/>\t<br/>さらに 10/8から、FASTBREAK.がマルイシティ横浜B2Fに初登場。\t<br/>注目の「Reebok × Perfume」コレクションを、Perfumeが魅せるReebokの最新コレクションとして、\t<br/>10/11〜数量限定で店頭販売いたします。\t<br/>※先行販売の為、在庫数に限りがございます。店頭での予約販売は行っておりませんので、ご了承宜しくお願い致します。\t<br/>\t<br/>Reebokの革新性とPerfumeの世界観が織りなす特別なコレクションを、この機会にぜひご体感ください。\t<br/>\t<br/>9月22日　FASTBREAK.\t</p>",
+            "large_text": false,
+            "show_more_toggle": false,
+            "max_height": 8
           }
         }
       },
       "block_order": [
         "heading_6Ck3g3",
+        "heading_yiyHJr",
+        "heading_4MVRx8",
         "text_y9wfYe",
-        "separator_E677MJ",
-        "button_hMLpWN"
+        "text_WpkfrJ"
       ],
       "name": "Rich text",
       "settings": {
