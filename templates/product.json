@@ -40,6 +40,7 @@
         },
         "vendor_c6Nwih": {
           "type": "vendor",
+          "disabled": true,
           "settings": {
             "text_style": "sub-heading"
           }
@@ -47,7 +48,7 @@
         "title": {
           "type": "title",
           "settings": {
-            "heading_size": "h2"
+            "heading_size": "h6"
           }
         },
         "rating_UhVAtV": {
@@ -283,7 +284,7 @@
         "trust_badge_hgnnaj"
       ],
       "settings": {
-        "section_width": "w-full",
+        "section_width": "container-fluid",
         "enable_sticky_info": true,
         "enable_max_width_content": true,
         "show_sticky_add_to_cart_bar": true,
@@ -301,7 +302,7 @@
         "bg_color": "rgba(0,0,0,0)",
         "text_color": "rgba(0,0,0,0)",
         "border_color": "rgba(0,0,0,0)",
-        "padding_top": 0,
+        "padding_top": 32,
         "padding_bottom": 88,
         "show_top_divider": false,
         "divider_top_width": "container",
@@ -757,6 +758,7 @@
     },
     "related-products": {
       "type": "related-products",
+      "disabled": true,
       "settings": {
         "section_width": "container",
         "subheading": "",
