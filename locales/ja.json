@@ -134,7 +134,7 @@
       "pre_order": "予約注文",
       "change_variant": "変化",
       "sibling_color": "色 ： ",
-      "choose_options": "",
+      "choose_options": "Quick View",
       "quick_add": "追加",
       "choose_product_options": "オプションを選択してください {{ product_name }}",
       "description": "説明",
