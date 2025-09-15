@@ -270,7 +270,7 @@
       "name": "Rich text",
       "settings": {
         "section_width": "w-full",
-        "content_width": "max-w-4xl",
+        "content_width": "container",
         "content_alignment": "center",
         "bg_color": "",
         "text_color": "",
