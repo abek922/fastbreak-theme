@@ -694,7 +694,7 @@
         "show_color_swatch": false,
         "filter_color_type": "inline",
         "show_block_style": false,
-        "matching_block_names": "Size",
+        "matching_block_names": "",
         "heading_size_filter_block": "sub-heading",
         "enable_bold_heading": false,
         "columns_mobile": "2",
