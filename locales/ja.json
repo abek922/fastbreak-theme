@@ -167,7 +167,7 @@
         "play_video": "ビデオを再生する"
       },
       "quantity": {
-        "label": "量",
+        "label": "数量",
         "input_label": "数量 {{ product }}",
         "increase": "数量を増やす {{ product }}",
         "decrease": "数量を減らす {{ product }}",
@@ -348,7 +348,7 @@
         "product": "商品",
         "price": "価格",
         "total": "合計",
-        "quantity": "量",
+        "quantity": "数量",
         "image": "商品画像"
       },
       "update": "アップデート",
@@ -526,7 +526,7 @@
       "product": "商品",
       "sku": "SKU",
       "price": "価格",
-      "quantity": "量",
+      "quantity": "数量",
       "total": "合計",
       "total_refunded": "返金されました",
       "fulfilled_at_html": "満たされた {{ date }}",
