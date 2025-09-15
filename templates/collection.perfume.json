@@ -587,7 +587,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Reebok-Copyright-1.png",
-            "image_width": 280,
+            "image_width": 480,
             "image_width_mobile": 280,
             "url": ""
           }
