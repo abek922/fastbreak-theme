@@ -689,7 +689,7 @@
         "enable_sorting": true,
         "show_filter_values_count": true,
         "show_product_count": true,
-        "show_view_mode": true,
+        "show_view_mode": false,
         "collapsible_state": "collapsed",
         "show_color_swatch": false,
         "filter_color_type": "inline",
