@@ -227,6 +227,13 @@
             "heading_size": "h3"
           }
         },
+        "separator_T6pNpq": {
+          "type": "separator",
+          "settings": {
+            "show_border": false,
+            "space": 8
+          }
+        },
         "heading_yiyHJr": {
           "type": "heading",
           "settings": {
@@ -239,6 +246,13 @@
           "settings": {
             "heading": "Autumn/Winter New Collection",
             "heading_size": "h6"
+          }
+        },
+        "separator_KwbRJ6": {
+          "type": "separator",
+          "settings": {
+            "show_border": false,
+            "space": 8
           }
         },
         "text_y9wfYe": {
@@ -262,8 +276,10 @@
       },
       "block_order": [
         "heading_6Ck3g3",
+        "separator_T6pNpq",
         "heading_yiyHJr",
         "heading_4MVRx8",
+        "separator_KwbRJ6",
         "text_y9wfYe",
         "text_WpkfrJ"
       ],
