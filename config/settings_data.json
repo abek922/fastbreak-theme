@@ -100,7 +100,7 @@
     "size_swatch_config": "Size,Sizes",
     "button_quick_buy_type": "primary-white",
     "card_show_discount_badge": true,
-    "card_sale_badge_type": "text",
+    "card_sale_badge_type": "percentage",
     "card_badge_position": "top left",
     "card_label_position": "inner",
     "card_label_color": "#3047d0",
