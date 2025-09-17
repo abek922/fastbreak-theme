@@ -120,8 +120,8 @@
         "link_list_7nmBjj": {
           "type": "link_list",
           "settings": {
-            "heading": "Information",
-            "menu": "",
+            "heading": "Menu",
+            "menu": "footer-1",
             "open_details": false
           }
         },
@@ -170,8 +170,8 @@
         "enable_country_name": false,
         "enable_language_selector": false,
         "payment_enable": false,
-        "show_policy": true,
-        "show_powered_by": true,
+        "show_policy": false,
+        "show_powered_by": false,
         "border_color_newsletter": "#dddddd",
         "padding_top": 60,
         "padding_bottom": 32,
