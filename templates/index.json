@@ -57,7 +57,7 @@
               "type": "_slide_button",
               "settings": {
                 "button_text": "Shop now",
-                "button_link": "",
+                "button_link": "shopify://collections/reebok-perfume-apparel-collections-2025fw",
                 "button_type": "primary",
                 "show_icon": true
               },
@@ -74,7 +74,6 @@
         "slide_dbJdtP": {
           "type": "_slide",
           "settings": {
-            "image": "shopify://shop_images/kadokawadreams.jpg",
             "slide_link": "",
             "video_background": false,
             "content_width": 560,
