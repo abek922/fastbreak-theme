@@ -161,7 +161,7 @@
         "featured_collection_bhW4NC": {
           "type": "featured_collection",
           "settings": {
-            "collection": "shorts",
+            "collection": "reebok-1",
             "title": "Reebok",
             "url": ""
           }
@@ -169,7 +169,7 @@
         "featured_collection_8LgwgG": {
           "type": "featured_collection",
           "settings": {
-            "collection": "new-arrivals",
+            "collection": "kappa-カッパ",
             "title": "Kappa",
             "url": ""
           }
@@ -177,7 +177,7 @@
         "featured_collection_FbBAGf": {
           "type": "featured_collection",
           "settings": {
-            "collection": "sweats",
+            "collection": "dunlop-refined",
             "title": "DUNLOP REFINED",
             "url": ""
           }
@@ -185,7 +185,7 @@
         "featured_collection_iLW78E": {
           "type": "featured_collection",
           "settings": {
-            "collection": "outerwear",
+            "collection": "sensorial",
             "title": "SENSORIAL",
             "url": ""
           }
@@ -193,7 +193,7 @@
         "featured_collection_BEgQC6": {
           "type": "featured_collection",
           "settings": {
-            "collection": "",
+            "collection": "brand-outlet",
             "title": "BRAND OUTLET",
             "url": ""
           }
