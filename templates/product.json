@@ -63,7 +63,7 @@
           "settings": {
             "show_tax_note": true,
             "show_sale_badge": true,
-            "sale_badge_type": "text"
+            "sale_badge_type": "percentage"
           }
         },
         "rich_text_gJV7TU": {
