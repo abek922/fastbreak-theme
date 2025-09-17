@@ -101,19 +101,8 @@
           "settings": {
             "heading": "About",
             "image_width": 50,
-            "subtext": "<p>Established in 2011, XSTREET is a New York City-based lifestyle brand, known for innovative retail concepts, seasonal collections, and collaborations with partners from around the world.</p>",
+            "subtext": "<p>Text</p>",
             "show_social": true,
-            "open_details": true
-          }
-        },
-        "text_7JUTfw": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "heading": "Certified",
-            "image_width": 280,
-            "subtext": "",
-            "show_social": false,
             "open_details": true
           }
         },
@@ -125,25 +114,8 @@
             "open_details": false
           }
         },
-        "link_list_4j8WJb": {
-          "type": "link_list",
-          "settings": {
-            "heading": "Collections",
-            "menu": "",
-            "open_details": false
-          }
-        },
-        "link_list_Nx4gLF": {
-          "type": "link_list",
-          "settings": {
-            "heading": "Support",
-            "menu": "",
-            "open_details": false
-          }
-        },
         "newsletter_GXJkHj": {
           "type": "newsletter",
-          "disabled": true,
           "settings": {
             "heading": "Subscribe to our emails",
             "content": "<p>Subscribe to receive all our updates and offers, and get a 10% discount on your first purchase.</p>",
@@ -155,10 +127,7 @@
       },
       "block_order": [
         "text_8P7CaD",
-        "text_7JUTfw",
         "link_list_7nmBjj",
-        "link_list_4j8WJb",
-        "link_list_Nx4gLF",
         "newsletter_GXJkHj"
       ],
       "settings": {
