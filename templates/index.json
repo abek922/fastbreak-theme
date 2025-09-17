@@ -162,6 +162,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "reebok-1",
+            "image": "shopify://shop_images/logo_reebok.jpg",
             "title": "Reebok",
             "url": ""
           }
@@ -170,6 +171,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "kappa-カッパ",
+            "image": "shopify://shop_images/logo_kappa.jpg",
             "title": "Kappa",
             "url": ""
           }
@@ -178,6 +180,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "dunlop-refined",
+            "image": "shopify://shop_images/logo_dunlop_square.png",
             "title": "DUNLOP REFINED",
             "url": ""
           }
@@ -186,6 +189,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "sensorial",
+            "image": "shopify://shop_images/logo_sensorial.jpg",
             "title": "SENSORIAL",
             "url": ""
           }
@@ -194,6 +198,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "brand-outlet",
+            "image": "shopify://shop_images/logo_outlet.png",
             "title": "BRAND OUTLET",
             "url": ""
           }
@@ -217,13 +222,13 @@
         "link_text": "",
         "button_type": "underlined",
         "show_icon": true,
-        "card_type": "content_with_overlay",
+        "card_type": "standard",
         "image_ratio": "adapt",
-        "show_collection_count": true,
-        "show_button_arrow": true,
+        "show_collection_count": false,
+        "show_button_arrow": false,
         "show_zoom_on_hover": true,
         "use_title_italic": false,
-        "heading_size": "h5",
+        "heading_size": "h6",
         "content_alignment": "start",
         "title_color": "rgba(0,0,0,0)",
         "overlay_color": "rgba(0,0,0,0)",
