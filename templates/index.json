@@ -162,7 +162,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "shorts",
-            "title": "Mid Shorts",
+            "title": "Reebok",
             "url": ""
           }
         },
@@ -170,7 +170,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "new-arrivals",
-            "title": "Cycling shorts",
+            "title": "Kappa",
             "url": ""
           }
         },
@@ -178,7 +178,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "sweats",
-            "title": "Layer jacket",
+            "title": "DUNLOP REFINED",
             "url": ""
           }
         },
@@ -186,7 +186,15 @@
           "type": "featured_collection",
           "settings": {
             "collection": "outerwear",
-            "title": "Rain Parka",
+            "title": "SENSORIAL",
+            "url": ""
+          }
+        },
+        "featured_collection_BEgQC6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "title": "BRAND OUTLET",
             "url": ""
           }
         }
@@ -195,10 +203,11 @@
         "featured_collection_bhW4NC",
         "featured_collection_8LgwgG",
         "featured_collection_FbBAGf",
-        "featured_collection_iLW78E"
+        "featured_collection_iLW78E",
+        "featured_collection_BEgQC6"
       ],
       "settings": {
-        "section_width": "w-full",
+        "section_width": "container",
         "subheading": "",
         "heading": "Brand",
         "heading_size_section": "h3",
@@ -223,7 +232,7 @@
         "enable_stack_collections": true,
         "show_progress_bar": false,
         "enable_overflow_visible": false,
-        "columns_desktop": 4,
+        "columns_desktop": 5,
         "column_gap": 0.5,
         "columns_mobile": "2",
         "column_gap_mobile": 0.5,
