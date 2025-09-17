@@ -243,7 +243,7 @@
         "logo": "shopify://shop_images/logo_fastbreak.png",
         "logo_width": 150,
         "logo_width_mobile": 130,
-        "menu": "main-menu",
+        "menu": "main",
         "sticky_header_type": "always",
         "show_line_separator": true,
         "hide_line_separator_only_homepage": true,
