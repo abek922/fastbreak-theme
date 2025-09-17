@@ -16,7 +16,7 @@
           "type": "_slide",
           "settings": {
             "image": "shopify://shop_images/Perfume_25aw_01.jpg",
-            "slide_link": "",
+            "slide_link": "shopify://collections/reebok-perfume-apparel-collections-2025fw",
             "video_background": false,
             "content_width": 560,
             "content_position": "bottom-left",
@@ -55,6 +55,7 @@
             },
             "slide_button_qWdePM": {
               "type": "_slide_button",
+              "disabled": true,
               "settings": {
                 "button_text": "Shop now",
                 "button_link": "shopify://collections/reebok-perfume-apparel-collections-2025fw",
@@ -73,6 +74,7 @@
         },
         "slide_dbJdtP": {
           "type": "_slide",
+          "disabled": true,
           "settings": {
             "slide_link": "",
             "video_background": false,
