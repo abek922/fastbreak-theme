@@ -116,6 +116,7 @@
         },
         "newsletter_GXJkHj": {
           "type": "newsletter",
+          "disabled": true,
           "settings": {
             "heading": "Subscribe to our emails",
             "content": "<p>Subscribe to receive all our updates and offers, and get a 10% discount on your first purchase.</p>",
