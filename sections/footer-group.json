@@ -109,7 +109,7 @@
       ],
       "settings": {
         "section_width": "container-fluid",
-        "heading_size": "sub-heading",
+        "heading_size": "h6",
         "enable_follow_on_shop": false,
         "enable_country_selector": false,
         "enable_country_flag": false,
