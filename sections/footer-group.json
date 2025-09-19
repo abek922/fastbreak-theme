@@ -95,48 +95,24 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "text_8P7CaD": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "heading": "About",
-            "image_width": 50,
-            "subtext": "<p>Text</p>",
-            "show_social": true,
-            "open_details": true
-          }
-        },
         "link_list_7nmBjj": {
           "type": "link_list",
           "settings": {
             "heading": "MENU",
             "menu": "footer",
-            "open_details": false
-          }
-        },
-        "newsletter_GXJkHj": {
-          "type": "newsletter",
-          "disabled": true,
-          "settings": {
-            "heading": "Subscribe to our emails",
-            "content": "<p>Subscribe to receive all our updates and offers, and get a 10% discount on your first purchase.</p>",
-            "term_policy": "<p>By subscribing you agree to the <a href=\"#\" title=\"#\">Terms of Use </a>& <a href=\"#\" title=\"#\">Privacy Policy</a>.</p>",
-            "show_social": false,
-            "order_first": false
+            "open_details": true
           }
         }
       },
       "block_order": [
-        "text_8P7CaD",
-        "link_list_7nmBjj",
-        "newsletter_GXJkHj"
+        "link_list_7nmBjj"
       ],
       "settings": {
         "section_width": "container-fluid",
         "heading_size": "sub-heading",
-        "enable_follow_on_shop": true,
-        "enable_country_selector": true,
-        "enable_country_flag": true,
+        "enable_follow_on_shop": false,
+        "enable_country_selector": false,
+        "enable_country_flag": false,
         "enable_country_name": false,
         "enable_language_selector": false,
         "payment_enable": false,
@@ -147,9 +123,9 @@
         "padding_bottom": 32,
         "show_top_divider": true,
         "divider_top_width": "w-full",
-        "show_bottom_divider": false,
+        "show_bottom_divider": true,
         "divider_bottom_width": "container",
-        "show_bottom_border_mobile": false
+        "show_bottom_border_mobile": true
       }
     }
   },
