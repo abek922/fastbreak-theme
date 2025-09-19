@@ -162,7 +162,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "reebok-1",
-            "image": "shopify://shop_images/logo_reebok.jpg",
+            "image": "shopify://shop_images/logo_reebok_078df43d-b3f9-420f-92c0-5f568dba071f.jpg",
             "title": "Reebok",
             "url": ""
           }
@@ -171,7 +171,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "kappa",
-            "image": "shopify://shop_images/logo_kappa.jpg",
+            "image": "shopify://shop_images/logo_kappa_475bbabc-0c30-452b-8ace-97445600efa3.jpg",
             "title": "Kappa",
             "url": ""
           }
@@ -180,7 +180,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "dunlop-refined",
-            "image": "shopify://shop_images/logo_dunlop_square.png",
+            "image": "shopify://shop_images/logo_dunlop_square.jpg",
             "title": "DUNLOP REFINED",
             "url": ""
           }
@@ -189,7 +189,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "sensorial",
-            "image": "shopify://shop_images/logo_sensorial.jpg",
+            "image": "shopify://shop_images/logo_sensorial_592e7628-7a24-4362-a733-d9f34faec073.jpg",
             "title": "SENSORIAL",
             "url": ""
           }
@@ -198,7 +198,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "brand-outlet",
-            "image": "shopify://shop_images/logo_outlet.png",
+            "image": "shopify://shop_images/logo_outlet.jpg",
             "title": "BRAND OUTLET",
             "url": ""
           }
