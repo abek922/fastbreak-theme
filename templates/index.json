@@ -1601,6 +1601,7 @@
       "block_order": [
         "instafeed_app_block_M9CQmR"
       ],
+      "disabled": true,
       "settings": {
         "section_width": "container",
         "bg_color": "",
@@ -1616,7 +1617,6 @@
     },
     "featured_blog_RpydET": {
       "type": "featured-blog",
-      "disabled": true,
       "name": "Blog posts",
       "settings": {
         "section_width": "container",
