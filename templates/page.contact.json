@@ -13,7 +13,7 @@
       "type": "main-page",
       "disabled": true,
       "settings": {
-        "section_width": "container",
+        "section_width": "container-narrow",
         "show_default_heading": true,
         "bg_color": "",
         "text_color": "",
