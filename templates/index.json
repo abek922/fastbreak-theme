@@ -40,7 +40,7 @@
               "type": "_slide_heading",
               "settings": {
                 "heading": "Reebok | Perfume[f]Apparel collections[/f]",
-                "highlighted_word_type": "single_line",
+                "highlighted_word_type": "multiple_lines",
                 "heading_size": "h4",
                 "color_text_highlighted": "#00ffde"
               },
@@ -60,7 +60,7 @@
                 "button_text": "Shop now",
                 "button_link": "shopify://collections/reebok-perfume-apparel-collections-2025fw",
                 "button_type": "primary",
-                "show_icon": true
+                "show_icon": false
               },
               "blocks": {}
             }
