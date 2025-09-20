@@ -1616,6 +1616,7 @@
     },
     "featured_blog_RpydET": {
       "type": "featured-blog",
+      "disabled": true,
       "name": "Blog posts",
       "settings": {
         "section_width": "container",
