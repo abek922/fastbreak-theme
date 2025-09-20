@@ -1614,6 +1614,48 @@
         "divider_bottom_width": "container"
       }
     },
+    "featured_blog_RpydET": {
+      "type": "featured-blog",
+      "name": "Blog posts",
+      "settings": {
+        "section_width": "container",
+        "subheading": "",
+        "heading": "NEWS & TOPICS",
+        "heading_size_section": "h2",
+        "description": "",
+        "layout": "vertical",
+        "blog": "ニュース",
+        "image_ratio": "adapt",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_excerpt": false,
+        "show_category": false,
+        "show_read_more": true,
+        "enable_button_underlined_white": false,
+        "enable_stack_columns": false,
+        "show_progress_bar": false,
+        "enable_overflow_visible": false,
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "column_gap": 3,
+        "column_gap_mobile": 2,
+        "swipe_on_mobile": false,
+        "link_url": "",
+        "link_text": "View all",
+        "button_type": "primary",
+        "show_icon": false,
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
     "custom_html_aDcTGL": {
       "type": "custom-html",
       "settings": {
@@ -1654,6 +1696,7 @@
     "featured_blog_FNB946",
     "gallery_socical_QRe8hD",
     "1758294455207296f5",
+    "featured_blog_RpydET",
     "custom_html_aDcTGL"
   ]
 }
