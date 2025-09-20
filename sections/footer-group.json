@@ -99,7 +99,7 @@
           "type": "link_list",
           "settings": {
             "heading": "MENU",
-            "menu": "footer",
+            "menu": "footer-1",
             "open_details": true
           }
         }
