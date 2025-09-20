@@ -1508,52 +1508,15 @@
     },
     "gallery_socical_QRe8hD": {
       "type": "gallery-socical",
-      "blocks": {
-        "gallery_JzXt3e": {
-          "type": "gallery",
-          "settings": {
-            "text": "@Sam",
-            "link": ""
-          }
-        },
-        "gallery_q8p6mK": {
-          "type": "gallery",
-          "settings": {
-            "text": "@Orange",
-            "link": ""
-          }
-        },
-        "gallery_Q3K8yh": {
-          "type": "gallery",
-          "settings": {
-            "text": "@pinklio",
-            "link": ""
-          }
-        },
-        "gallery_h9Giqc": {
-          "type": "gallery",
-          "settings": {
-            "text": "@Paml",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "gallery_JzXt3e",
-        "gallery_q8p6mK",
-        "gallery_Q3K8yh",
-        "gallery_h9Giqc"
-      ],
-      "disabled": true,
       "settings": {
         "section_width": "container-fluid",
-        "subheading": "Stay inspired",
+        "subheading": "",
         "heading": "Follow us on Instagram",
         "heading_size_section": "h2",
         "description": "",
         "layout": "vertical",
-        "link_url": "",
-        "link_text": "@Pam_Sam",
+        "link_url": "https://www.instagram.com/fastbreak.online/",
+        "link_text": "@fastbreak.online",
         "button_type": "underlined",
         "show_icon": true,
         "layout_gallery": "carousel",
