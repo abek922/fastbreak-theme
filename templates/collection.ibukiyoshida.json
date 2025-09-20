@@ -1,0 +1,98 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_breadcrumb": false,
+        "text_size": "text-size-small",
+        "type_breadcrumb": "line-vertical",
+        "show_collection_title": true,
+        "show_collection_image": true,
+        "section_width": "container-fluid",
+        "heading_size": "h1",
+        "image_size": "350px",
+        "align_content": "start",
+        "show_collection_description": true,
+        "show_more_toggle": false,
+        "max_height": 8,
+        "navigation": "",
+        "text_color": "#ffffff",
+        "border_color": "",
+        "overlay_color": "#000000",
+        "overlay_opacity": 35,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "w-full"
+      }
+    },
+    "breadcrumbs_FYp3jd": {
+      "type": "breadcrumbs",
+      "settings": {
+        "section_width": "container-fluid",
+        "alignment": "start",
+        "text_size": "text-size-small",
+        "type_breadcrumb": "arrow",
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "padding_top": 16,
+        "padding_bottom": 0,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container-fluid"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "section_width": "container-fluid",
+        "products_per_page": 24,
+        "columns_desktop": 4,
+        "column_gap": 0.5,
+        "row_gap": 3,
+        "pagination_type": "page-numbers",
+        "filter_type": "drawer",
+        "enable_filtering": true,
+        "enable_sorting": true,
+        "show_filter_values_count": false,
+        "show_product_count": false,
+        "show_view_mode": false,
+        "collapsible_state": "collapsed",
+        "show_color_swatch": false,
+        "filter_color_type": "inline",
+        "show_block_style": false,
+        "matching_block_names": "Size",
+        "heading_size_filter_block": "sub-heading",
+        "enable_bold_heading": false,
+        "columns_mobile": "2",
+        "bg_color": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "border_color": "rgba(0,0,0,0)",
+        "padding_top": 40,
+        "padding_bottom": 72,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "breadcrumbs_FYp3jd",
+    "product-grid"
+  ]
+}
