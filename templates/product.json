@@ -183,18 +183,6 @@
             "open_by_default": true
           }
         },
-        "collapsible_tab_MTHEf9": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Size",
-            "heading_size": "sub-heading",
-            "icon": "none",
-            "content": "",
-            "content_liquid": "{{ roduct.metafields.custom.size }}",
-            "page": "",
-            "open_by_default": false
-          }
-        },
         "collapsible_tab_bVRE3V": {
           "type": "collapsible_tab",
           "disabled": true,
@@ -287,7 +275,6 @@
         "icon_with_text_6bTTF3",
         "separator_BcFrTM",
         "collapsible_tab_6kicUP",
-        "collapsible_tab_MTHEf9",
         "collapsible_tab_bVRE3V",
         "collapsible_tab_4UNrkz",
         "separator_CgCj4T",
