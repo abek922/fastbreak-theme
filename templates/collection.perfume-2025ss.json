@@ -330,7 +330,7 @@
         "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "video_autoplay": true,
         "video_controls": true,
-        "layout": "left",
+        "layout": "right",
         "column_gap": "0",
         "vertical_alignment": "start",
         "content_alignment": "start",
@@ -394,7 +394,7 @@
         "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "video_autoplay": true,
         "video_controls": true,
-        "layout": "right",
+        "layout": "left",
         "column_gap": "0",
         "vertical_alignment": "center",
         "content_alignment": "start",
@@ -413,24 +413,33 @@
     "image_with_text_jXKQhC": {
       "type": "image-with-text",
       "blocks": {
+        "heading_cLBBbA": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Perfume comment",
+            "heading_size": "h6"
+          }
+        },
         "text_yReieB": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "",
-            "large_text": true
+            "text": "<p>今回リーボックアパレルのアンバサダーに就任しました、Perfumeです♪</p><p>年を重ねて人生LEVEL UPしているように体もその分負荷をかけスキルアップを目指して普段からそれぞれ鍛えているのですが、今回の広告に合わせてまたトレーニングして挑みました。結成25周年に初めてのスポーツブランドさんとのコラボレーションで、このような挑戦ができて、本当にありがたいです。今が１番楽しくて実感している私たちの姿を見ていただけたら嬉しいです。</p>",
+            "large_text": false
           }
         }
       },
       "block_order": [
+        "heading_cLBBbA",
         "text_yReieB"
       ],
       "name": "Image with text",
       "settings": {
         "section_width": "w-full",
-        "image": "shopify://shop_images/Perfume_25aw_03.jpg",
+        "image": "shopify://shop_images/241103_Perfume0026_0035.jpg",
         "media_size": "adapt",
         "show_image_2": false,
-        "image_2": "shopify://shop_images/241103_Perfume0026_0035.jpg",
         "position_image_2": "middle-right",
         "media_size_2": "adapt",
         "desktop_image_width": "66",
@@ -438,7 +447,7 @@
         "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "video_autoplay": true,
         "video_controls": true,
-        "layout": "right",
+        "layout": "left",
         "column_gap": "0",
         "vertical_alignment": "start",
         "content_alignment": "start",
@@ -490,10 +499,9 @@
       "name": "Image with text",
       "settings": {
         "section_width": "w-full",
-        "image": "shopify://shop_images/Perfume_25aw_05.jpg",
+        "image": "shopify://shop_images/241103_Perfume089_0119_0101.jpg",
         "media_size": "adapt",
         "show_image_2": false,
-        "image_2": "shopify://shop_images/241103_Perfume089_0119_0101.jpg",
         "position_image_2": "middle-right",
         "media_size_2": "adapt",
         "desktop_image_width": "66",
@@ -501,7 +509,7 @@
         "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "video_autoplay": true,
         "video_controls": true,
-        "layout": "left",
+        "layout": "right",
         "column_gap": "0",
         "vertical_alignment": "end",
         "content_alignment": "start",
