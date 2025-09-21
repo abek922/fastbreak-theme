@@ -188,7 +188,7 @@
           "settings": {
             "heading": "Collapsible row",
             "heading_size": "h6",
-            "icon": "check_mark",
+            "icon": "none",
             "content": "",
             "content_liquid": "{{ custom.size }}",
             "page": "",
