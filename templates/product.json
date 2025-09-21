@@ -190,7 +190,7 @@
             "heading_size": "sub-heading",
             "icon": "none",
             "content": "",
-            "content_liquid": "{{ product.custom.size }}",
+            "content_liquid": "{{ roduct.metafields.custom.size }}",
             "page": "",
             "open_by_default": false
           }
