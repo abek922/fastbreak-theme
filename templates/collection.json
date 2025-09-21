@@ -11,6 +11,9 @@
   "sections": {
     "banner": {
       "type": "main-collection-banner",
+      "custom_css": [
+        ".collection-hero__description {margin: 0 auto;}"
+      ],
       "settings": {
         "show_breadcrumb": false,
         "text_size": "text-size-small",
