@@ -238,7 +238,7 @@
         "heading_4MVRx8": {
           "type": "heading",
           "settings": {
-            "heading": "Autumn/Winter New Collection",
+            "heading": "Spring/Summer Collection",
             "heading_size": "h6"
           }
         },
@@ -261,7 +261,7 @@
         "text_WpkfrJ": {
           "type": "text",
           "settings": {
-            "text": "<p>Perfumeが纏う、待望のReebokコレクション第二弾。\t<br/>\t<br/>数量限定・先行予約販売を9/26 20:00~FASTBREAK.ONLINE でスタート。\t<br/>※発送は10/10〜を予定しております。\t<br/>\t<br/>さらに 10/8から、FASTBREAK.がマルイシティ横浜B2Fに初登場。\t<br/>注目の「Reebok | Perfume」コレクションを、Perfumeが魅せるReebokの最新コレクションとして、\t<br/>10/11〜数量限定で店頭販売いたします。\t<br/>※先行販売の為、在庫数に限りがございます。店頭での予約販売は行っておりませんので、ご了承宜しくお願い致します。\t<br/>\t<br/>Reebokの革新性とPerfumeの世界観が織りなす特別なコレクションを、この機会にぜひご体感ください。\t<br/>\t<br/>9月22日　FASTBREAK.\t</p>",
+            "text": "<p>2025年、Reebokアパレルのアンバサダーに音楽ユニット「Perfume」が就任。</p>",
             "large_text": false,
             "show_more_toggle": false,
             "max_height": 8
@@ -320,7 +320,7 @@
       "name": "Image with text",
       "settings": {
         "section_width": "w-full",
-        "image": "shopify://shop_images/Perfume_25aw_01.jpg",
+        "image": "shopify://shop_images/241103_Perfume2389_2395.jpg",
         "media_size": "adapt",
         "show_image_2": false,
         "position_image_2": "middle-center",
@@ -384,7 +384,7 @@
       "name": "Image with text",
       "settings": {
         "section_width": "w-full",
-        "image": "shopify://shop_images/Perfume_25aw_02.jpg",
+        "image": "shopify://shop_images/241103_Perfume2654.jpg",
         "media_size": "adapt",
         "show_image_2": false,
         "position_image_2": "middle-right",
@@ -430,6 +430,7 @@
         "image": "shopify://shop_images/Perfume_25aw_03.jpg",
         "media_size": "adapt",
         "show_image_2": false,
+        "image_2": "shopify://shop_images/241103_Perfume0026_0035.jpg",
         "position_image_2": "middle-right",
         "media_size_2": "adapt",
         "desktop_image_width": "66",
@@ -492,6 +493,7 @@
         "image": "shopify://shop_images/Perfume_25aw_05.jpg",
         "media_size": "adapt",
         "show_image_2": false,
+        "image_2": "shopify://shop_images/241103_Perfume089_0119_0101.jpg",
         "position_image_2": "middle-right",
         "media_size_2": "adapt",
         "desktop_image_width": "66",
