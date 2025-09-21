@@ -186,8 +186,8 @@
         "collapsible_tab_MTHEf9": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
-            "heading_size": "h6",
+            "heading": "Size",
+            "heading_size": "sub-heading",
             "icon": "none",
             "content": "",
             "content_liquid": "{{ product.custom.size }}",
