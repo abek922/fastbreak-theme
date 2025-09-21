@@ -67,7 +67,7 @@
         "filter_type": "drawer",
         "enable_filtering": true,
         "enable_sorting": true,
-        "show_filter_values_count": false,
+        "show_filter_values_count": true,
         "show_product_count": false,
         "show_view_mode": false,
         "collapsible_state": "collapsed",
