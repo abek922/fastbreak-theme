@@ -20,7 +20,7 @@
         "section_width": "container-fluid",
         "heading_size": "h1",
         "image_size": "350px",
-        "align_content": "start",
+        "align_content": "center",
         "show_collection_description": true,
         "show_more_toggle": false,
         "max_height": 8,
