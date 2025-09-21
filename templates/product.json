@@ -190,7 +190,7 @@
             "heading_size": "h6",
             "icon": "none",
             "content": "",
-            "content_liquid": "{{ custom.size }}",
+            "content_liquid": "{{ product.custom.size }}",
             "page": "",
             "open_by_default": false
           }
