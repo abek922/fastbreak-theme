@@ -92,7 +92,7 @@
     "card_show_rating": false,
     "card_rating_position": "under_title",
     "card_color_type": "color",
-    "card_image_size": "portrait",
+    "card_image_size": "adapt",
     "card_image_fit": "fill",
     "card_text_alignment": "start",
     "card_show_quick_buy": true,
