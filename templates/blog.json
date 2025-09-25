@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "breadcrumbs_yrBGrh": {
@@ -9,12 +18,18 @@
         "type_breadcrumb": "diamond",
         "bg_color": "",
         "text_color": "",
+        "border_color": "",
         "padding_top": 12,
-        "padding_bottom": 12
+        "padding_bottom": 12,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
       }
     },
     "featured_blog_post_FRqt4r": {
       "type": "featured-blog-post",
+      "disabled": true,
       "settings": {
         "section_width": "container",
         "subheading": "",
@@ -41,9 +56,14 @@
         "show_icon": true,
         "bg_color": "",
         "text_color": "",
+        "border_color": "",
         "post_bg_color": "#f4f3ee",
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 36,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
       }
     },
     "main": {
@@ -52,15 +72,15 @@
         "section_width": "container",
         "subheading": "",
         "heading_size_section": "h1",
-        "description": "<p>Discover eco-friendly tips, travel inspiration, and the latest trends in sustainable backpacks and accessories.</p>",
+        "description": "",
         "show_title": true,
-        "show_tags": true,
+        "show_tags": false,
         "image_ratio": "landscape",
         "show_image": true,
         "show_date": true,
-        "show_author": true,
+        "show_author": false,
         "show_excerpt": true,
-        "show_category": true,
+        "show_category": false,
         "show_read_more": true,
         "enable_button_underlined_white": false,
         "posts_per_page": 6,
@@ -69,8 +89,13 @@
         "column_gap_mobile": 5,
         "bg_color": "",
         "text_color": "",
+        "border_color": "",
         "padding_top": 40,
-        "padding_bottom": 80
+        "padding_bottom": 80,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
       }
     }
   },
