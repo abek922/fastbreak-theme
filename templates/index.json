@@ -1605,7 +1605,7 @@
         "column_gap": 3,
         "column_gap_mobile": 2,
         "swipe_on_mobile": false,
-        "link_url": "",
+        "link_url": "shopify://blogs/ニュース",
         "link_text": "View all",
         "button_type": "primary",
         "show_icon": false,
