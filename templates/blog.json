@@ -71,7 +71,7 @@
       "settings": {
         "section_width": "container",
         "subheading": "",
-        "heading_size_section": "h1",
+        "heading_size_section": "h2",
         "description": "",
         "show_title": true,
         "show_tags": false,
