@@ -152,7 +152,7 @@
       "back_in_stock": {
         "name_product": "商品名",
         "description": "この商品が再入荷したら通知を受け取ります!",
-        "variant": "変異体",
+        "variant": "バリエーション",
         "text_button": "私に通知します",
         "email": "メール"
       },
@@ -425,7 +425,7 @@
       "view_cart": "カートを見る",
       "each": "{{ money }}/ea",
       "product": "商品",
-      "variant": "変異体",
+      "variant": "バリエーション",
       "variant_total": "バリアントの合計",
       "items_added": {
         "one": "{{ quantity }} 項目が追加されました",
