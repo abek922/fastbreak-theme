@@ -151,7 +151,7 @@
       "product_information_tab": "商品情報タブ",
       "back_in_stock": {
         "name_product": "商品名",
-        "description": "この商品が再入荷したら通知を受け取ります!",
+        "description": "再入荷通知",
         "variant": "バリエーション",
         "text_button": "再入荷通知を受け取る",
         "email": "メール"
