@@ -22,7 +22,7 @@
         "show_collection_image": true,
         "section_width": "container-fluid",
         "heading_size": "h1",
-        "image_size": "350px",
+        "image_size": "auto",
         "align_content": "center",
         "show_collection_description": true,
         "show_more_toggle": false,
