@@ -792,7 +792,7 @@
         "section_width": "container-fluid",
         "subheading": "",
         "heading": "Recently viewed products",
-        "heading_size_section": "h2",
+        "heading_size_section": "h4",
         "description": "",
         "layout": "vertical",
         "products_limit": 4,
