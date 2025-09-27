@@ -153,7 +153,7 @@
         "name_product": "商品名",
         "description": "この商品が再入荷したら通知を受け取ります!",
         "variant": "バリエーション",
-        "text_button": "私に通知します",
+        "text_button": "再入荷通知を受け取る",
         "email": "メール"
       },
       "media": {
