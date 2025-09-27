@@ -56,199 +56,8 @@
         "divider_bottom_width": "container-fluid"
       }
     },
-    "slideshow_new_3LzjzF": {
-      "type": "slideshow-new",
-      "blocks": {
-        "slide_rfqCb6": {
-          "type": "_slide",
-          "settings": {
-            "image": "shopify://shop_images/ARISAK_1.jpg",
-            "slide_link": "",
-            "video_background": false,
-            "content_width": 500,
-            "content_position": "middle-center",
-            "mobile_content_position": "middle-center",
-            "content_space": 2,
-            "color_text": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
-          },
-          "blocks": {
-            "slide_subheading_KiCDWy": {
-              "type": "_slide_subheading",
-              "settings": {
-                "subheading": "Subheading"
-              },
-              "blocks": {}
-            },
-            "slide_heading_iKQf7p": {
-              "type": "_slide_heading",
-              "settings": {
-                "heading": "Slide Heading",
-                "highlighted_word_type": "single_line",
-                "heading_size": "hxl",
-                "color_text_highlighted": "#ffffff"
-              },
-              "blocks": {}
-            },
-            "slide_text_7MWzzr": {
-              "type": "_slide_text",
-              "settings": {
-                "content": "Add descriptive text for your slide here.",
-                "description_size": "medium"
-              },
-              "blocks": {}
-            },
-            "slide_button_yJnkYi": {
-              "type": "_slide_button",
-              "settings": {
-                "button_text": "Shop now",
-                "button_link": "",
-                "button_type": "primary",
-                "show_icon": false
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "slide_subheading_KiCDWy",
-            "slide_heading_iKQf7p",
-            "slide_text_7MWzzr",
-            "slide_button_yJnkYi"
-          ]
-        },
-        "slide_cgTR6t": {
-          "type": "_slide",
-          "settings": {
-            "image": "shopify://shop_images/ARISAK_2.jpg",
-            "slide_link": "",
-            "video_background": false,
-            "content_width": 500,
-            "content_position": "middle-center",
-            "mobile_content_position": "middle-center",
-            "content_space": 2,
-            "color_text": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
-          },
-          "blocks": {
-            "slide_subheading_H6DpLR": {
-              "type": "_slide_subheading",
-              "settings": {
-                "subheading": "Subheading"
-              },
-              "blocks": {}
-            },
-            "slide_heading_T3W9Ra": {
-              "type": "_slide_heading",
-              "settings": {
-                "heading": "Slide Heading",
-                "highlighted_word_type": "single_line",
-                "heading_size": "hxl",
-                "color_text_highlighted": "#ffffff"
-              },
-              "blocks": {}
-            },
-            "slide_text_T3UKiL": {
-              "type": "_slide_text",
-              "settings": {
-                "content": "Add descriptive text for your slide here.",
-                "description_size": "medium"
-              },
-              "blocks": {}
-            },
-            "slide_button_3YkNAW": {
-              "type": "_slide_button",
-              "settings": {
-                "button_text": "Shop now",
-                "button_link": "",
-                "button_type": "primary",
-                "show_icon": false
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "slide_subheading_H6DpLR",
-            "slide_heading_T3W9Ra",
-            "slide_text_T3UKiL",
-            "slide_button_3YkNAW"
-          ]
-        }
-      },
-      "block_order": [
-        "slide_rfqCb6",
-        "slide_cgTR6t"
-      ],
-      "disabled": true,
-      "name": "Slideshow",
-      "settings": {
-        "slide_width": "w-full",
-        "desktop_height_mode": "adapt",
-        "desktop_fixed_height": 650,
-        "mobile_height_mode": "adapt",
-        "mobile_fixed_height": 550,
-        "auto_rotate": true,
-        "pause_on_hover": false,
-        "change_slides_speed": 5,
-        "transition": "zoom",
-        "show_moving_cursor": false,
-        "controls": "filled-arrows",
-        "accessibility_info": "Slideshow about our brand",
-        "bg_color": "",
-        "controls_color": "#ffffff",
-        "controls_color_text": "#ffffff",
-        "controls_color_arrows": "#000000"
-      }
-    },
     "image_with_text_overlay_Pqrjim": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_yn3ExY": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image Text Overlay",
-            "highlighted_word_type": "single_line",
-            "heading_size": "h1"
-          }
-        },
-        "text_6yEa8T": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Give customers details about the banner image(s) or content on the template.</p>",
-            "large_text": false
-          }
-        },
-        "separator_V8zaU6": {
-          "type": "separator",
-          "disabled": true,
-          "settings": {
-            "show_border": false,
-            "space": 4
-          }
-        },
-        "buttons_d69w8r": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button text",
-            "button_link": "",
-            "button_type": "primary-white",
-            "show_icon": false,
-            "moving_button": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_yn3ExY",
-        "text_6yEa8T",
-        "separator_V8zaU6",
-        "buttons_d69w8r"
-      ],
       "name": "Image with text overlay",
       "settings": {
         "section_width": "w-full",
@@ -277,39 +86,6 @@
     },
     "image_with_text_crGrnh": {
       "type": "image-with-text",
-      "blocks": {
-        "heading_yNr3UG": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "",
-            "heading_size": "h2"
-          }
-        },
-        "text_fizVcU": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "",
-            "large_text": false
-          }
-        },
-        "button_VL9dy8": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button text",
-            "button_link": "",
-            "button_type": "primary",
-            "show_icon": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_yNr3UG",
-        "text_fizVcU",
-        "button_VL9dy8"
-      ],
       "name": "Image with text",
       "settings": {
         "section_width": "container",
@@ -341,50 +117,6 @@
     },
     "image_with_text_overlay_UYXnhJ": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_dJFedg": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image Text Overlay",
-            "highlighted_word_type": "single_line",
-            "heading_size": "h1"
-          }
-        },
-        "text_cQfg7W": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Give customers details about the banner image(s) or content on the template.</p>",
-            "large_text": false
-          }
-        },
-        "separator_DGQCgg": {
-          "type": "separator",
-          "disabled": true,
-          "settings": {
-            "show_border": false,
-            "space": 4
-          }
-        },
-        "buttons_BnqUM3": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button text",
-            "button_link": "",
-            "button_type": "primary-white",
-            "show_icon": false,
-            "moving_button": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_dJFedg",
-        "text_cQfg7W",
-        "separator_DGQCgg",
-        "buttons_BnqUM3"
-      ],
       "name": "Image with text overlay",
       "settings": {
         "section_width": "w-full",
@@ -413,50 +145,6 @@
     },
     "image_with_text_overlay_3kAGCp": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_rPAXGV": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image Text Overlay",
-            "highlighted_word_type": "single_line",
-            "heading_size": "h1"
-          }
-        },
-        "text_Cnhcm9": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Give customers details about the banner image(s) or content on the template.</p>",
-            "large_text": false
-          }
-        },
-        "separator_t3AMXb": {
-          "type": "separator",
-          "disabled": true,
-          "settings": {
-            "show_border": false,
-            "space": 4
-          }
-        },
-        "buttons_Hn4qLa": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button text",
-            "button_link": "",
-            "button_type": "primary-white",
-            "show_icon": false,
-            "moving_button": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_rPAXGV",
-        "text_Cnhcm9",
-        "separator_t3AMXb",
-        "buttons_Hn4qLa"
-      ],
       "name": "Image with text overlay",
       "settings": {
         "section_width": "w-full",
@@ -534,13 +222,6 @@
             "show_back_in_stock": false,
             "text_back_in_stock": "Notify me"
           }
-        },
-        "share_4EMftR": {
-          "type": "share",
-          "disabled": true,
-          "settings": {
-            "share_label": "Share"
-          }
         }
       },
       "block_order": [
@@ -549,8 +230,7 @@
         "price_iDcLke",
         "variant_picker_j9NM8d",
         "quantity_selector_aRWxHV",
-        "buy_buttons_qERxiK",
-        "share_4EMftR"
+        "buy_buttons_qERxiK"
       ],
       "name": "Featured product",
       "settings": {
@@ -679,7 +359,6 @@
   "order": [
     "banner",
     "breadcrumbs_FYp3jd",
-    "slideshow_new_3LzjzF",
     "image_with_text_overlay_Pqrjim",
     "image_with_text_crGrnh",
     "image_with_text_overlay_UYXnhJ",
