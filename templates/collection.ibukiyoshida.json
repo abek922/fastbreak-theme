@@ -18,7 +18,7 @@
         "show_collection_title": true,
         "show_collection_image": true,
         "section_width": "container-fluid",
-        "heading_size": "h1",
+        "heading_size": "h4",
         "image_size": "350px",
         "align_content": "start",
         "show_collection_description": true,
