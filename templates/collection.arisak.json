@@ -80,6 +80,9 @@
         "text_rGAHUn",
         "separator_D9Gz9L"
       ],
+      "custom_css": [
+        ".rich-text {margin: 0}"
+      ],
       "name": "Rich text",
       "settings": {
         "section_width": "w-full",
