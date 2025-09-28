@@ -81,12 +81,12 @@
         "separator_D9Gz9L"
       ],
       "custom_css": [
-        ".rich-text {margin: 0}"
+        ".rich-text {margin: 0;}"
       ],
       "name": "Rich text",
       "settings": {
         "section_width": "w-full",
-        "content_width": "max-w-4xl",
+        "content_width": "max-w-7xl",
         "content_alignment": "start",
         "bg_color": "",
         "text_color": "",
