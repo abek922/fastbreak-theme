@@ -56,6 +56,46 @@
         "divider_bottom_width": "container-fluid"
       }
     },
+    "rich_text_BQw7nt": {
+      "type": "rich-text",
+      "blocks": {
+        "text_rGAHUn": {
+          "type": "text",
+          "settings": {
+            "text": "<p>フィギュアスケートを10年行っていたことからインスパイアされ、写真を撮り続けている。アートディレクションも同時に手がけることもあり、独自のY3K & DarkFantasyスタイルで雑誌や広告など活動の幅を広げる。VOGUEJAPANにて日本の若手アーティスト10人に選ばれる。現在WWDJAPANにて連載ARISAKlaboを展開中。</p>",
+            "large_text": false,
+            "show_more_toggle": false,
+            "max_height": 8
+          }
+        },
+        "separator_D9Gz9L": {
+          "type": "separator",
+          "settings": {
+            "show_border": false,
+            "space": 8
+          }
+        }
+      },
+      "block_order": [
+        "text_rGAHUn",
+        "separator_D9Gz9L"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "section_width": "w-full",
+        "content_width": "max-w-4xl",
+        "content_alignment": "start",
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
     "image_with_text_overlay_Pqrjim": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -359,6 +399,7 @@
   "order": [
     "banner",
     "breadcrumbs_FYp3jd",
+    "rich_text_BQw7nt",
     "image_with_text_overlay_Pqrjim",
     "image_with_text_crGrnh",
     "image_with_text_overlay_UYXnhJ",
