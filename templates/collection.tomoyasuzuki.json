@@ -111,6 +111,7 @@
       "blocks": {
         "heading_6TpLxQ": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Image Text Overlay",
             "highlighted_word_type": "single_line",
@@ -119,6 +120,7 @@
         },
         "text_FJgE3a": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Give customers details about the banner image(s) or content on the template.</p>",
             "large_text": false
@@ -126,6 +128,7 @@
         },
         "separator_6WhxnG": {
           "type": "separator",
+          "disabled": true,
           "settings": {
             "show_border": false,
             "space": 4
@@ -133,6 +136,7 @@
         },
         "buttons_QX8zmD": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label": "Button text",
             "button_link": "",
@@ -151,6 +155,7 @@
       "name": "Image with text overlay",
       "settings": {
         "section_width": "w-full",
+        "image": "shopify://shop_images/TOMOYA.jpg",
         "link": "",
         "desktop_height_mode": "fixed",
         "desktop_fixed_height": 650,
@@ -215,6 +220,7 @@
         "separator_f8fPYc",
         "buttons_CmQHhr"
       ],
+      "disabled": true,
       "name": "Image with text overlay",
       "settings": {
         "section_width": "w-full",
@@ -275,6 +281,7 @@
       "name": "Image with text",
       "settings": {
         "section_width": "container",
+        "image": "shopify://shop_images/TOMOYA_1.jpg",
         "media_size": "adapt",
         "show_image_2": false,
         "position_image_2": "middle-right",
