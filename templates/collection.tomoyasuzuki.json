@@ -18,7 +18,7 @@
         "show_collection_title": true,
         "show_collection_image": true,
         "section_width": "container-fluid",
-        "heading_size": "h1",
+        "heading_size": "h4",
         "image_size": "350px",
         "align_content": "start",
         "show_collection_description": true,
@@ -39,6 +39,7 @@
     },
     "breadcrumbs_FYp3jd": {
       "type": "breadcrumbs",
+      "disabled": true,
       "settings": {
         "section_width": "container-fluid",
         "alignment": "start",
@@ -53,6 +54,310 @@
         "divider_top_width": "container",
         "show_bottom_divider": false,
         "divider_bottom_width": "container-fluid"
+      }
+    },
+    "rich_text_7rxcR9": {
+      "type": "rich-text",
+      "blocks": {
+        "text_UmEg4c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>ストリートを舞台に、ボール1つで魅せるアーバンスポーツ「フリースタイルフットボール」のプロアスリート。<br/>極限のバランスと創造性で生み出す唯一無二のトリックで、フリースタイルフットボール世界ランキング2位・日本およびアジアチャンピオン等の経歴を獲得してきた。 <br/>2015年、競技歴わずか3年で全日本大会を制覇。以降、国内外の大会で数々のタイトルを獲得し、世界トップレベルの実力と表現力で高く評価されているさながら、<br/>フリースタイルフットボールにおいて「クロスボディ」というジャンルを確立した第一人者的存在でもある。フリースタイルフットボールの魅力と可能性を、競技と表現の両面から世界に発信し続けている。</p>",
+            "large_text": false,
+            "show_more_toggle": false,
+            "max_height": 8
+          }
+        },
+        "separator_GqABCW": {
+          "type": "separator",
+          "settings": {
+            "show_border": false,
+            "space": 8
+          }
+        },
+        "text_tMkrGL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>主な活動実績<br/>・2019 Asian Pacific Freestyle Football Champs 優勝 (アジア太平洋選手権)<br/>・2020 世界連盟WFFA公式ワールドランキング ランク2位 (歴代日本人最高位)<br/>・ドイツ Bundesliga 2024/2025 season 「ボーフム vs アウクスブルク」オープニングショーケース<br/>・イタリア セリエA Coppa Italia決勝「ACミランvsボローニャ」映像制作<br/>・Docomo 5G web CM出演<br/>・COACH 2025 Spring editio...</p>",
+            "large_text": false,
+            "show_more_toggle": false,
+            "max_height": 8
+          }
+        }
+      },
+      "block_order": [
+        "text_UmEg4c",
+        "separator_GqABCW",
+        "text_tMkrGL"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "section_width": "w-full",
+        "content_width": "max-w-screen-lg",
+        "content_alignment": "start",
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "image_with_text_overlay_qH3CD9": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_6TpLxQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image Text Overlay",
+            "highlighted_word_type": "single_line",
+            "heading_size": "h1"
+          }
+        },
+        "text_FJgE3a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Give customers details about the banner image(s) or content on the template.</p>",
+            "large_text": false
+          }
+        },
+        "separator_6WhxnG": {
+          "type": "separator",
+          "settings": {
+            "show_border": false,
+            "space": 4
+          }
+        },
+        "buttons_QX8zmD": {
+          "type": "buttons",
+          "settings": {
+            "button_label": "Button text",
+            "button_link": "",
+            "button_type": "primary-white",
+            "show_icon": false,
+            "moving_button": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_6TpLxQ",
+        "text_FJgE3a",
+        "separator_6WhxnG",
+        "buttons_QX8zmD"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "section_width": "w-full",
+        "link": "",
+        "desktop_height_mode": "fixed",
+        "desktop_fixed_height": 650,
+        "mobile_height_mode": "fixed",
+        "mobile_fixed_height": 550,
+        "desktop_content_position": "middle-center",
+        "mobile_content_position": "middle-center",
+        "content_alignment": "center",
+        "mobile_content_alignment": "center",
+        "content_width": "max-w-4xl",
+        "enable_parallax": false,
+        "enable_scroll_reveal": false,
+        "enable_scroll_reveal_top": false,
+        "direction_scroll_reveal": "0",
+        "threshold_down": 1.5,
+        "color_text": "#ffffff",
+        "color_text_highlighted": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 70,
+        "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+      }
+    },
+    "image_with_text_overlay_KDqnEG": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_QtwaxW": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image Text Overlay",
+            "highlighted_word_type": "single_line",
+            "heading_size": "h1"
+          }
+        },
+        "text_pRzp4P": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Give customers details about the banner image(s) or content on the template.</p>",
+            "large_text": false
+          }
+        },
+        "separator_f8fPYc": {
+          "type": "separator",
+          "settings": {
+            "show_border": false,
+            "space": 4
+          }
+        },
+        "buttons_CmQHhr": {
+          "type": "buttons",
+          "settings": {
+            "button_label": "Button text",
+            "button_link": "",
+            "button_type": "primary-white",
+            "show_icon": false,
+            "moving_button": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_QtwaxW",
+        "text_pRzp4P",
+        "separator_f8fPYc",
+        "buttons_CmQHhr"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "section_width": "w-full",
+        "link": "",
+        "desktop_height_mode": "fixed",
+        "desktop_fixed_height": 650,
+        "mobile_height_mode": "fixed",
+        "mobile_fixed_height": 550,
+        "desktop_content_position": "middle-center",
+        "mobile_content_position": "middle-center",
+        "content_alignment": "center",
+        "mobile_content_alignment": "center",
+        "content_width": "max-w-4xl",
+        "enable_parallax": false,
+        "enable_scroll_reveal": false,
+        "enable_scroll_reveal_top": false,
+        "direction_scroll_reveal": "0",
+        "threshold_down": 1.5,
+        "color_text": "#ffffff",
+        "color_text_highlighted": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 70,
+        "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+      }
+    },
+    "image_with_text_T4ANDD": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_QWjKkr": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h2"
+          }
+        },
+        "text_yDzp33": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "large_text": false
+          }
+        },
+        "button_6gD4FD": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button text",
+            "button_link": "",
+            "button_type": "primary",
+            "show_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_QWjKkr",
+        "text_yDzp33",
+        "button_6gD4FD"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "section_width": "container",
+        "media_size": "adapt",
+        "show_image_2": false,
+        "position_image_2": "middle-right",
+        "media_size_2": "adapt",
+        "desktop_image_width": "50",
+        "active_video": false,
+        "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "video_controls": true,
+        "layout": "left",
+        "column_gap": "16",
+        "vertical_alignment": "center",
+        "content_alignment": "start",
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "bg_column": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "image_with_text_JqzwqH": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_V69H9Q": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h2"
+          }
+        },
+        "text_gtA4dJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "large_text": false
+          }
+        },
+        "button_jxd97x": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button text",
+            "button_link": "",
+            "button_type": "primary",
+            "show_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_V69H9Q",
+        "text_gtA4dJ",
+        "button_jxd97x"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "section_width": "container",
+        "media_size": "adapt",
+        "show_image_2": false,
+        "position_image_2": "middle-right",
+        "media_size_2": "adapt",
+        "desktop_image_width": "50",
+        "active_video": false,
+        "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "video_controls": true,
+        "layout": "left",
+        "column_gap": "16",
+        "vertical_alignment": "center",
+        "content_alignment": "start",
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "bg_column": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
       }
     },
     "product-grid": {
@@ -93,6 +398,11 @@
   "order": [
     "banner",
     "breadcrumbs_FYp3jd",
+    "rich_text_7rxcR9",
+    "image_with_text_overlay_qH3CD9",
+    "image_with_text_overlay_KDqnEG",
+    "image_with_text_T4ANDD",
+    "image_with_text_JqzwqH",
     "product-grid"
   ]
 }
