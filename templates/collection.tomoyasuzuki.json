@@ -157,7 +157,7 @@
         "section_width": "w-full",
         "image": "shopify://shop_images/TOMOYA.jpg",
         "link": "",
-        "desktop_height_mode": "fixed",
+        "desktop_height_mode": "adapt",
         "desktop_fixed_height": 650,
         "mobile_height_mode": "fixed",
         "mobile_fixed_height": 550,
@@ -174,8 +174,8 @@
         "color_text": "#ffffff",
         "color_text_highlighted": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 70,
-        "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+        "overlay_opacity": 0,
+        "overlay_gradient": ""
       }
     },
     "image_with_text_overlay_KDqnEG": {
