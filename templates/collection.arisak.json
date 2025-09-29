@@ -275,6 +275,7 @@
         "quantity_selector_aRWxHV",
         "buy_buttons_qERxiK"
       ],
+      "disabled": true,
       "name": "Featured product",
       "settings": {
         "section_width": "container-fluid",
@@ -365,7 +366,6 @@
     },
     "product-grid": {
       "type": "main-collection-product-grid",
-      "disabled": true,
       "settings": {
         "section_width": "container-fluid",
         "products_per_page": 24,
