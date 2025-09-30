@@ -413,7 +413,7 @@
       ],
       "name": "Multicolumn",
       "settings": {
-        "section_width": "w-full",
+        "section_width": "container-fluid",
         "subheading": "",
         "heading": "",
         "heading_size_section": "h4",
