@@ -191,7 +191,7 @@
           "type": "_slide",
           "name": "Slide",
           "settings": {
-            "image": "shopify://shop_images/ibuki_sp.jpg",
+            "image": "shopify://shop_images/IBUKI.jpg",
             "mobile_image": "shopify://shop_images/ibuki_sp.jpg",
             "slide_link": "shopify://collections/ibuki-yoshida",
             "video_background": false,
