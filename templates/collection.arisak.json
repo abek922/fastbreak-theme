@@ -127,6 +127,77 @@
         "overlay_gradient": ""
       }
     },
+    "multicolumn_NzDfq8": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_iHqVcf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ARISAK_2.jpg",
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_type": "outline",
+            "show_icon": false,
+            "desktop_image_placement": "top"
+          }
+        },
+        "column_VRdHwA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ARISAK_LOGO.png",
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_type": "outline",
+            "show_icon": false,
+            "desktop_image_placement": "top"
+          }
+        }
+      },
+      "block_order": [
+        "column_iHqVcf",
+        "column_VRdHwA"
+      ],
+      "name": "Multicolumn",
+      "settings": {
+        "section_width": "container",
+        "subheading": "Sub heading",
+        "heading": "Multicolumn",
+        "heading_size_section": "h2",
+        "description": "<p>Add a short description for this section</p>",
+        "layout": "vertical",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "heading_size": "h4",
+        "column_alignment": "start",
+        "link_url": "",
+        "link_text": "View all",
+        "button_type": "primary",
+        "show_icon": false,
+        "enable_stack_columns": false,
+        "show_progress_bar": false,
+        "enable_overflow_visible": false,
+        "columns_desktop": 2,
+        "column_gap": 3,
+        "column_gap_mobile": 2,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
     "image_with_text_crGrnh": {
       "type": "image-with-text",
       "name": "Image with text",
@@ -405,6 +476,7 @@
     "breadcrumbs_FYp3jd",
     "rich_text_BQw7nt",
     "image_with_text_overlay_Pqrjim",
+    "multicolumn_NzDfq8",
     "image_with_text_crGrnh",
     "image_with_text_overlay_UYXnhJ",
     "image_with_text_overlay_3kAGCp",
