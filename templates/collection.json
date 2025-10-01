@@ -26,7 +26,7 @@
         "align_content": "center",
         "show_collection_description": true,
         "show_more_toggle": false,
-        "max_height": 8,
+        "max_height": 10,
         "navigation": "",
         "text_color": "#ffffff",
         "border_color": "",
