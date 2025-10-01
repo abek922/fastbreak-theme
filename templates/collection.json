@@ -31,7 +31,7 @@
         "text_color": "#ffffff",
         "border_color": "",
         "overlay_color": "#000000",
-        "overlay_opacity": 35,
+        "overlay_opacity": 30,
         "padding_top": 0,
         "padding_bottom": 0,
         "show_top_divider": false,
