@@ -93,7 +93,7 @@
       "name": "Rich text",
       "settings": {
         "section_width": "w-full",
-        "content_width": "container",
+        "content_width": "max-w-screen-lg",
         "content_alignment": "start",
         "bg_color": "",
         "text_color": "",
