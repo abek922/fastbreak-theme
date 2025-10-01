@@ -69,9 +69,8 @@
         },
         "text_JcYRJX": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "text": "<p>チーム名の通り、“夢”を実現するために全国から集まったメンバーが挑み続けるKADOKAWA DREAMS 。</p><p>22-23、23-24 SEASONにおいて史上初の2連覇を果たし、日本最強と称されるこのチームは、常識を打ち破り、さらなる未来へ挑戦しています。</p><p>その彼らが着用する、Reebokジャパンアパレルのインラインコレクション。勝利と夢を纏うウェアが、新たなステージへの一歩を後押しします。</p>",
             "large_text": false,
             "show_more_toggle": false,
             "max_height": 8
@@ -91,12 +90,11 @@
         "text_JcYRJX",
         "separator_8M7Tye"
       ],
-      "disabled": true,
       "name": "Rich text",
       "settings": {
         "section_width": "w-full",
-        "content_width": "max-w-4xl",
-        "content_alignment": "center",
+        "content_width": "max-w-screen-lg",
+        "content_alignment": "start",
         "bg_color": "",
         "text_color": "",
         "border_color": "",
