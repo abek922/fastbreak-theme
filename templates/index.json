@@ -58,6 +58,7 @@
         "slide_nnHNTm": {
           "type": "_slide",
           "name": "Slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/KADOKAWA.jpg",
             "mobile_image": "shopify://shop_images/kadokawa_sp.jpg",
@@ -102,6 +103,7 @@
         "slide_NC8Uij": {
           "type": "_slide",
           "name": "Slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/ARISAK_1.jpg",
             "mobile_image": "shopify://shop_images/arisak_sp.jpg",
@@ -146,6 +148,7 @@
         "slide_aExywe": {
           "type": "_slide",
           "name": "Slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/TOMOYA.jpg",
             "mobile_image": "shopify://shop_images/tomoya_sp.jpg",
@@ -190,6 +193,7 @@
         "slide_aNpjae": {
           "type": "_slide",
           "name": "Slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/IBUKI.jpg",
             "mobile_image": "shopify://shop_images/ibuki_sp.jpg",
