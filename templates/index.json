@@ -29,13 +29,6 @@
             "overlay_gradient": "linear-gradient(0deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.35) 100%)"
           },
           "blocks": {
-            "slide_subheading_UnKtYK": {
-              "type": "_slide_subheading",
-              "settings": {
-                "subheading": ""
-              },
-              "blocks": {}
-            },
             "slide_heading_9kL4D8": {
               "type": "_slide_heading",
               "settings": {
@@ -43,14 +36,6 @@
                 "highlighted_word_type": "multiple_lines",
                 "heading_size": "h4",
                 "color_text_highlighted": "#00ffde"
-              },
-              "blocks": {}
-            },
-            "slide_text_ePA6GQ": {
-              "type": "_slide_text",
-              "settings": {
-                "content": "",
-                "description_size": "medium"
               },
               "blocks": {}
             },
@@ -66,46 +51,171 @@
             }
           },
           "block_order": [
-            "slide_subheading_UnKtYK",
             "slide_heading_9kL4D8",
-            "slide_text_ePA6GQ",
             "slide_button_qWdePM"
           ]
         },
-        "slide_dbJdtP": {
+        "slide_nnHNTm": {
           "type": "_slide",
+          "name": "Slide",
           "disabled": true,
           "settings": {
-            "slide_link": "",
+            "image": "shopify://shop_images/KADOKAWA.jpg",
+            "slide_link": "shopify://collections/kadokawa-dreams",
             "video_background": false,
-            "content_width": 560,
+            "content_width": 500,
             "content_position": "bottom-left",
             "mobile_content_position": "bottom-center",
             "content_space": 2,
             "color_text": "#ffffff",
             "overlay_color": "#000000",
             "overlay_opacity": 15,
-            "overlay_gradient": "linear-gradient(0deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.35) 100%)"
+            "overlay_gradient": ""
           },
           "blocks": {
-            "slide_subheading_Wt7GFL": {
-              "type": "_slide_subheading",
-              "settings": {
-                "subheading": ""
-              },
-              "blocks": {}
-            },
-            "slide_heading_DhyMmG": {
+            "slide_heading_mmj7MN": {
               "type": "_slide_heading",
               "settings": {
-                "heading": "KADOKAWA DREAMSｘReebok",
+                "heading": "KADOKAWA DREAMS Wears ReebokApparel collections 2025AW",
                 "highlighted_word_type": "single_line",
-                "heading_size": "hxl",
-                "color_text_highlighted": "#ffeb00"
+                "heading_size": "h4",
+                "color_text_highlighted": "#ffffff"
               },
               "blocks": {}
             },
-            "slide_text_jxCmXw": {
+            "slide_button_nB7ang": {
+              "type": "_slide_button",
+              "settings": {
+                "button_text": "Shop Now",
+                "button_link": "shopify://collections/kadokawa-dreams",
+                "button_type": "primary",
+                "show_icon": false
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "slide_heading_mmj7MN",
+            "slide_button_nB7ang"
+          ]
+        },
+        "slide_NC8Uij": {
+          "type": "_slide",
+          "name": "Slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/ARISAK_1.jpg",
+            "slide_link": "shopify://collections/arisak",
+            "video_background": false,
+            "content_width": 500,
+            "content_position": "bottom-left",
+            "mobile_content_position": "bottom-center",
+            "content_space": 2,
+            "color_text": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 70,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+          },
+          "blocks": {
+            "slide_heading_k9yVzT": {
+              "type": "_slide_heading",
+              "settings": {
+                "heading": "ARISAK (PHOTO ARTIST)",
+                "highlighted_word_type": "single_line",
+                "heading_size": "h4",
+                "color_text_highlighted": "#ffffff"
+              },
+              "blocks": {}
+            },
+            "slide_button_rVkKz8": {
+              "type": "_slide_button",
+              "settings": {
+                "button_text": "Shop Now",
+                "button_link": "shopify://collections/arisak",
+                "button_type": "primary",
+                "show_icon": false
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "slide_heading_k9yVzT",
+            "slide_button_rVkKz8"
+          ]
+        },
+        "slide_aExywe": {
+          "type": "_slide",
+          "name": "Slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/TOMOYA.jpg",
+            "slide_link": "shopify://collections/tomoya-suzuki",
+            "video_background": false,
+            "content_width": 500,
+            "content_position": "middle-center",
+            "mobile_content_position": "middle-center",
+            "content_space": 2,
+            "color_text": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 70,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+          },
+          "blocks": {
+            "slide_heading_Lq6HME": {
+              "type": "_slide_heading",
+              "settings": {
+                "heading": "TOMOYA SUZUKI",
+                "highlighted_word_type": "single_line",
+                "heading_size": "h1",
+                "color_text_highlighted": "#ffffff"
+              },
+              "blocks": {}
+            },
+            "slide_button_4TdXnK": {
+              "type": "_slide_button",
+              "settings": {
+                "button_text": "Shop Now",
+                "button_link": "shopify://collections/tomoya-suzuki",
+                "button_type": "primary",
+                "show_icon": false
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "slide_heading_Lq6HME",
+            "slide_button_4TdXnK"
+          ]
+        },
+        "slide_aNpjae": {
+          "type": "_slide",
+          "name": "Slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/IBUKI.jpg",
+            "slide_link": "shopify://collections/ibuki-yoshida",
+            "video_background": false,
+            "content_width": 500,
+            "content_position": "middle-center",
+            "mobile_content_position": "middle-center",
+            "content_space": 2,
+            "color_text": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 70,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+          },
+          "blocks": {
+            "slide_heading_mbhCUW": {
+              "type": "_slide_heading",
+              "settings": {
+                "heading": "IBUKI YOSHIDA",
+                "highlighted_word_type": "single_line",
+                "heading_size": "h1",
+                "color_text_highlighted": "#ffffff"
+              },
+              "blocks": {}
+            },
+            "slide_text_NQwxpz": {
               "type": "_slide_text",
               "settings": {
                 "content": "",
@@ -113,28 +223,30 @@
               },
               "blocks": {}
             },
-            "slide_button_yz3QLM": {
+            "slide_button_8Xkij3": {
               "type": "_slide_button",
               "settings": {
-                "button_text": "Shop now",
-                "button_link": "",
+                "button_text": "Shop Now",
+                "button_link": "shopify://collections/ibuki-yoshida",
                 "button_type": "primary",
-                "show_icon": true
+                "show_icon": false
               },
               "blocks": {}
             }
           },
           "block_order": [
-            "slide_subheading_Wt7GFL",
-            "slide_heading_DhyMmG",
-            "slide_text_jxCmXw",
-            "slide_button_yz3QLM"
+            "slide_heading_mbhCUW",
+            "slide_text_NQwxpz",
+            "slide_button_8Xkij3"
           ]
         }
       },
       "block_order": [
         "slide_8nh3a9",
-        "slide_dbJdtP"
+        "slide_nnHNTm",
+        "slide_NC8Uij",
+        "slide_aExywe",
+        "slide_aNpjae"
       ],
       "settings": {
         "slide_width": "w-full",
