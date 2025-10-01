@@ -61,6 +61,7 @@
           "disabled": true,
           "settings": {
             "image": "shopify://shop_images/KADOKAWA.jpg",
+            "mobile_image": "shopify://shop_images/kadokawa_sp.jpg",
             "slide_link": "shopify://collections/kadokawa-dreams",
             "video_background": false,
             "content_width": 500,
@@ -105,6 +106,7 @@
           "disabled": true,
           "settings": {
             "image": "shopify://shop_images/ARISAK_1.jpg",
+            "mobile_image": "shopify://shop_images/arisak_sp.jpg",
             "slide_link": "shopify://collections/arisak",
             "video_background": false,
             "content_width": 500,
@@ -149,6 +151,7 @@
           "disabled": true,
           "settings": {
             "image": "shopify://shop_images/TOMOYA.jpg",
+            "mobile_image": "shopify://shop_images/tomoya_sp.jpg",
             "slide_link": "shopify://collections/tomoya-suzuki",
             "video_background": false,
             "content_width": 500,
@@ -192,7 +195,7 @@
           "name": "Slide",
           "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/IBUKI.jpg",
+            "image": "shopify://shop_images/ibuki_sp.jpg",
             "slide_link": "shopify://collections/ibuki-yoshida",
             "video_background": false,
             "content_width": 500,
