@@ -60,8 +60,8 @@
           "name": "Slide",
           "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/KADOKAWA.jpg",
-            "mobile_image": "shopify://shop_images/kadokawa_sp.jpg",
+            "image": "shopify://shop_images/KADOKAWA-DREAMS.jpg",
+            "mobile_image": "shopify://shop_images/kadokawa_sp.png",
             "slide_link": "shopify://collections/kadokawa-dreams",
             "video_background": false,
             "content_width": 500,
