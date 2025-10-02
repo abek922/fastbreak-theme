@@ -145,6 +145,52 @@
             "slide_button_rVkKz8"
           ]
         },
+        "slide_pcEmtH": {
+          "type": "_slide",
+          "name": "Slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/DUNLOP_REFINED.jpg",
+            "slide_link": "shopify://collections/dunlop-refined",
+            "video_background": false,
+            "content_width": 500,
+            "content_position": "middle-center",
+            "mobile_content_position": "middle-center",
+            "content_space": 2,
+            "color_text": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "overlay_gradient": ""
+          },
+          "blocks": {
+            "slide_heading_Br3ntm": {
+              "type": "_slide_heading",
+              "disabled": true,
+              "settings": {
+                "heading": "Slide Heading",
+                "highlighted_word_type": "single_line",
+                "heading_size": "hxl",
+                "color_text_highlighted": "#ffffff"
+              },
+              "blocks": {}
+            },
+            "slide_button_FENyQU": {
+              "type": "_slide_button",
+              "disabled": true,
+              "settings": {
+                "button_text": "Shop Now",
+                "button_link": "",
+                "button_type": "primary",
+                "show_icon": false
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "slide_heading_Br3ntm",
+            "slide_button_FENyQU"
+          ]
+        },
         "slide_aExywe": {
           "type": "_slide",
           "name": "Slide",
@@ -249,6 +295,7 @@
         "slide_8nh3a9",
         "slide_nnHNTm",
         "slide_NC8Uij",
+        "slide_pcEmtH",
         "slide_aExywe",
         "slide_aNpjae"
       ],
