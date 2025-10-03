@@ -1,13 +1,30 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "breadcrumbs_7cWMWV": {
       "type": "breadcrumbs",
       "settings": {
         "section_width": "container-fluid",
+        "alignment": "start",
+        "text_size": "text-size-small",
+        "type_breadcrumb": "line-vertical",
         "bg_color": "",
         "text_color": "",
+        "border_color": "",
         "padding_top": 12,
-        "padding_bottom": 0
+        "padding_bottom": 0,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
       }
     },
     "main": {
@@ -17,6 +34,7 @@
         "products_per_page": 16,
         "columns_desktop": 3,
         "column_gap": 1,
+        "row_gap": 3,
         "filter_type": "vertical",
         "enable_filtering": true,
         "enable_sorting": true,
@@ -26,11 +44,18 @@
         "show_color_swatch": true,
         "filter_color_type": "inline",
         "show_date": true,
-        "show_author": true,
-        "show_category": true,
+        "show_author": false,
+        "show_category": false,
         "columns_mobile": "2",
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
         "padding_top": 60,
-        "padding_bottom": 60
+        "padding_bottom": 60,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
       }
     }
   },
