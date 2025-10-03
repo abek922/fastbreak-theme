@@ -108,7 +108,7 @@
     "show_custom_marquee": true,
     "custom_marquee_text_color": "#daff35",
     "custom_marquee_background_color": "#444444",
-    "search_most_key": "Tees, Sweats, Shorts, Headwear",
+    "search_most_key": "",
     "search_promotion_collection_limit": 2,
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
