@@ -16,6 +16,7 @@
       "blocks": {
         "text_bBdJGq": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Pre-orders open for the 「Reebok |  Perfume 」Apparel Collection",
             "link": "",
@@ -24,6 +25,7 @@
         },
         "text_ycBWt9": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "/",
             "link": "",
@@ -33,12 +35,28 @@
         "text_RfPKKq": {
           "type": "text",
           "settings": {
-            "text": "Pre-orders open for the 「Reebok |  Perfume 」Apparel Collection",
+            "text": "RENEWAL OPEN｜2025.10.4",
             "link": "",
             "outline_text": false
           }
         },
         "text_GVnVTP": {
+          "type": "text",
+          "settings": {
+            "text": "/",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_emed4Q": {
+          "type": "text",
+          "settings": {
+            "text": "RENEWAL OPEN｜2025.10.4",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_NzU4t9": {
           "type": "text",
           "settings": {
             "text": "/",
@@ -51,7 +69,9 @@
         "text_bBdJGq",
         "text_ycBWt9",
         "text_RfPKKq",
-        "text_GVnVTP"
+        "text_GVnVTP",
+        "text_emed4Q",
+        "text_NzU4t9"
       ],
       "settings": {
         "section_width": "w-full",
