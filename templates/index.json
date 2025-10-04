@@ -78,7 +78,7 @@
               "settings": {
                 "heading": "KADOKAWA DREAMS Wears Reebok Apparel collections 2025AW",
                 "highlighted_word_type": "single_line",
-                "heading_size": "h5",
+                "heading_size": "h4",
                 "color_text_highlighted": "#ffffff"
               },
               "blocks": {}
@@ -212,7 +212,7 @@
               "settings": {
                 "heading": "TOMOYA SUZUKI (PARKOUR PLAYER) Wears\nReebok Apparel",
                 "highlighted_word_type": "single_line",
-                "heading_size": "h5",
+                "heading_size": "h4",
                 "color_text_highlighted": "#ffffff"
               },
               "blocks": {}
@@ -256,7 +256,7 @@
               "settings": {
                 "heading": "IBIKI YOSHIDA \n(FREESTYLE FOOTBALL PLAYER)\nWears Reebok Apparel",
                 "highlighted_word_type": "single_line",
-                "heading_size": "h5",
+                "heading_size": "h4",
                 "color_text_highlighted": "#ffffff"
               },
               "blocks": {}
