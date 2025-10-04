@@ -237,7 +237,7 @@
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
       "settings": {
-        "section_width": "w-full",
+        "section_width": "container-fluid",
         "image": "shopify://shop_images/ARISAK_4.jpg",
         "link": "",
         "desktop_height_mode": "adapt",
@@ -265,7 +265,7 @@
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
       "settings": {
-        "section_width": "w-full",
+        "section_width": "container-fluid",
         "image": "shopify://shop_images/ARISAK_3.jpg",
         "link": "",
         "desktop_height_mode": "adapt",
