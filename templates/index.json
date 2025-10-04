@@ -198,8 +198,8 @@
             "slide_link": "shopify://collections/tomoya-suzuki",
             "video_background": false,
             "content_width": 500,
-            "content_position": "middle-center",
-            "mobile_content_position": "middle-center",
+            "content_position": "bottom-left",
+            "mobile_content_position": "bottom-center",
             "content_space": 2,
             "color_text": "#ffffff",
             "overlay_color": "#000000",
@@ -210,9 +210,9 @@
             "slide_heading_Lq6HME": {
               "type": "_slide_heading",
               "settings": {
-                "heading": "TOMOYA SUZUKI",
+                "heading": "TOMOYA SUZUKI (PARKOUR PLAYER)",
                 "highlighted_word_type": "single_line",
-                "heading_size": "h1",
+                "heading_size": "h4",
                 "color_text_highlighted": "#ffffff"
               },
               "blocks": {}
@@ -242,8 +242,8 @@
             "slide_link": "shopify://collections/ibuki-yoshida",
             "video_background": false,
             "content_width": 500,
-            "content_position": "middle-center",
-            "mobile_content_position": "middle-center",
+            "content_position": "bottom-left",
+            "mobile_content_position": "bottom-center",
             "content_space": 2,
             "color_text": "#ffffff",
             "overlay_color": "#000000",
@@ -254,9 +254,9 @@
             "slide_heading_mbhCUW": {
               "type": "_slide_heading",
               "settings": {
-                "heading": "IBUKI YOSHIDA",
+                "heading": "IBIKI YOSHIDA \n[f](FREESTYLE FOOTBALL PLAYER)[/f]",
                 "highlighted_word_type": "single_line",
-                "heading_size": "h1",
+                "heading_size": "h4",
                 "color_text_highlighted": "#ffffff"
               },
               "blocks": {}
