@@ -148,6 +148,7 @@
           "name": "Slide",
           "settings": {
             "image": "shopify://shop_images/DUNLOP_REFINED.jpg",
+            "mobile_image": "shopify://shop_images/DUNLOP_REFINED_sp.png",
             "slide_link": "shopify://collections/dunlop-refined",
             "video_background": false,
             "content_width": 500,
