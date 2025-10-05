@@ -144,7 +144,7 @@
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": true,
             "show_pickup_availability": true,
-            "show_back_in_stock": true,
+            "show_back_in_stock": false,
             "text_back_in_stock": "Notify me"
           }
         },
