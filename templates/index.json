@@ -152,10 +152,10 @@
             "slide_link": "shopify://collections/dunlop-refined",
             "video_background": false,
             "content_width": 500,
-            "content_position": "middle-center",
-            "mobile_content_position": "middle-center",
+            "content_position": "bottom-left",
+            "mobile_content_position": "bottom-center",
             "content_space": 2,
-            "color_text": "#000000",
+            "color_text": "#ffffff",
             "overlay_color": "#000000",
             "overlay_opacity": 0,
             "overlay_gradient": ""
@@ -163,21 +163,19 @@
           "blocks": {
             "slide_heading_Br3ntm": {
               "type": "_slide_heading",
-              "disabled": true,
               "settings": {
-                "heading": "Slide Heading",
+                "heading": "DUNLOP REFINED",
                 "highlighted_word_type": "single_line",
-                "heading_size": "hxl",
+                "heading_size": "h4",
                 "color_text_highlighted": "#ffffff"
               },
               "blocks": {}
             },
             "slide_button_FENyQU": {
               "type": "_slide_button",
-              "disabled": true,
               "settings": {
                 "button_text": "Shop Now",
-                "button_link": "",
+                "button_link": "shopify://collections/dunlop-refined",
                 "button_type": "primary",
                 "show_icon": false
               },
