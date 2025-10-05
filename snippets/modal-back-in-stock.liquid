@@ -49,7 +49,7 @@
                     </span>
                   {%- endif -%}
                     <div class="product-card-sm__info__price">
-                        {% render 'price', product: card_product, price_class: 'text-size-small', show_compare_at_price: true %}
+                        {%- comment -%}{% render 'price', product: card_product, price_class: 'text-size-small', show_compare_at_price: true %}{%- endcomment -%}
                     </div>
                   </div>
                 </div>
