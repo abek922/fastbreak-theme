@@ -147,7 +147,7 @@
         "column_VRdHwA": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/ARISAK_LOGO.png",
+            "image": "shopify://shop_images/ARISAK_LOGO_2.png",
             "link": "",
             "title": "",
             "text": "",
@@ -164,7 +164,7 @@
         "column_VRdHwA"
       ],
       "custom_css": [
-        "@media screen and (min-width: 768px) {.multicolumn-card--bottom {display: flex; flex-direction: column-reverse; gap: 12rem; }}"
+        "@media screen and (min-width: 768px) {.multicolumn-card--bottom {display: flex; flex-direction: column-reverse; gap: 26rem; }}"
       ],
       "name": "Multicolumn",
       "settings": {
