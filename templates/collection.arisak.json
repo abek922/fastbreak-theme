@@ -280,8 +280,7 @@
       "name": "Image with text overlay",
       "settings": {
         "section_width": "container-fluid",
-        "image": "shopify://shop_images/ARISAK_3.jpg",
-        "mobile_image": "shopify://shop_images/ARISAK_4_1f92475d-a567-4f78-a06a-df00cba463bf.jpg",
+        "image": "shopify://shop_images/ARISAK_4_1f92475d-a567-4f78-a06a-df00cba463bf.jpg",
         "link": "",
         "desktop_height_mode": "adapt",
         "desktop_fixed_height": 650,
