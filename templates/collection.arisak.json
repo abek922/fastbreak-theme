@@ -104,7 +104,7 @@
       "name": "Image with text overlay",
       "settings": {
         "section_width": "w-full",
-        "image": "shopify://shop_images/ARISAK_1.jpg",
+        "image": "shopify://shop_images/ARISAK_1_c44c9f12-21cc-4fad-8fe6-c93aa51ae071.jpg",
         "link": "",
         "desktop_height_mode": "adapt",
         "desktop_fixed_height": 650,
@@ -133,7 +133,7 @@
         "column_iHqVcf": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/ARISAK_2.jpg",
+            "image": "shopify://shop_images/ARISAK_2_fda18e3b-8661-444a-8507-7cf638c944e1.jpg",
             "link": "",
             "title": "",
             "text": "",
@@ -238,7 +238,7 @@
       "name": "Image with text overlay",
       "settings": {
         "section_width": "container-fluid",
-        "image": "shopify://shop_images/ARISAK_4.jpg",
+        "image": "shopify://shop_images/ARISAK_3_e4708632-e1c7-49f9-ace3-7e835976dde0.jpg",
         "link": "",
         "desktop_height_mode": "adapt",
         "desktop_fixed_height": 650,
@@ -281,6 +281,7 @@
       "settings": {
         "section_width": "container-fluid",
         "image": "shopify://shop_images/ARISAK_3.jpg",
+        "mobile_image": "shopify://shop_images/ARISAK_4_1f92475d-a567-4f78-a06a-df00cba463bf.jpg",
         "link": "",
         "desktop_height_mode": "adapt",
         "desktop_fixed_height": 650,
