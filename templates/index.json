@@ -120,7 +120,17 @@
             "slide_heading_k9yVzT": {
               "type": "_slide_heading",
               "settings": {
-                "heading": "ARISAK (PHOTO ARTIST)\nWears Reebok Apparel",
+                "heading": "ARISAK (PHOTO ARTIST)",
+                "highlighted_word_type": "single_line",
+                "heading_size": "h4",
+                "color_text_highlighted": "#ffffff"
+              },
+              "blocks": {}
+            },
+            "slide_heading_ndKNDa": {
+              "type": "_slide_heading",
+              "settings": {
+                "heading": "Wears Reebok Apparel",
                 "highlighted_word_type": "single_line",
                 "heading_size": "h4",
                 "color_text_highlighted": "#ffffff"
@@ -140,6 +150,7 @@
           },
           "block_order": [
             "slide_heading_k9yVzT",
+            "slide_heading_ndKNDa",
             "slide_button_rVkKz8"
           ]
         },
