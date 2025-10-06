@@ -171,6 +171,16 @@
               },
               "blocks": {}
             },
+            "slide_heading_NYFHqb": {
+              "type": "_slide_heading",
+              "settings": {
+                "heading": "Ryoff Karma",
+                "highlighted_word_type": "single_line",
+                "heading_size": "h4",
+                "color_text_highlighted": "#ffffff"
+              },
+              "blocks": {}
+            },
             "slide_button_FENyQU": {
               "type": "_slide_button",
               "settings": {
@@ -184,6 +194,7 @@
           },
           "block_order": [
             "slide_heading_Br3ntm",
+            "slide_heading_NYFHqb",
             "slide_button_FENyQU"
           ]
         },
