@@ -87,7 +87,17 @@
             "slide_heading_mmj7MN": {
               "type": "_slide_heading",
               "settings": {
-                "heading": "KADOKAWA DREAMS Wears Reebok Apparel collections 2025AW",
+                "heading": "KADOKAWA DREAMS",
+                "highlighted_word_type": "single_line",
+                "heading_size": "h4",
+                "color_text_highlighted": "#ffffff"
+              },
+              "blocks": {}
+            },
+            "slide_heading_jgH3Yh": {
+              "type": "_slide_heading",
+              "settings": {
+                "heading": "Wears Reebok Apparel collections 2025AW",
                 "highlighted_word_type": "single_line",
                 "heading_size": "h4",
                 "color_text_highlighted": "#ffffff"
@@ -107,6 +117,7 @@
           },
           "block_order": [
             "slide_heading_mmj7MN",
+            "slide_heading_jgH3Yh",
             "slide_button_nB7ang"
           ]
         },
