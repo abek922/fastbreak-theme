@@ -208,7 +208,29 @@
             "slide_heading_Lq6HME": {
               "type": "_slide_heading",
               "settings": {
-                "heading": "TOMOYA SUZUKI (PARKOUR PLAYER) Wears\nReebok Apparel",
+                "heading": "TOMOYA SUZUKI",
+                "highlighted_word_type": "single_line",
+                "heading_size": "h4",
+                "color_text_highlighted": "#ffffff"
+              },
+              "blocks": {}
+            },
+            "slide_heading_attcqz": {
+              "type": "_slide_heading",
+              "name": "Heading",
+              "settings": {
+                "heading": "(PARKOUR PLAYER)",
+                "highlighted_word_type": "single_line",
+                "heading_size": "h4",
+                "color_text_highlighted": "#ffffff"
+              },
+              "blocks": {}
+            },
+            "slide_heading_7CFNTR": {
+              "type": "_slide_heading",
+              "name": "Heading",
+              "settings": {
+                "heading": "Wears\nReebok Apparel",
                 "highlighted_word_type": "single_line",
                 "heading_size": "h4",
                 "color_text_highlighted": "#ffffff"
@@ -228,6 +250,8 @@
           },
           "block_order": [
             "slide_heading_Lq6HME",
+            "slide_heading_attcqz",
+            "slide_heading_7CFNTR",
             "slide_button_4TdXnK"
           ]
         },
@@ -252,7 +276,29 @@
             "slide_heading_mbhCUW": {
               "type": "_slide_heading",
               "settings": {
-                "heading": "IBIKI YOSHIDA　　　　　　　　\n(FREESTYLE FOOTBALL PLAYER)　　　Wears Reebok Apparel",
+                "heading": "IBIKI YOSHIDA",
+                "highlighted_word_type": "single_line",
+                "heading_size": "h4",
+                "color_text_highlighted": "#ffffff"
+              },
+              "blocks": {}
+            },
+            "slide_heading_LwxTFN": {
+              "type": "_slide_heading",
+              "name": "Heading",
+              "settings": {
+                "heading": "(FREESTYLE FOOTBALL PLAYER)",
+                "highlighted_word_type": "single_line",
+                "heading_size": "h4",
+                "color_text_highlighted": "#ffffff"
+              },
+              "blocks": {}
+            },
+            "slide_heading_qp7WeW": {
+              "type": "_slide_heading",
+              "name": "Heading",
+              "settings": {
+                "heading": "Wears Reebok Apparel",
                 "highlighted_word_type": "single_line",
                 "heading_size": "h4",
                 "color_text_highlighted": "#ffffff"
@@ -280,6 +326,8 @@
           },
           "block_order": [
             "slide_heading_mbhCUW",
+            "slide_heading_LwxTFN",
+            "slide_heading_qp7WeW",
             "slide_text_NQwxpz",
             "slide_button_8Xkij3"
           ]
