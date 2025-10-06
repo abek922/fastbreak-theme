@@ -178,6 +178,20 @@
         "overlay_gradient": ""
       }
     },
+    "divider_KKgnpq": {
+      "type": "divider",
+      "name": "Divider",
+      "settings": {
+        "section_width": "container",
+        "spacer_mobile": 50,
+        "spacer_desktop": 50,
+        "show_border": true,
+        "bg_color": "",
+        "color": "",
+        "style": "solid",
+        "thickness": 1
+      }
+    },
     "image_with_text_overlay_ncbPYx": {
       "type": "image-with-text-overlay",
       "blocks": {
@@ -556,6 +570,7 @@
     "breadcrumbs_FYp3jd",
     "rich_text_LN4GqT",
     "image_with_text_overlay_DKWMwK",
+    "divider_KKgnpq",
     "image_with_text_overlay_ncbPYx",
     "multicolumn_dbECNf",
     "product-grid"
