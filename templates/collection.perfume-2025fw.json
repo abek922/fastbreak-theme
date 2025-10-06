@@ -384,7 +384,7 @@
       "name": "Image with text",
       "settings": {
         "section_width": "w-full",
-        "image": "shopify://shop_images/Perfume_25aw_02.jpg",
+        "image": "shopify://shop_images/25AW_2.jpg",
         "media_size": "adapt",
         "show_image_2": false,
         "position_image_2": "middle-right",
@@ -427,7 +427,7 @@
       "name": "Image with text",
       "settings": {
         "section_width": "w-full",
-        "image": "shopify://shop_images/Perfume_25aw_03.jpg",
+        "image": "shopify://shop_images/25AW_3.jpg",
         "media_size": "adapt",
         "show_image_2": false,
         "position_image_2": "middle-right",
@@ -489,7 +489,7 @@
       "name": "Image with text",
       "settings": {
         "section_width": "w-full",
-        "image": "shopify://shop_images/Perfume_25aw_05.jpg",
+        "image": "shopify://shop_images/25AW_4.jpg",
         "media_size": "adapt",
         "show_image_2": false,
         "position_image_2": "middle-right",
