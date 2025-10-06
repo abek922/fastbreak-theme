@@ -185,7 +185,7 @@
         "section_width": "container",
         "spacer_mobile": 50,
         "spacer_desktop": 50,
-        "show_border": true,
+        "show_border": false,
         "bg_color": "",
         "color": "",
         "style": "solid",
