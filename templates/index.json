@@ -32,7 +32,17 @@
             "slide_heading_9kL4D8": {
               "type": "_slide_heading",
               "settings": {
-                "heading": "Reebok | Perfume[f]Apparel collections[/f]",
+                "heading": "Reebok | Perfume",
+                "highlighted_word_type": "multiple_lines",
+                "heading_size": "h4",
+                "color_text_highlighted": "#00ffde"
+              },
+              "blocks": {}
+            },
+            "slide_heading_hEHBEG": {
+              "type": "_slide_heading",
+              "settings": {
+                "heading": "[f]Apparel collections[/f]",
                 "highlighted_word_type": "multiple_lines",
                 "heading_size": "h4",
                 "color_text_highlighted": "#00ffde"
@@ -52,6 +62,7 @@
           },
           "block_order": [
             "slide_heading_9kL4D8",
+            "slide_heading_hEHBEG",
             "slide_button_qWdePM"
           ]
         },
