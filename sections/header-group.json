@@ -35,7 +35,15 @@
         "text_RfPKKq": {
           "type": "text",
           "settings": {
-            "text": "Reebok｜Perfume – 2nd Drop｜2025.10.10",
+            "text": "Reebok｜Perfume – 2nd Drop｜2025.10.10 FASTBREAK.ONLINE",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_wBCYdK": {
+          "type": "text",
+          "settings": {
+            "text": "Add campaign text here.",
             "link": "",
             "outline_text": false
           }
@@ -69,6 +77,7 @@
         "text_bBdJGq",
         "text_ycBWt9",
         "text_RfPKKq",
+        "text_wBCYdK",
         "text_GVnVTP",
         "text_emed4Q",
         "text_NzU4t9"
