@@ -264,6 +264,46 @@
         "overlay_gradient": ""
       }
     },
+    "rich_text_tPBV6E": {
+      "type": "rich-text",
+      "blocks": {
+        "text_PWDNpr": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>KADOKAWA DREAMS wears Reebok.2025.10.17 (FRI) 20:00 RELEASE.</strong></p>",
+            "large_text": false,
+            "show_more_toggle": false,
+            "max_height": 8
+          }
+        },
+        "separator_i4jTR6": {
+          "type": "separator",
+          "settings": {
+            "show_border": false,
+            "space": 8
+          }
+        }
+      },
+      "block_order": [
+        "text_PWDNpr",
+        "separator_i4jTR6"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "section_width": "w-full",
+        "content_width": "max-w-4xl",
+        "content_alignment": "center",
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
     "rich_text_nMnztH": {
       "type": "rich-text",
       "blocks": {
@@ -612,6 +652,7 @@
     "image_with_text_overlay_DKWMwK",
     "divider_KKgnpq",
     "image_with_text_overlay_ncbPYx",
+    "rich_text_tPBV6E",
     "rich_text_nMnztH",
     "multicolumn_dbECNf",
     "product-grid"
