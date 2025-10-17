@@ -23,19 +23,18 @@
             "outline_text": false
           }
         },
-        "text_ycBWt9": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "/",
-            "link": "",
-            "outline_text": false
-          }
-        },
         "text_RfPKKq": {
           "type": "text",
           "settings": {
             "text": "FASTBREAK.｜KADOKAWA DREAMS WEARS REEBOK25.10.24 RELEASE.",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_ycBWt9": {
+          "type": "text",
+          "settings": {
+            "text": "/",
             "link": "",
             "outline_text": false
           }
@@ -75,8 +74,8 @@
       },
       "block_order": [
         "text_bBdJGq",
-        "text_ycBWt9",
         "text_RfPKKq",
+        "text_ycBWt9",
         "text_wBCYdK",
         "text_GVnVTP",
         "text_emed4Q",
