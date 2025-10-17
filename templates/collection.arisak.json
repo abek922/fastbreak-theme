@@ -348,7 +348,7 @@
           "type": "buy_buttons",
           "settings": {
             "show_two_columns": false,
-            "show_dynamic_checkout": true,
+            "show_dynamic_checkout": false,
             "show_gift_card_recipient": true,
             "show_pickup_availability": true,
             "show_back_in_stock": false,
