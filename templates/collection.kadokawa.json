@@ -487,66 +487,10 @@
             "desktop_image_placement": "top"
           }
         },
-        "column_ckHibL": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/KD11.jpg",
-            "link": "",
-            "title": "",
-            "text": "",
-            "button_label": "",
-            "button_link": "",
-            "button_type": "outline",
-            "show_icon": false,
-            "desktop_image_placement": "top"
-          }
-        },
-        "column_BDBK47": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/KD12.jpg",
-            "link": "",
-            "title": "",
-            "text": "",
-            "button_label": "",
-            "button_link": "",
-            "button_type": "outline",
-            "show_icon": false,
-            "desktop_image_placement": "top"
-          }
-        },
         "column_93PrTD": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/KD13.jpg",
-            "link": "",
-            "title": "",
-            "text": "",
-            "button_label": "",
-            "button_link": "",
-            "button_type": "outline",
-            "show_icon": false,
-            "desktop_image_placement": "top"
-          }
-        },
-        "column_m7r7GX": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/KD14.jpg",
-            "link": "",
-            "title": "",
-            "text": "",
-            "button_label": "",
-            "button_link": "",
-            "button_type": "outline",
-            "show_icon": false,
-            "desktop_image_placement": "top"
-          }
-        },
-        "column_bEQWhE": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/KD15.jpg",
             "link": "",
             "title": "",
             "text": "",
@@ -569,11 +513,7 @@
         "column_HxdhhV",
         "column_EmBLam",
         "column_PUCDat",
-        "column_ckHibL",
-        "column_BDBK47",
-        "column_93PrTD",
-        "column_m7r7GX",
-        "column_bEQWhE"
+        "column_93PrTD"
       ],
       "name": "Multicolumn",
       "settings": {
