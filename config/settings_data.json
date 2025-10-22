@@ -163,7 +163,7 @@
     "blocks": {
       "136652565592430995": {
         "type": "shopify://apps//blocks/pre-order-app/290ed845-6a31-49a7-a244-443963fc8b13",
-        "disabled": false,
+        "disabled": true,
         "settings": {}
       }
     }
