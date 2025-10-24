@@ -267,15 +267,6 @@
     "rich_text_tPBV6E": {
       "type": "rich-text",
       "blocks": {
-        "text_PWDNpr": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>KADOKAWA DREAMS wears Reebok.2025.10.24 (FRI) 20:00 RELEASE.</strong></p>",
-            "large_text": false,
-            "show_more_toggle": false,
-            "max_height": 8
-          }
-        },
         "separator_i4jTR6": {
           "type": "separator",
           "settings": {
@@ -285,7 +276,6 @@
         }
       },
       "block_order": [
-        "text_PWDNpr",
         "separator_i4jTR6"
       ],
       "name": "Rich text",
