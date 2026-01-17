@@ -190,6 +190,7 @@
         "slide_pcEmtH": {
           "type": "_slide",
           "name": "Slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/DUNLOP_REFINED_61fd932f-17d8-4fd0-b171-e9c82a2ead3a.jpg",
             "mobile_image": "shopify://shop_images/DUNLOP_REFINED_sp_61f7b9da-b918-422d-bd51-e3b2f5c845e4.png",
@@ -429,6 +430,7 @@
         },
         "featured_collection_8LgwgG": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "kappa",
             "image": "shopify://shop_images/logo_kappa_475bbabc-0c30-452b-8ace-97445600efa3.jpg",
@@ -438,6 +440,7 @@
         },
         "featured_collection_FbBAGf": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "dunlop-refined",
             "image": "shopify://shop_images/logo_dunlop_square.jpg",
@@ -447,6 +450,7 @@
         },
         "featured_collection_iLW78E": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "sensorial",
             "image": "shopify://shop_images/logo_sensorial_592e7628-7a24-4362-a733-d9f34faec073.jpg",
