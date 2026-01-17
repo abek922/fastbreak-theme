@@ -451,7 +451,6 @@
         },
         "featured_collection_iLW78E": {
           "type": "featured_collection",
-          "disabled": true,
           "settings": {
             "collection": "sensorial",
             "image": "shopify://shop_images/logo_sensorial_592e7628-7a24-4362-a733-d9f34faec073.jpg",
