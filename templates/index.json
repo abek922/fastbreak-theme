@@ -314,6 +314,7 @@
         "slide_aNpjae": {
           "type": "_slide",
           "name": "Slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/IBUKI.jpg",
             "mobile_image": "shopify://shop_images/ibuki_sp.jpg",
