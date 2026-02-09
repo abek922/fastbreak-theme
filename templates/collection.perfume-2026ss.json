@@ -1,0 +1,777 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "breadcrumbs_FYp3jd": {
+      "type": "breadcrumbs",
+      "disabled": true,
+      "settings": {
+        "section_width": "container-fluid",
+        "alignment": "start",
+        "text_size": "text-size-small",
+        "type_breadcrumb": "arrow",
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "padding_top": 16,
+        "padding_bottom": 0,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container-fluid"
+      }
+    },
+    "countdown_bar_zaEJtT": {
+      "type": "countdown-bar",
+      "disabled": true,
+      "name": "Countdown bar",
+      "settings": {
+        "section_width": "container",
+        "end_time": "2025/12/31 23:59:59",
+        "style": "outline",
+        "font_family": "heading",
+        "number_size": "h6",
+        "text_type": "long",
+        "subheading": "",
+        "heading": "Countdown bar",
+        "heading_size": "h3",
+        "text": "<p>Month is full of possibilities, waiting to be explored.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_type": "primary",
+        "show_icon": false,
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "overlay_gradient": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_breadcrumb": false,
+        "text_size": "text-size-small",
+        "type_breadcrumb": "line-vertical",
+        "show_collection_title": true,
+        "show_collection_image": true,
+        "section_width": "container-fluid",
+        "heading_size": "h4",
+        "image_size": "350px",
+        "align_content": "center",
+        "show_collection_description": true,
+        "show_more_toggle": false,
+        "max_height": 8,
+        "navigation": "",
+        "text_color": "#ffffff",
+        "border_color": "",
+        "overlay_color": "#000000",
+        "overlay_opacity": 35,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "w-full"
+      }
+    },
+    "slideshow_new_9kMEVj": {
+      "type": "slideshow-new",
+      "blocks": {
+        "slide_EEcj9h": {
+          "type": "_slide",
+          "settings": {
+            "image": "shopify://shop_images/Perfume_25aw_01.jpg",
+            "slide_link": "",
+            "video_background": false,
+            "content_width": 500,
+            "content_position": "middle-center",
+            "mobile_content_position": "middle-center",
+            "content_space": 2,
+            "color_text": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+          },
+          "blocks": {}
+        },
+        "slide_HRKtL6": {
+          "type": "_slide",
+          "settings": {
+            "image": "shopify://shop_images/Perfume_25aw_03.jpg",
+            "slide_link": "",
+            "video_background": false,
+            "content_width": 500,
+            "content_position": "middle-center",
+            "mobile_content_position": "middle-center",
+            "content_space": 2,
+            "color_text": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "slide_EEcj9h",
+        "slide_HRKtL6"
+      ],
+      "disabled": true,
+      "name": "Slideshow",
+      "settings": {
+        "slide_width": "w-full",
+        "desktop_height_mode": "adapt",
+        "desktop_fixed_height": 1000,
+        "mobile_height_mode": "adapt",
+        "mobile_fixed_height": 1000,
+        "auto_rotate": true,
+        "pause_on_hover": false,
+        "change_slides_speed": 5,
+        "transition": "zoom",
+        "show_moving_cursor": false,
+        "controls": "filled-arrows",
+        "accessibility_info": "Slideshow about our brand",
+        "bg_color": "",
+        "controls_color": "#ffffff",
+        "controls_color_text": "#ffffff",
+        "controls_color_arrows": "#000000"
+      }
+    },
+    "countdown_bar_adBNTe": {
+      "type": "countdown-bar",
+      "disabled": true,
+      "name": "Countdown bar",
+      "settings": {
+        "section_width": "container",
+        "end_time": "2025/12/31 23:59:59",
+        "style": "outline",
+        "font_family": "heading",
+        "number_size": "h4",
+        "text_type": "short",
+        "subheading": "Subheading",
+        "heading": "Countdown bar",
+        "heading_size": "h3",
+        "text": "<p>Month is full of possibilities, waiting to be explored.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_type": "primary",
+        "show_icon": false,
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "overlay_gradient": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "rich_text_zWmR4V": {
+      "type": "rich-text",
+      "blocks": {
+        "image_ETNVMq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Reebok-Perfume-logo-2.png",
+            "image_width": 700,
+            "image_width_mobile": 500,
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_ETNVMq"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "section_width": "w-full",
+        "content_width": "max-w-4xl",
+        "content_alignment": "center",
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "rich_text_y6yydb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_6Ck3g3": {
+          "type": "heading",
+          "settings": {
+            "heading": "Reebok Japan Apparel 2025",
+            "heading_size": "h3"
+          }
+        },
+        "separator_T6pNpq": {
+          "type": "separator",
+          "settings": {
+            "show_border": false,
+            "space": 8
+          }
+        },
+        "heading_4MVRx8": {
+          "type": "heading",
+          "settings": {
+            "heading": "2ND Collection",
+            "heading_size": "h6"
+          }
+        },
+        "separator_KwbRJ6": {
+          "type": "separator",
+          "settings": {
+            "show_border": false,
+            "space": 8
+          }
+        },
+        "text_y9wfYe": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "large_text": false,
+            "show_more_toggle": false,
+            "max_height": 8
+          }
+        },
+        "text_WpkfrJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Perfumeが魅せる、Reebokの最新スタイル。<br/></p>",
+            "large_text": false,
+            "show_more_toggle": false,
+            "max_height": 8
+          }
+        }
+      },
+      "block_order": [
+        "heading_6Ck3g3",
+        "separator_T6pNpq",
+        "heading_4MVRx8",
+        "separator_KwbRJ6",
+        "text_y9wfYe",
+        "text_WpkfrJ"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "section_width": "w-full",
+        "content_width": "container",
+        "content_alignment": "center",
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "image_with_text_gQntJ3": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_VVUUyK": {
+          "type": "heading",
+          "settings": {
+            "heading": "Reebok | Perfume",
+            "heading_size": "h6"
+          }
+        },
+        "text_PaMzA4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>2025年、Reebokジャパンアパレルは、Perfumeをアンバサダーに迎え、ブランドのビジョンをさらに前進させます。<br/>“Life Is Not a Spectator Sport. ”をキーワードに、リーボックジャパンアパレルはスポーツウェアの枠を超えて進化。<br/>デザイン性に富んだフォルムと機能美を兼ね備えたコレクションは、動きやすさと美しさを両立し、現代にふさわしい新しいスタイルを提案します。<br/>ファッションとしての存在感と、スポーツがもたらすテクノロジーが交差する、Reebok | Perfume　ジャパンアパレルインラインコレクション。</p>",
+            "large_text": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_VVUUyK",
+        "text_PaMzA4"
+      ],
+      "custom_css": [
+        "img {width: 100vw;}"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "section_width": "w-full",
+        "image": "shopify://shop_images/25AW_1.jpg",
+        "media_size": "adapt",
+        "show_image_2": false,
+        "position_image_2": "middle-center",
+        "media_size_2": "adapt",
+        "desktop_image_width": "66",
+        "active_video": false,
+        "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "video_controls": true,
+        "layout": "left",
+        "column_gap": "0",
+        "vertical_alignment": "start",
+        "content_alignment": "start",
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "bg_column": "",
+        "padding_top": 32,
+        "padding_bottom": 0,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "image_with_text_EVGfVK": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_fjGUek": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h2"
+          }
+        },
+        "text_xRm3KL": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "large_text": false
+          }
+        },
+        "button_7JJaGd": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button text",
+            "button_link": "",
+            "button_type": "primary",
+            "show_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_fjGUek",
+        "text_xRm3KL",
+        "button_7JJaGd"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "section_width": "w-full",
+        "image": "shopify://shop_images/25AW_2.jpg",
+        "media_size": "adapt",
+        "show_image_2": false,
+        "position_image_2": "middle-right",
+        "media_size_2": "adapt",
+        "desktop_image_width": "66",
+        "active_video": false,
+        "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "video_controls": true,
+        "layout": "right",
+        "column_gap": "0",
+        "vertical_alignment": "center",
+        "content_alignment": "start",
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "bg_column": "",
+        "padding_top": 16,
+        "padding_bottom": 16,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "image_with_text_DULmya": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_kNcD7B": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h2"
+          }
+        },
+        "text_NCkEx4": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "large_text": false
+          }
+        },
+        "button_fRWqe4": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button text",
+            "button_link": "",
+            "button_type": "primary",
+            "show_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_kNcD7B",
+        "text_NCkEx4",
+        "button_fRWqe4"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "section_width": "w-full",
+        "image": "shopify://shop_images/02_345_v02.jpg",
+        "media_size": "adapt",
+        "show_image_2": false,
+        "position_image_2": "middle-right",
+        "media_size_2": "adapt",
+        "desktop_image_width": "66",
+        "active_video": false,
+        "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "video_controls": true,
+        "layout": "left",
+        "column_gap": "0",
+        "vertical_alignment": "center",
+        "content_alignment": "start",
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "bg_column": "",
+        "padding_top": 16,
+        "padding_bottom": 16,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "image_with_text_jXKQhC": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_yReieB": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "large_text": true
+          }
+        }
+      },
+      "block_order": [
+        "text_yReieB"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "section_width": "w-full",
+        "image": "shopify://shop_images/25AW_3.jpg",
+        "media_size": "adapt",
+        "show_image_2": false,
+        "position_image_2": "middle-right",
+        "media_size_2": "adapt",
+        "desktop_image_width": "66",
+        "active_video": false,
+        "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "video_controls": true,
+        "layout": "right",
+        "column_gap": "0",
+        "vertical_alignment": "start",
+        "content_alignment": "start",
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "bg_column": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "image_with_text_Gz4GGg": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_46JD3r": {
+          "type": "heading",
+          "settings": {
+            "heading": "Perfume profile",
+            "heading_size": "h6"
+          }
+        },
+        "text_KhA7dM": {
+          "type": "text",
+          "settings": {
+            "text": "<p>あ〜ちゃん・かしゆか・のっちからなる、3人組音楽ユニット。今年結成25周年、メジャーデビュー20周年。 ライブでのパフォーマンスは日本国内だけでなく世界中で注目を集めている。</p>",
+            "large_text": false
+          }
+        },
+        "button_GMUjr3": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button text",
+            "button_link": "",
+            "button_type": "primary",
+            "show_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_46JD3r",
+        "text_KhA7dM",
+        "button_GMUjr3"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "section_width": "w-full",
+        "image": "shopify://shop_images/25AW_4.jpg",
+        "media_size": "adapt",
+        "show_image_2": false,
+        "position_image_2": "middle-right",
+        "media_size_2": "adapt",
+        "desktop_image_width": "66",
+        "active_video": false,
+        "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "video_controls": true,
+        "layout": "left",
+        "column_gap": "0",
+        "vertical_alignment": "end",
+        "content_alignment": "start",
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "bg_column": "",
+        "padding_top": 16,
+        "padding_bottom": 0,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "rich_text_BJ87Qe": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_CM9L7A": {
+          "type": "heading",
+          "settings": {
+            "heading": "Perfume profile",
+            "heading_size": "h6"
+          }
+        },
+        "text_nQzbYm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>現在発足25周年、メジャーデビュー20周年イヤー。 ライブでのパフォーマンスは日本国内だけでなく世界中で注目を集めている。<br/>あーちゃん・かしゆか・のっちからなる、3人組音楽ユニット　</p>",
+            "large_text": false,
+            "show_more_toggle": false,
+            "max_height": 8
+          }
+        },
+        "separator_dWEQcK": {
+          "type": "separator",
+          "settings": {
+            "show_border": false,
+            "space": 8
+          }
+        }
+      },
+      "block_order": [
+        "heading_CM9L7A",
+        "text_nQzbYm",
+        "separator_dWEQcK"
+      ],
+      "disabled": true,
+      "name": "Rich text",
+      "settings": {
+        "section_width": "container-fluid",
+        "content_width": "container",
+        "content_alignment": "start",
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "rich_text_ifUGma": {
+      "type": "rich-text",
+      "blocks": {
+        "image_896nHF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Reebok-Copyright-1_97b91183-758f-4af8-ae8e-8766ef83f103.png",
+            "image_width": 480,
+            "image_width_mobile": 280,
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_896nHF"
+      ],
+      "custom_css": [],
+      "name": "Rich text",
+      "settings": {
+        "section_width": "w-full",
+        "content_width": "max-w-4xl",
+        "content_alignment": "center",
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "padding_top": 48,
+        "padding_bottom": 0,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "scrolling_content_egM97e": {
+      "type": "scrolling-content",
+      "blocks": {
+        "content_VFqhCy": {
+          "type": "content",
+          "settings": {
+            "subheading": "Subheading",
+            "heading": "Image with text",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Button text",
+            "button_link": ""
+          }
+        },
+        "content_9pELjH": {
+          "type": "content",
+          "settings": {
+            "subheading": "Subheading",
+            "heading": "Image with text",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Button text",
+            "button_link": ""
+          }
+        },
+        "content_qfNqGU": {
+          "type": "content",
+          "settings": {
+            "subheading": "Subheading",
+            "heading": "Image with text",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Button text",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "content_VFqhCy",
+        "content_9pELjH",
+        "content_qfNqGU"
+      ],
+      "disabled": true,
+      "name": "Scrolling content",
+      "settings": {
+        "section_width": "container",
+        "layout": "left",
+        "heading_size": "h3",
+        "content_alignment": "start",
+        "vertical_alignment": "center",
+        "button_type": "outline",
+        "show_icon": false,
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "section_width": "container-fluid",
+        "products_per_page": 24,
+        "columns_desktop": 4,
+        "column_gap": 0.5,
+        "row_gap": 3,
+        "pagination_type": "page-numbers",
+        "filter_type": "drawer",
+        "enable_filtering": false,
+        "enable_sorting": false,
+        "show_filter_values_count": false,
+        "show_product_count": false,
+        "show_view_mode": false,
+        "collapsible_state": "collapsed",
+        "show_color_swatch": false,
+        "filter_color_type": "inline",
+        "show_block_style": false,
+        "matching_block_names": "",
+        "heading_size_filter_block": "sub-heading",
+        "enable_bold_heading": false,
+        "columns_mobile": "2",
+        "bg_color": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "border_color": "rgba(0,0,0,0)",
+        "padding_top": 40,
+        "padding_bottom": 72,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs_FYp3jd",
+    "countdown_bar_zaEJtT",
+    "banner",
+    "slideshow_new_9kMEVj",
+    "countdown_bar_adBNTe",
+    "rich_text_zWmR4V",
+    "rich_text_y6yydb",
+    "image_with_text_gQntJ3",
+    "image_with_text_EVGfVK",
+    "image_with_text_DULmya",
+    "image_with_text_jXKQhC",
+    "image_with_text_Gz4GGg",
+    "rich_text_BJ87Qe",
+    "rich_text_ifUGma",
+    "scrolling_content_egM97e",
+    "product-grid"
+  ]
+}
