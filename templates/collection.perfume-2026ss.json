@@ -305,14 +305,22 @@
         "text_PaMzA4": {
           "type": "text",
           "settings": {
-            "text": "<p>2025年、Reebokジャパンアパレルは、Perfumeをアンバサダーに迎え、ブランドのビジョンをさらに前進させます。<br/>“Life Is Not a Spectator Sport. ”をキーワードに、リーボックジャパンアパレルはスポーツウェアの枠を超えて進化。<br/>デザイン性に富んだフォルムと機能美を兼ね備えたコレクションは、動きやすさと美しさを両立し、現代にふさわしい新しいスタイルを提案します。<br/>ファッションとしての存在感と、スポーツがもたらすテクノロジーが交差する、Reebok | Perfume　ジャパンアパレルインラインコレクション。</p>",
+            "text": "<p>Reebokジャパンアパレルは、Perfumeをアンバサダーに迎え、ブランドのビジョンをさらに前進させます。<br/>“Life Is Not a Spectator Sport. ”をキーワードに、リーボックジャパンアパレルはスポーツウェアの枠を超えて進化。<br/>デザイン性に富んだフォルムと機能美を兼ね備えたコレクションは、動きやすさと美しさを両立し、現代にふさわしい新しいスタイルを提案します。<br/>ファッションとしての存在感と、スポーツがもたらすテクノロジーが交差する、Reebok | Perfume　ジャパンアパレルインラインコレクション。</p>",
+            "large_text": false
+          }
+        },
+        "text_mfrNym": {
+          "type": "text",
+          "settings": {
+            "text": "<p>FASTBREK : 2/20-先行予約開始<br/>新作HYPER TECH シリーズ<br/>【Reebok | Perfume】HYPER TECH TRACK VECTOR WIND JACKET<br/>【Reebok | Perfume】HYPER TECH  TRACK WIND  PANTS <br/>【Reebok | Perfume】HYPER TECH  TRACK WIND SHORT  PANTS<br/>【Reebok | Perfume】HYPER TECH TRACK VECTOR SHORT WIND JACKET<br/>【Reebok | Perfume】HYPER TECH  TRACK WIND  W-PANTS<br/>【Reebok | Perfume】HYPER TECH  TRACK COLLEGE LOGO TEE<br/>【Reebok | Perfume】HYPER TECH  TRACK CLASSIC LOGO TEE <br/></p>",
             "large_text": false
           }
         }
       },
       "block_order": [
         "heading_VVUUyK",
-        "text_PaMzA4"
+        "text_PaMzA4",
+        "text_mfrNym"
       ],
       "custom_css": [
         "img {width: 100vw;}"
@@ -357,6 +365,13 @@
             "heading_size": "h2"
           }
         },
+        "text_RmVTEP": {
+          "type": "text",
+          "settings": {
+            "text": "<p>SHIPS : 2/中-先行予約開始<br/>City AmbientProducto別注シリーズ<br/>【Reebok | Perfume】TWILL ZIP JACKET<br/>【Reebok | Perfume】WIND CHINO PANTS<br/>【Reebok | Perfume】CLASSIC LOGO T-SHIRT</p>",
+            "large_text": false
+          }
+        },
         "text_xRm3KL": {
           "type": "text",
           "disabled": true,
@@ -378,6 +393,7 @@
       },
       "block_order": [
         "heading_fjGUek",
+        "text_RmVTEP",
         "text_xRm3KL",
         "button_7JJaGd"
       ],
@@ -421,6 +437,13 @@
             "heading_size": "h2"
           }
         },
+        "text_Tkdc3D": {
+          "type": "text",
+          "settings": {
+            "text": "<p>ALPEN・SPORTS DEPO : 3月上-店頭販売開始<br/>Perfume 監修カラー・モーヴピンクシリーズ<br/>【Reebok | Perfume】PEAK PERFOMANCE WIND WOMEN JACKET<br/>【Reebok | Perfume】PEAK PERFOMANCE WIND WOMEN PANTS<br/>【Reebok | Perfume】PEAK PERFOMANCE WIND WOMEN SHORT PANT<br/></p>",
+            "large_text": false
+          }
+        },
         "text_NCkEx4": {
           "type": "text",
           "disabled": true,
@@ -442,6 +465,7 @@
       },
       "block_order": [
         "heading_kNcD7B",
+        "text_Tkdc3D",
         "text_NCkEx4",
         "button_fRWqe4"
       ],
@@ -477,6 +501,13 @@
     "image_with_text_jXKQhC": {
       "type": "image-with-text",
       "blocks": {
+        "text_QXTL6H": {
+          "type": "text",
+          "settings": {
+            "text": "<p>ALPEN・SPORTS DEPO : 3月上-店頭販売開始<br/>Perfume 監修カラー・モーヴピンクシリーズ<br/>【Reebok | Perfume】PEAK PERFOMANCE STUDIO WRAP TEES<br/>【Reebok | Perfume】PEAK PERFOMANCE STUDIO CROSS TEE<br/>【Reebok | Perfume】PEAK PERFOMANCE STUDIO VENT TANK<br/></p>",
+            "large_text": false
+          }
+        },
         "text_yReieB": {
           "type": "text",
           "settings": {
@@ -486,6 +517,7 @@
         }
       },
       "block_order": [
+        "text_QXTL6H",
         "text_yReieB"
       ],
       "name": "Image with text",
@@ -517,6 +549,78 @@
         "divider_bottom_width": "container"
       }
     },
+    "image_with_text_WqhMzA": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_f6YdR8": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h2"
+          }
+        },
+        "text_ViUECt": {
+          "type": "text",
+          "settings": {
+            "text": "<p>ファッションセンターしまむら : 2月中-店頭販売開始<br/>【Reebok | Perfume】SWEAT ZIP HOODIE<br/>【Reebok | Perfume】SWEAT PANTS<br/>【Reebok | Perfume】KNAPSACK<br/>【Reebok | Perfume】SHOULDER BAG<br/>【Reebok | Perfume】CROSS BAG</p>",
+            "large_text": false
+          }
+        },
+        "text_7XKphW": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "large_text": false
+          }
+        },
+        "button_mbYFEU": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button text",
+            "button_link": "",
+            "button_type": "primary",
+            "show_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_f6YdR8",
+        "text_ViUECt",
+        "text_7XKphW",
+        "button_mbYFEU"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "section_width": "w-full",
+        "image": "shopify://shop_images/02_345_v02.jpg",
+        "media_size": "adapt",
+        "show_image_2": false,
+        "position_image_2": "middle-right",
+        "media_size_2": "adapt",
+        "desktop_image_width": "66",
+        "active_video": false,
+        "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "video_controls": true,
+        "layout": "left",
+        "column_gap": "0",
+        "vertical_alignment": "center",
+        "content_alignment": "start",
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "bg_column": "",
+        "padding_top": 16,
+        "padding_bottom": 16,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
     "image_with_text_Gz4GGg": {
       "type": "image-with-text",
       "blocks": {
@@ -530,7 +634,7 @@
         "text_KhA7dM": {
           "type": "text",
           "settings": {
-            "text": "<p>あ〜ちゃん・かしゆか・のっちからなる、3人組音楽ユニット。今年結成25周年、メジャーデビュー20周年。 ライブでのパフォーマンスは日本国内だけでなく世界中で注目を集めている。</p>",
+            "text": "<p>Perfume profile<br/>あ〜ちゃん・かしゆか・のっちからなる、3人組音楽ユニット。今年結成25周年、メジャーデビュー20周年。 ライブでのパフォーマンスは日本国内だけでなく世界中で注目を集めている。<br/>2026年からの「コールドスリープ」を発表。</p>",
             "large_text": false
           }
         },
@@ -768,6 +872,7 @@
     "image_with_text_EVGfVK",
     "image_with_text_DULmya",
     "image_with_text_jXKQhC",
+    "image_with_text_WqhMzA",
     "image_with_text_Gz4GGg",
     "rich_text_BJ87Qe",
     "rich_text_ifUGma",
