@@ -328,7 +328,7 @@
       "name": "Image with text",
       "settings": {
         "section_width": "w-full",
-        "image": "shopify://shop_images/25AW_1.jpg",
+        "image": "shopify://shop_images/1_26S_FASTBREAK.jpg",
         "media_size": "adapt",
         "show_image_2": false,
         "position_image_2": "middle-center",
@@ -400,7 +400,7 @@
       "name": "Image with text",
       "settings": {
         "section_width": "w-full",
-        "image": "shopify://shop_images/25AW_2.jpg",
+        "image": "shopify://shop_images/2_26S_SHIPS.jpg",
         "media_size": "adapt",
         "show_image_2": false,
         "position_image_2": "middle-right",
@@ -472,7 +472,7 @@
       "name": "Image with text",
       "settings": {
         "section_width": "w-full",
-        "image": "shopify://shop_images/02_345_v02.jpg",
+        "image": "shopify://shop_images/3_26S_ALPEN1.jpg",
         "media_size": "adapt",
         "show_image_2": false,
         "position_image_2": "middle-right",
@@ -501,6 +501,13 @@
     "image_with_text_jXKQhC": {
       "type": "image-with-text",
       "blocks": {
+        "heading_83w3dM": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h2"
+          }
+        },
         "text_QXTL6H": {
           "type": "text",
           "settings": {
@@ -517,13 +524,14 @@
         }
       },
       "block_order": [
+        "heading_83w3dM",
         "text_QXTL6H",
         "text_yReieB"
       ],
       "name": "Image with text",
       "settings": {
         "section_width": "w-full",
-        "image": "shopify://shop_images/25AW_3.jpg",
+        "image": "shopify://shop_images/4_26S_ALPEN2.jpg",
         "media_size": "adapt",
         "show_image_2": false,
         "position_image_2": "middle-right",
@@ -549,86 +557,14 @@
         "divider_bottom_width": "container"
       }
     },
-    "image_with_text_WqhMzA": {
+    "image_with_text_Gz4GGg": {
       "type": "image-with-text",
       "blocks": {
-        "heading_f6YdR8": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h2"
-          }
-        },
-        "text_ViUECt": {
+        "text_LKJTwq": {
           "type": "text",
           "settings": {
             "text": "<p>ファッションセンターしまむら : 2月中-店頭販売開始<br/>【Reebok | Perfume】SWEAT ZIP HOODIE<br/>【Reebok | Perfume】SWEAT PANTS<br/>【Reebok | Perfume】KNAPSACK<br/>【Reebok | Perfume】SHOULDER BAG<br/>【Reebok | Perfume】CROSS BAG</p>",
             "large_text": false
-          }
-        },
-        "text_7XKphW": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "large_text": false
-          }
-        },
-        "button_mbYFEU": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button text",
-            "button_link": "",
-            "button_type": "primary",
-            "show_icon": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_f6YdR8",
-        "text_ViUECt",
-        "text_7XKphW",
-        "button_mbYFEU"
-      ],
-      "name": "Image with text",
-      "settings": {
-        "section_width": "w-full",
-        "image": "shopify://shop_images/02_345_v02.jpg",
-        "media_size": "adapt",
-        "show_image_2": false,
-        "position_image_2": "middle-right",
-        "media_size_2": "adapt",
-        "desktop_image_width": "66",
-        "active_video": false,
-        "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "video_autoplay": true,
-        "video_controls": true,
-        "layout": "left",
-        "column_gap": "0",
-        "vertical_alignment": "center",
-        "content_alignment": "start",
-        "bg_color": "",
-        "text_color": "",
-        "border_color": "",
-        "bg_column": "",
-        "padding_top": 16,
-        "padding_bottom": 16,
-        "show_top_divider": false,
-        "divider_top_width": "container",
-        "show_bottom_divider": false,
-        "divider_bottom_width": "container"
-      }
-    },
-    "image_with_text_Gz4GGg": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_46JD3r": {
-          "type": "heading",
-          "settings": {
-            "heading": "Perfume profile",
-            "heading_size": "h6"
           }
         },
         "text_KhA7dM": {
@@ -650,14 +586,14 @@
         }
       },
       "block_order": [
-        "heading_46JD3r",
+        "text_LKJTwq",
         "text_KhA7dM",
         "button_GMUjr3"
       ],
       "name": "Image with text",
       "settings": {
         "section_width": "w-full",
-        "image": "shopify://shop_images/25AW_4.jpg",
+        "image": "shopify://shop_images/5_26S_SHIMAMURA.jpg",
         "media_size": "adapt",
         "show_image_2": false,
         "position_image_2": "middle-right",
@@ -872,7 +808,6 @@
     "image_with_text_EVGfVK",
     "image_with_text_DULmya",
     "image_with_text_jXKQhC",
-    "image_with_text_WqhMzA",
     "image_with_text_Gz4GGg",
     "rich_text_BJ87Qe",
     "rich_text_ifUGma",
