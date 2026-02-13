@@ -42,7 +42,7 @@
             "slide_heading_hEHBEG": {
               "type": "_slide_heading",
               "settings": {
-                "heading": "2nd Apparel collections",
+                "heading": "3rd Apparel Collection",
                 "highlighted_word_type": "multiple_lines",
                 "heading_size": "h4",
                 "color_text_highlighted": "#00ffde"
@@ -50,6 +50,60 @@
               "blocks": {}
             },
             "slide_button_qWdePM": {
+              "type": "_slide_button",
+              "settings": {
+                "button_text": "Shop now",
+                "button_link": "shopify://collections/reebok-perfume-3rd-apparel-collections",
+                "button_type": "primary",
+                "show_icon": false
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "slide_heading_9kL4D8",
+            "slide_heading_hEHBEG",
+            "slide_button_qWdePM"
+          ]
+        },
+        "slide_wRGjjn": {
+          "type": "_slide",
+          "settings": {
+            "image": "shopify://shop_images/25AW_1.jpg",
+            "mobile_image": "shopify://shop_images/Perfume_25aw_01_sp_8e3a2408-a090-4175-adde-ab8b3f983340.jpg",
+            "slide_link": "shopify://collections/reebok-perfume-apparel-collections-2025fw",
+            "video_background": false,
+            "content_width": 560,
+            "content_position": "bottom-left",
+            "mobile_content_position": "bottom-center",
+            "content_space": 2,
+            "color_text": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 15,
+            "overlay_gradient": "linear-gradient(0deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.35) 100%)"
+          },
+          "blocks": {
+            "slide_heading_T9DYdt": {
+              "type": "_slide_heading",
+              "settings": {
+                "heading": "Reebok | Perfume",
+                "highlighted_word_type": "multiple_lines",
+                "heading_size": "h4",
+                "color_text_highlighted": "#00ffde"
+              },
+              "blocks": {}
+            },
+            "slide_heading_TLiMif": {
+              "type": "_slide_heading",
+              "settings": {
+                "heading": "2nd Apparel collections",
+                "highlighted_word_type": "multiple_lines",
+                "heading_size": "h4",
+                "color_text_highlighted": "#00ffde"
+              },
+              "blocks": {}
+            },
+            "slide_button_DHMkH6": {
               "type": "_slide_button",
               "settings": {
                 "button_text": "Shop now",
@@ -61,9 +115,63 @@
             }
           },
           "block_order": [
-            "slide_heading_9kL4D8",
-            "slide_heading_hEHBEG",
-            "slide_button_qWdePM"
+            "slide_heading_T9DYdt",
+            "slide_heading_TLiMif",
+            "slide_button_DHMkH6"
+          ]
+        },
+        "slide_4GcECC": {
+          "type": "_slide",
+          "settings": {
+            "image": "shopify://shop_images/241103_Perfume2389_2395.jpg",
+            "mobile_image": "shopify://shop_images/241103_Perfume2389_2395.jpg",
+            "slide_link": "shopify://collections/reebok-perfume-apparel-collections-2025fw",
+            "video_background": false,
+            "content_width": 560,
+            "content_position": "bottom-left",
+            "mobile_content_position": "bottom-center",
+            "content_space": 2,
+            "color_text": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 15,
+            "overlay_gradient": "linear-gradient(0deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.35) 100%)"
+          },
+          "blocks": {
+            "slide_heading_TffkcX": {
+              "type": "_slide_heading",
+              "settings": {
+                "heading": "Reebok | Perfume",
+                "highlighted_word_type": "multiple_lines",
+                "heading_size": "h4",
+                "color_text_highlighted": "#00ffde"
+              },
+              "blocks": {}
+            },
+            "slide_heading_reVUV3": {
+              "type": "_slide_heading",
+              "settings": {
+                "heading": "2nd Apparel collections",
+                "highlighted_word_type": "multiple_lines",
+                "heading_size": "h4",
+                "color_text_highlighted": "#00ffde"
+              },
+              "blocks": {}
+            },
+            "slide_button_jChC3r": {
+              "type": "_slide_button",
+              "settings": {
+                "button_text": "Shop now",
+                "button_link": "shopify://collections/reebok-perfume-apparel-collections-2025fw",
+                "button_type": "primary",
+                "show_icon": false
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "slide_heading_TffkcX",
+            "slide_heading_reVUV3",
+            "slide_button_jChC3r"
           ]
         },
         "slide_nnHNTm": {
@@ -392,6 +500,8 @@
       },
       "block_order": [
         "slide_8nh3a9",
+        "slide_wRGjjn",
+        "slide_4GcECC",
         "slide_nnHNTm",
         "slide_NC8Uij",
         "slide_pcEmtH",
