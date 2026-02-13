@@ -242,6 +242,13 @@
             "heading_size": "h6"
           }
         },
+        "heading_CPN8Ui": {
+          "type": "heading",
+          "settings": {
+            "heading": "1st Edition",
+            "heading_size": "h6"
+          }
+        },
         "separator_KwbRJ6": {
           "type": "separator",
           "settings": {
@@ -258,10 +265,19 @@
             "max_height": 8
           }
         },
-        "text_WpkfrJ": {
+        "text_4dgmgT": {
           "type": "text",
           "settings": {
             "text": "<p>Perfumeが魅せる、Reebokの最新スタイル。<br/></p>",
+            "large_text": false,
+            "show_more_toggle": false,
+            "max_height": 8
+          }
+        },
+        "text_EiBfPE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>※2nd Editionは3月中旬を予定しています</p>",
             "large_text": false,
             "show_more_toggle": false,
             "max_height": 8
@@ -272,9 +288,11 @@
         "heading_6Ck3g3",
         "separator_T6pNpq",
         "heading_4MVRx8",
+        "heading_CPN8Ui",
         "separator_KwbRJ6",
         "text_y9wfYe",
-        "text_WpkfrJ"
+        "text_4dgmgT",
+        "text_EiBfPE"
       ],
       "name": "Rich text",
       "settings": {
