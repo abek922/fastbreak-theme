@@ -242,13 +242,6 @@
             "heading_size": "h6"
           }
         },
-        "heading_CPN8Ui": {
-          "type": "heading",
-          "settings": {
-            "heading": "1st Edition",
-            "heading_size": "h6"
-          }
-        },
         "separator_KwbRJ6": {
           "type": "separator",
           "settings": {
@@ -274,10 +267,17 @@
             "max_height": 8
           }
         },
+        "heading_CPN8Ui": {
+          "type": "heading",
+          "settings": {
+            "heading": "第一弾",
+            "heading_size": "h6"
+          }
+        },
         "text_EiBfPE": {
           "type": "text",
           "settings": {
-            "text": "<p>※2nd Editionは3月中旬を予定しています</p>",
+            "text": "<p>※第二弾　3月中旬配信予定</p>",
             "large_text": false,
             "show_more_toggle": false,
             "max_height": 8
@@ -288,10 +288,10 @@
         "heading_6Ck3g3",
         "separator_T6pNpq",
         "heading_4MVRx8",
-        "heading_CPN8Ui",
         "separator_KwbRJ6",
         "text_y9wfYe",
         "text_4dgmgT",
+        "heading_CPN8Ui",
         "text_EiBfPE"
       ],
       "name": "Rich text",
@@ -386,7 +386,7 @@
         "text_RmVTEP": {
           "type": "text",
           "settings": {
-            "text": "<p>SHIPS : 2/中-先行予約開始<br/>City Ambient Producto別注シリーズ<br/>【Reebok | Perfume】TWILL ZIP JACKET<br/>【Reebok | Perfume】WIND CHINO PANTS<br/>【Reebok | Perfume】CLASSIC LOGO T-SHIRT</p>",
+            "text": "<p>SHIPS : 2/20-先行予約開始<br/>City Ambient Producto別注シリーズ<br/>【Reebok | Perfume】TWILL ZIP JACKET<br/>【Reebok | Perfume】WIND CHINO PANTS<br/>【Reebok | Perfume】CLASSIC LOGO T-SHIRT</p>",
             "large_text": false
           }
         },
@@ -583,7 +583,7 @@
         "text_LKJTwq": {
           "type": "text",
           "settings": {
-            "text": "<p>ファッションセンターしまむら : 2月中-店頭販売開始<br/>【Reebok | Perfume】SWEAT ZIP HOODIE<br/>【Reebok | Perfume】SWEAT PANTS<br/>【Reebok | Perfume】KNAPSACK<br/>【Reebok | Perfume】SHOULDER BAG<br/>【Reebok | Perfume】CROSS BAG</p>",
+            "text": "<p>ファッションセンターしまむら : 2月中-店頭販売開始<br/>※3/上FASTBREAK.でも販売予定【Reebok | Perfume】SWEAT ZIP HOODIE【Reebok | Perfume】SWEAT PANTS【Reebok | Perfume】KNAPSACK【Reebok | Perfume】SHOULDER BAG【Reebok | Perfume】CROSS BAG</p>",
             "large_text": false
           }
         },
