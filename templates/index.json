@@ -125,7 +125,7 @@
           "settings": {
             "image": "shopify://shop_images/241103_Perfume2389_2395.jpg",
             "mobile_image": "shopify://shop_images/241103_Perfume2389_2395.jpg",
-            "slide_link": "shopify://collections/reebok-perfume-apparel-collections-2025fw",
+            "slide_link": "shopify://collections/reebok-perfume-apparel-collections-2025ss",
             "video_background": false,
             "content_width": 560,
             "content_position": "bottom-left",
@@ -150,7 +150,7 @@
             "slide_heading_reVUV3": {
               "type": "_slide_heading",
               "settings": {
-                "heading": "2nd Apparel collections",
+                "heading": "1st Apparel collections",
                 "highlighted_word_type": "multiple_lines",
                 "heading_size": "h4",
                 "color_text_highlighted": "#00ffde"
