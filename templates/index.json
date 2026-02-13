@@ -354,6 +354,7 @@
         "slide_aExywe": {
           "type": "_slide",
           "name": "Slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/TOMOYA.jpg",
             "mobile_image": "shopify://shop_images/tomoya_sp.jpg",
