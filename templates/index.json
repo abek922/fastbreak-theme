@@ -539,6 +539,15 @@
             "url": ""
           }
         },
+        "featured_collection_BtRFet": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "reebok-perfume-3rd-apparel-collections",
+            "image": "shopify://shop_images/2_Perfume_BOX.jpg",
+            "title": "Reebok | Perfume",
+            "url": "shopify://collections/reebok-perfume-3rd-apparel-collections"
+          }
+        },
         "featured_collection_8LgwgG": {
           "type": "featured_collection",
           "disabled": true,
@@ -581,6 +590,7 @@
       },
       "block_order": [
         "featured_collection_bhW4NC",
+        "featured_collection_BtRFet",
         "featured_collection_8LgwgG",
         "featured_collection_FbBAGf",
         "featured_collection_iLW78E",
