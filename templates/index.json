@@ -180,7 +180,7 @@
           "settings": {
             "image": "shopify://shop_images/KADOKAWA-DREAMS_17de9b96-fe3b-4d40-8e93-3363c8a2dd89.jpg",
             "mobile_image": "shopify://shop_images/kadokawa_sp.png",
-            "slide_link": "shopify://collections/kadokawa-dreams",
+            "slide_link": "",
             "video_background": false,
             "content_width": 500,
             "content_position": "bottom-left",
