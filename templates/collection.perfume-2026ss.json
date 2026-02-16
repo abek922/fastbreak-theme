@@ -270,14 +270,14 @@
         "heading_CPN8Ui": {
           "type": "heading",
           "settings": {
-            "heading": "第一弾",
+            "heading": "第1弾",
             "heading_size": "h6"
           }
         },
         "text_EiBfPE": {
           "type": "text",
           "settings": {
-            "text": "<p>※第二弾　3月中旬配信予定</p>",
+            "text": "<p>※第2弾　3月中旬配信予定</p>",
             "large_text": false,
             "show_more_toggle": false,
             "max_height": 8
