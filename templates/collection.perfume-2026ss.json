@@ -261,7 +261,7 @@
         "text_4dgmgT": {
           "type": "text",
           "settings": {
-            "text": "<p>Perfumeが魅せる、Reebokの最新スタイル。<br/></p>",
+            "text": "<p>Perfumeが魅せる、Reebokの最新スタイル</p><p><br/></p>",
             "large_text": false,
             "show_more_toggle": false,
             "max_height": 8
