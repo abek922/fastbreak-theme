@@ -372,6 +372,65 @@
         "divider_bottom_width": "container"
       }
     },
+    "image_with_text_jXKQhC": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_83w3dM": {
+          "type": "heading",
+          "settings": {
+            "heading": "　　",
+            "heading_size": "h2"
+          }
+        },
+        "text_QXTL6H": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Alpen・SPORTS DEPO : 店頭販売開始Perfume 監修カラー・モーヴピンクシリーズ<br/>取り扱い店舗：Alpen TOKYO NAGOYA FUKUOKA など全国主要SPORTS DEPO取り扱い。詳細はAlpenにお問い合わせください。<br/>【Reebok | Perfume】PEAK PERFOMANCE STUDIO WRAP TEES【Reebok | Perfume】PEAK PERFOMANCE STUDIO CROSS TEE【Reebok | Perfume】PEAK PERFOMANCE STUDIO VENT TANK</p>",
+            "large_text": false
+          }
+        },
+        "text_yReieB": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "large_text": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_83w3dM",
+        "text_QXTL6H",
+        "text_yReieB"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "section_width": "w-full",
+        "image": "shopify://shop_images/4_26S_ALPEN2.jpg",
+        "media_size": "adapt",
+        "show_image_2": false,
+        "position_image_2": "middle-right",
+        "media_size_2": "adapt",
+        "desktop_image_width": "66",
+        "active_video": false,
+        "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "video_controls": true,
+        "layout": "right",
+        "column_gap": "0",
+        "vertical_alignment": "start",
+        "content_alignment": "start",
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "bg_column": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_top_divider": false,
+        "divider_top_width": "container",
+        "show_bottom_divider": false,
+        "divider_bottom_width": "container"
+      }
+    },
     "image_with_text_DULmya": {
       "type": "image-with-text",
       "blocks": {
@@ -386,7 +445,7 @@
         "text_Tkdc3D": {
           "type": "text",
           "settings": {
-            "text": "<p>ALPEN・SPORTS DEPO : 3月上-店頭販売開始<br/>Perfume 監修カラー・モーヴピンクシリーズ<br/>【Reebok | Perfume】PEAK PERFOMANCE WIND WOMEN JACKET<br/>【Reebok | Perfume】PEAK PERFOMANCE WIND WOMEN PANTS<br/>【Reebok | Perfume】PEAK PERFOMANCE WIND WOMEN SHORT PANT<br/></p>",
+            "text": "<p>ALPEN・SPORTS DEPO : 店頭販売開始<br/>Perfume 監修カラー・モーヴピンクシリーズ取り扱い店舗：Alpen TOKYO NAGOYA FUKUOKA など全国主要SPORTS DEPO取り扱い。詳細はAlpenにお問い合わせください。<br/>【Reebok | Perfume】PEAK PERFOMANCE WIND WOMEN JACKET<br/>【Reebok | Perfume】PEAK PERFOMANCE WIND WOMEN PANTS<br/>【Reebok | Perfume】PEAK PERFOMANCE WIND WOMEN SHORT PANT<br/></p>",
             "large_text": false
           }
         },
@@ -415,7 +474,6 @@
         "text_NCkEx4",
         "button_fRWqe4"
       ],
-      "disabled": true,
       "name": "Image with text",
       "settings": {
         "section_width": "w-full",
@@ -439,66 +497,6 @@
         "bg_column": "",
         "padding_top": 16,
         "padding_bottom": 16,
-        "show_top_divider": false,
-        "divider_top_width": "container",
-        "show_bottom_divider": false,
-        "divider_bottom_width": "container"
-      }
-    },
-    "image_with_text_jXKQhC": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_83w3dM": {
-          "type": "heading",
-          "settings": {
-            "heading": "　　",
-            "heading_size": "h2"
-          }
-        },
-        "text_QXTL6H": {
-          "type": "text",
-          "settings": {
-            "text": "<p>ALPEN・SPORTS DEPO : 3月上-店頭販売開始<br/>Perfume 監修カラー・モーヴピンクシリーズ<br/>【Reebok | Perfume】PEAK PERFOMANCE STUDIO WRAP TEES<br/>【Reebok | Perfume】PEAK PERFOMANCE STUDIO CROSS TEE<br/>【Reebok | Perfume】PEAK PERFOMANCE STUDIO VENT TANK<br/></p>",
-            "large_text": false
-          }
-        },
-        "text_yReieB": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "large_text": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_83w3dM",
-        "text_QXTL6H",
-        "text_yReieB"
-      ],
-      "disabled": true,
-      "name": "Image with text",
-      "settings": {
-        "section_width": "w-full",
-        "image": "shopify://shop_images/4_26S_ALPEN2.jpg",
-        "media_size": "adapt",
-        "show_image_2": false,
-        "position_image_2": "middle-right",
-        "media_size_2": "adapt",
-        "desktop_image_width": "66",
-        "active_video": false,
-        "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "video_autoplay": true,
-        "video_controls": true,
-        "layout": "right",
-        "column_gap": "0",
-        "vertical_alignment": "start",
-        "content_alignment": "start",
-        "bg_color": "",
-        "text_color": "",
-        "border_color": "",
-        "bg_column": "",
-        "padding_top": 0,
-        "padding_bottom": 0,
         "show_top_divider": false,
         "divider_top_width": "container",
         "show_bottom_divider": false,
@@ -691,8 +689,8 @@
     "rich_text_zWmR4V",
     "rich_text_y6yydb",
     "image_with_text_gQntJ3",
-    "image_with_text_DULmya",
     "image_with_text_jXKQhC",
+    "image_with_text_DULmya",
     "rich_text_BJ87Qe",
     "rich_text_ifUGma",
     "scrolling_content_egM97e",
