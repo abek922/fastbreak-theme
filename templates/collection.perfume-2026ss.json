@@ -310,46 +310,55 @@
         "divider_bottom_width": "container"
       }
     },
-    "image_with_text_gQntJ3": {
+    "image_with_text_DULmya": {
       "type": "image-with-text",
       "blocks": {
-        "heading_VVUUyK": {
+        "heading_kNcD7B": {
           "type": "heading",
           "settings": {
-            "heading": "Reebok | Perfume",
-            "heading_size": "h6"
+            "heading": "Image with text",
+            "heading_size": "h2"
           }
         },
-        "text_PaMzA4": {
+        "text_Tkdc3D": {
           "type": "text",
           "settings": {
-            "text": "<p>Reebokジャパンアパレルは、Perfumeをアンバサダーに迎え、ブランドのビジョンをさらに前進させます。<br/>“Life Is Not a Spectator Sport. ”をキーワードに、リーボックジャパンアパレルはスポーツウェアの枠を超えて進化。<br/>デザイン性に富んだフォルムと機能美を兼ね備えたコレクションは、動きやすさと美しさを両立し、現代にふさわしい新しいスタイルを提案します。<br/>ファッションとしての存在感と、スポーツがもたらすテクノロジーが交差する、Reebok | Perfume　ジャパンアパレルインラインコレクション。</p><p>Perfume profile<br/>あ〜ちゃん・かしゆか・のっちからなる、3人組音楽ユニット。1999年結成、2005年メジャーデビュー。 ライブでのパフォーマンスは日本国内だけでなく世界中で注目を集めている。<br/>昨年9月21日には2026年からの「コールドスリープ」を発表。</p>",
+            "text": "<p>ALPEN・SPORTS DEPO : 店頭販売開始<br/>Perfume 監修カラー・モーヴピンクシリーズ取り扱い店舗：Alpen TOKYO NAGOYA FUKUOKA など全国主要SPORTS DEPO取り扱い。詳細はAlpenにお問い合わせください。<br/>【Reebok | Perfume】PEAK PERFOMANCE WIND WOMEN JACKET<br/>【Reebok | Perfume】PEAK PERFOMANCE WIND WOMEN PANTS<br/>【Reebok | Perfume】PEAK PERFOMANCE WIND WOMEN SHORT PANT<br/></p>",
             "large_text": false
           }
         },
-        "text_mfrNym": {
+        "text_NCkEx4": {
           "type": "text",
           "settings": {
-            "text": "<p>FASTBREK : 2月20日20時-先行予約開始<br/>新作HYPER TECH シリーズ<br/>【Reebok | Perfume】HYPER TECH TRACK VECTOR WIND JACKET<br/>【Reebok | Perfume】HYPER TECH  TRACK WIND  PANTS <br/>【Reebok | Perfume】HYPER TECH  TRACK WIND SHORT  PANTS<br/>【Reebok | Perfume】HYPER TECH TRACK VECTOR SHORT WIND JACKET<br/>【Reebok | Perfume】HYPER TECH  TRACK WIND  W-PANTS<br/>【Reebok | Perfume】HYPER TECH  TRACK COLLEGE LOGO TEE<br/>【Reebok | Perfume】HYPER TECH  TRACK CLASSIC LOGO TEE <br/></p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "large_text": false
+          }
+        },
+        "button_fRWqe4": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button text",
+            "button_link": "",
+            "button_type": "primary",
+            "show_icon": false
           }
         }
       },
       "block_order": [
-        "heading_VVUUyK",
-        "text_PaMzA4",
-        "text_mfrNym"
+        "heading_kNcD7B",
+        "text_Tkdc3D",
+        "text_NCkEx4",
+        "button_fRWqe4"
       ],
-      "custom_css": [
-        "img {width: 100vw;}"
-      ],
+      "disabled": true,
       "name": "Image with text",
       "settings": {
         "section_width": "w-full",
-        "image": "shopify://shop_images/1_26S_FASTBREAK.jpg",
+        "image": "shopify://shop_images/3_26S_ALPEN1.jpg",
         "media_size": "adapt",
         "show_image_2": false,
-        "position_image_2": "middle-center",
+        "position_image_2": "middle-right",
         "media_size_2": "adapt",
         "desktop_image_width": "66",
         "active_video": false,
@@ -358,14 +367,14 @@
         "video_controls": true,
         "layout": "left",
         "column_gap": "0",
-        "vertical_alignment": "start",
+        "vertical_alignment": "center",
         "content_alignment": "start",
         "bg_color": "",
         "text_color": "",
         "border_color": "",
         "bg_column": "",
-        "padding_top": 32,
-        "padding_bottom": 0,
+        "padding_top": 16,
+        "padding_bottom": 16,
         "show_top_divider": false,
         "divider_top_width": "container",
         "show_bottom_divider": false,
@@ -432,55 +441,46 @@
         "divider_bottom_width": "container"
       }
     },
-    "image_with_text_DULmya": {
+    "image_with_text_gQntJ3": {
       "type": "image-with-text",
       "blocks": {
-        "heading_kNcD7B": {
+        "heading_VVUUyK": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
-            "heading_size": "h2"
+            "heading": "Reebok | Perfume",
+            "heading_size": "h6"
           }
         },
-        "text_Tkdc3D": {
+        "text_PaMzA4": {
           "type": "text",
           "settings": {
-            "text": "<p>ALPEN・SPORTS DEPO : 店頭販売開始<br/>Perfume 監修カラー・モーヴピンクシリーズ取り扱い店舗：Alpen TOKYO NAGOYA FUKUOKA など全国主要SPORTS DEPO取り扱い。詳細はAlpenにお問い合わせください。<br/>【Reebok | Perfume】PEAK PERFOMANCE WIND WOMEN JACKET<br/>【Reebok | Perfume】PEAK PERFOMANCE WIND WOMEN PANTS<br/>【Reebok | Perfume】PEAK PERFOMANCE WIND WOMEN SHORT PANT<br/></p>",
+            "text": "<p>Reebokジャパンアパレルは、Perfumeをアンバサダーに迎え、ブランドのビジョンをさらに前進させます。<br/>“Life Is Not a Spectator Sport. ”をキーワードに、リーボックジャパンアパレルはスポーツウェアの枠を超えて進化。<br/>デザイン性に富んだフォルムと機能美を兼ね備えたコレクションは、動きやすさと美しさを両立し、現代にふさわしい新しいスタイルを提案します。<br/>ファッションとしての存在感と、スポーツがもたらすテクノロジーが交差する、Reebok | Perfume　ジャパンアパレルインラインコレクション。</p><p>Perfume profile<br/>あ〜ちゃん・かしゆか・のっちからなる、3人組音楽ユニット。1999年結成、2005年メジャーデビュー。 ライブでのパフォーマンスは日本国内だけでなく世界中で注目を集めている。<br/>昨年9月21日には2026年からの「コールドスリープ」を発表。</p>",
             "large_text": false
           }
         },
-        "text_NCkEx4": {
+        "text_mfrNym": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>FASTBREK : 2月20日20時-先行予約開始<br/>新作HYPER TECH シリーズ<br/>【Reebok | Perfume】HYPER TECH TRACK VECTOR WIND JACKET<br/>【Reebok | Perfume】HYPER TECH  TRACK WIND  PANTS <br/>【Reebok | Perfume】HYPER TECH  TRACK WIND SHORT  PANTS<br/>【Reebok | Perfume】HYPER TECH TRACK VECTOR SHORT WIND JACKET<br/>【Reebok | Perfume】HYPER TECH  TRACK WIND  W-PANTS<br/>【Reebok | Perfume】HYPER TECH  TRACK COLLEGE LOGO TEE<br/>【Reebok | Perfume】HYPER TECH  TRACK CLASSIC LOGO TEE <br/></p>",
             "large_text": false
-          }
-        },
-        "button_fRWqe4": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button text",
-            "button_link": "",
-            "button_type": "primary",
-            "show_icon": false
           }
         }
       },
       "block_order": [
-        "heading_kNcD7B",
-        "text_Tkdc3D",
-        "text_NCkEx4",
-        "button_fRWqe4"
+        "heading_VVUUyK",
+        "text_PaMzA4",
+        "text_mfrNym"
       ],
-      "disabled": true,
+      "custom_css": [
+        "img {width: 100vw;}"
+      ],
       "name": "Image with text",
       "settings": {
         "section_width": "w-full",
-        "image": "shopify://shop_images/3_26S_ALPEN1.jpg",
+        "image": "shopify://shop_images/1_26S_FASTBREAK.jpg",
         "media_size": "adapt",
         "show_image_2": false,
-        "position_image_2": "middle-right",
+        "position_image_2": "middle-center",
         "media_size_2": "adapt",
         "desktop_image_width": "66",
         "active_video": false,
@@ -489,14 +489,14 @@
         "video_controls": true,
         "layout": "left",
         "column_gap": "0",
-        "vertical_alignment": "center",
+        "vertical_alignment": "start",
         "content_alignment": "start",
         "bg_color": "",
         "text_color": "",
         "border_color": "",
         "bg_column": "",
-        "padding_top": 16,
-        "padding_bottom": 16,
+        "padding_top": 32,
+        "padding_bottom": 0,
         "show_top_divider": false,
         "divider_top_width": "container",
         "show_bottom_divider": false,
@@ -688,9 +688,9 @@
     "countdown_bar_adBNTe",
     "rich_text_zWmR4V",
     "rich_text_y6yydb",
-    "image_with_text_gQntJ3",
-    "image_with_text_jXKQhC",
     "image_with_text_DULmya",
+    "image_with_text_jXKQhC",
+    "image_with_text_gQntJ3",
     "rich_text_BJ87Qe",
     "rich_text_ifUGma",
     "scrolling_content_egM97e",
