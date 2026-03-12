@@ -323,7 +323,7 @@
         "text_Tkdc3D": {
           "type": "text",
           "settings": {
-            "text": "<p>ALPEN・SPORTS DEPO : 店頭販売開始<br/>PEAK PERFOMANCE WINDシリーズPerfumeセレクトカラー【モーヴピンク】　　取り扱い店舗：Alpen TOKYO NAGOYA FUKUOKA など全国主要SPORTS DEPO取り扱い。詳細はAlpenにお問い合わせください。<br/>【Reebok | Perfume】PEAK PERFOMANCE WIND WOMEN JACKET<br/>【Reebok | Perfume】PEAK PERFOMANCE WIND WOMEN PANTS<br/>【Reebok | Perfume】PEAK PERFOMANCE WIND WOMEN SHORT PANT<br/></p>",
+            "text": "<p>ALPEN・SPORTS DEPO : 店頭販売開始<br/>PEAK PERFOMANCE WINDシリーズPerfumeセレクトカラー【モーヴピンク】　　　　　　取り扱い店舗：Alpen TOKYO NAGOYA FUKUOKA など全国主要SPORTS DEPO取り扱い。詳細はAlpenにお問い合わせください。<br/>【Reebok | Perfume】PEAK PERFOMANCE WIND WOMEN JACKET<br/>【Reebok | Perfume】PEAK PERFOMANCE WIND WOMEN PANTS<br/>【Reebok | Perfume】PEAK PERFOMANCE WIND WOMEN SHORT PANT<br/></p>",
             "large_text": false
           }
         },
@@ -351,7 +351,6 @@
         "text_NCkEx4",
         "button_fRWqe4"
       ],
-      "disabled": true,
       "name": "Image with text",
       "settings": {
         "section_width": "w-full",
@@ -411,7 +410,6 @@
         "text_QXTL6H",
         "text_yReieB"
       ],
-      "disabled": true,
       "name": "Image with text",
       "settings": {
         "section_width": "w-full",
