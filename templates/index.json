@@ -17,7 +17,7 @@
           "settings": {
             "image": "shopify://shop_images/1_26S_FASTBREAK.jpg",
             "mobile_image": "shopify://shop_images/26SS_mo1_9e122916-6424-4d1a-a2c3-3b5a43324d64.jpg",
-            "slide_link": "shopify://collections/reebok-perfume-3rd-apparel-collections",
+            "slide_link": "shopify://collections/reebok-perfume-2026-spring-summer-collections",
             "video_background": false,
             "content_width": 560,
             "content_position": "bottom-left",
@@ -53,7 +53,7 @@
               "type": "_slide_button",
               "settings": {
                 "button_text": "Shop now",
-                "button_link": "shopify://collections/reebok-perfume-3rd-apparel-collections",
+                "button_link": "shopify://collections/reebok-perfume-2026-spring-summer-collections",
                 "button_type": "primary",
                 "show_icon": false
               },
@@ -543,10 +543,10 @@
         "featured_collection_BtRFet": {
           "type": "featured_collection",
           "settings": {
-            "collection": "reebok-perfume-3rd-apparel-collections",
+            "collection": "reebok-perfume-2026-spring-summer-collections",
             "image": "shopify://shop_images/2_Perfume_BOX.jpg",
             "title": "Reebok | Perfume",
-            "url": "shopify://collections/reebok-perfume-3rd-apparel-collections"
+            "url": "shopify://collections/reebok-perfume-2026-spring-summer-collections"
           }
         },
         "featured_collection_8LgwgG": {
