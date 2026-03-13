@@ -410,6 +410,7 @@
         "text_QXTL6H",
         "text_yReieB"
       ],
+      "disabled": true,
       "name": "Image with text",
       "settings": {
         "section_width": "w-full",
@@ -469,6 +470,7 @@
         "text_PaMzA4",
         "text_mfrNym"
       ],
+      "disabled": true,
       "custom_css": [
         "img {width: 100vw;}"
       ],
