@@ -411,6 +411,7 @@
         "text_QXTL6H",
         "text_yReieB"
       ],
+      "disabled": true,
       "name": "Image with text",
       "settings": {
         "section_width": "w-full",
